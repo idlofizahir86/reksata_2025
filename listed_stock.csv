@@ -1,0 +1,533 @@
+stock_id,name,sector ,sub_sector 
+AALI ,Astra Agro Lestari Tbk. ,Agriculture ,Plantation 
+ABBA ,Mahaka Media Tbk. ,"Trade, Services & Investment ","Advertising, Printing And Media "
+ABDA ,Asuransi Bina Dana Arta Tbk. ,Finance ,Insurance 
+ABMM ,ABM Investama Tbk. ,"Trade, Services & Investment ",Investment Company 
+ACES ,Ace Hardware Indonesia Tbk. ,"Trade, Services & Investment ",Retail Trade 
+ACST ,Acset Indonusa Tbk. ,"Property, Real Estate And Building Construction ",Building Construction 
+ADES ,Akasha Wira International Tbk. ,Consumer Goods Industry ,Food And Beverages 
+ADHI ,Adhi Karya (Persero) Tbk. ,"Property, Real Estate And Building Construction ",Building Construction 
+ADMF ,Adira Dinamika Multi Finance Tbk. ,Finance ,Financial Institution 
+ADMG ,Polychem Indonesia Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+ADRO ,Adaro Energy Tbk. ,Mining ,Coal Mining 
+AGII ,PT Aneka Gas Industri ,Mining ,Crude Petroleum & Natural Gas Production 
+AGRO ,Bank Rakyat Indonesia Agroniaga Tbk. ,Finance ,Bank 
+AHAP ,Asuransi Harta Aman Pratama Tbk. ,Finance ,Insurance 
+AIMS ,Akbar Indo Makmur Stimec Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+AIRJ ,PT Aetra Air Jakarta ,"Infrastructure, Utilities & Transportation ",Others 
+AISA ,Tiga Pilar Sejahtera Food Tbk. ,Consumer Goods Industry ,Food And Beverages 
+AKKU ,Alam Karya Unggul Tbk. ,Basic Industry and Chemicals ,Plastics & Packaging 
+AKPI ,Argha Karya Prima Industry Tbk. ,Basic Industry and Chemicals ,Plastics & Packaging 
+AKRA ,AKR Corporindo Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+AKSI ,Majapahit Securities Tbk. ,Finance ,Securities Company 
+ALDO ,Alkindo Naratama Tbk ,Basic Industry and Chemicals ,Pulp & Paper 
+ALKA ,Alakasa Industrindo Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+ALMI ,Alumindo Light Metal Industry Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+ALTO ,Tri Banyan Tirta Tbk. ,Consumer Goods Industry ,Food And Beverages 
+AMAG ,Asuransi Multi Artha Guna Tbk. ,Finance ,Insurance 
+AMFG ,Asahimas Flat Glass Tbk. ,Basic Industry and Chemicals ,"Ceramics, Glass, Porcelain "
+AMRT ,Sumber Alfaria Trijaya Tbk. ,"Trade, Services & Investment ",Retail Trade 
+ANJT ,Austindo Nusantara Jaya Tbk. ,Agriculture ,Plantation 
+ANTM ,Aneka Tambang (Persero) Tbk. ,Mining ,Metal And Mineral Mining 
+APEX ,Apexindo Pratama Duta Tbk. ,Mining ,Crude Petroleum & Natural Gas Production 
+APIC ,Pacific Strategic Financial Tbk. ,Finance ,Others 
+APII ,Arita Prima Indonesia Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+APLI ,Asiaplast Industries Tbk. ,Basic Industry and Chemicals ,Plastics & Packaging 
+APLN ,Agung Podomoro Land Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+APOL ,Arpeni Pratama Ocean Line Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+ARGO ,Argo Pantes Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+ARII ,Atlas Resources Tbk ,Mining ,Coal Mining 
+ARNA ,Arwana Citramulia Tbk. ,Basic Industry and Chemicals ,"Ceramics, Glass, Porcelain "
+ARTA ,Arthavest Tbk. ,Finance ,Others 
+ARTI ,Ratu Prabu Energi Tbk. ,Mining ,Crude Petroleum & Natural Gas Production 
+ASBI ,Asuransi Bintang Tbk. ,Finance ,Insurance 
+ASDF ,PT Astra Sedaya Finance ,Finance ,Financial Institution 
+ASDM ,Asuransi Dayin Mitra Tbk. ,Finance ,Insurance 
+ASGR ,Astra Graphia Tbk. ,"Trade, Services & Investment ",Computer And Services 
+ASIA ,Asia Natural Resources Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+ASII ,Astra International Tbk. ,Miscellaneous Industry ,Automotive And Components 
+ASJT ,Asuransi Jasa Tania Tbk. ,Finance ,Insurance 
+ASMI ,Asuransi Mitra Maparya Tbk. ,Finance ,Insurance 
+ASRI ,Alam Sutera Realty Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+ASRM ,Asuransi Ramayana Tbk. ,Finance ,Insurance 
+ASSA ,Adi Sarana Armada Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+ATPK ,ATPK Resources Tbk. ,Mining ,Coal Mining 
+AUTO ,Astra Otoparts Tbk. ,Miscellaneous Industry ,Automotive And Components 
+BABP ,Bank ICB Bumiputera Tbk. ,Finance ,Bank 
+BACA ,Bank Capital Indonesia Tbk. ,Finance ,Bank 
+BAEK ,Bank Ekonomi Raharja Tbk. ,Finance ,Bank 
+BAJA ,Saranacentral Bajatama Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+BAPA ,Bekasi Asri Pemula Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+BASS ,PT Bahtera Adimina Samudera Tbk. ,Agriculture ,Fishery 
+BATA ,Sepatu Bata Tbk. ,Miscellaneous Industry ,Footwear 
+BAYU ,Bayu Buana Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+BBCA ,Bank Central Asia Tbk. ,Finance ,Bank 
+BBKP ,Bank Bukopin Tbk. ,Finance ,Bank 
+BBLD ,Buana Finance Tbk. ,Finance ,Financial Institution 
+BBMD ,Bank Mestika Dharma Tbk. ,Finance ,Bank 
+BBMI ,PT Bank Syariah Muamalat Indonesia Tbk ,Finance ,Bank 
+BBNI ,Bank Negara Indonesia (Persero) Tbk. ,Finance ,Bank 
+BBNP ,Bank Nusantara Parahyangan Tbk. ,Finance ,Bank 
+BBRI ,Bank Rakyat Indonesia (Persero) Tbk. ,Finance ,Bank 
+BBRK ,PT Bank Riau Kepri ,Finance ,Bank 
+BBRM ,Pelayaran Nasional Bina Buana Raya Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+BBTN ,Bank Tabungan Negara (Persero) Tbk. ,Finance ,Bank 
+BCAF ,PT BCA Finance ,Finance ,Financial Institution 
+BCAP ,MNC Kapital Indonesia Tbk. ,Finance ,Others 
+BCIC ,Bank Mutiara Tbk. ,Finance ,Bank 
+BCIP ,Bumi Citra Permai Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+BDKI ,PT Bank DKI ,Finance ,Bank 
+BDMN ,Bank Danamon Indonesia Tbk. ,Finance ,Bank 
+BEKS ,Bank Pundi Indonesia Tbk. ,Finance ,Bank 
+BEST ,Bekasi Fajar Industrial Estate Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+BEXI ,Indonesia Eximbank ,Finance ,Bank 
+BFIN ,BFI Finance Indonesia Tbk. ,Finance ,Financial Institution 
+BHIT ,MNC Investama Tbk. ,"Trade, Services & Investment ",Investment Company 
+BIIF ,PT BII Finance Center ,Finance ,Financial Institution 
+BIMA ,Primarindo Asia Infrastructure Tbk. ,Miscellaneous Industry ,Footwear 
+BIMF ,PT Bima Multi Finance ,Finance ,Financial Institution 
+BINA ,Bank Ina Perdana Tbk ,Finance ,Bank 
+BIPI ,Benakat Petroleum Energy Tbk. ,Mining ,Crude Petroleum & Natural Gas Production 
+BIPP ,Bhuwanatala Indah Permai Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+BISI ,Bisi International Tbk. ,Agriculture ,Crops 
+BJBR ,BPD Jawa Barat dan Banten Tbk. ,Finance ,Bank 
+BJTM ,BPD Jawa Timur Tbk. ,Finance ,Bank 
+BKDP ,Bukit Darmo Property Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+BKSL ,Sentul City Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+BKSW ,Bank QNB Kesawan Tbk. ,Finance ,Bank 
+BLAM ,PT Bank Pembangunan Daerah Lampung ,Finance ,Bank 
+BLTA ,Berlian Laju Tanker Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+BMAS ,Bank Maspion Indonesia Tbk. ,Finance ,Bank 
+BMLK ,PT Bank Pembangunan Daerah Maluku ,Finance ,Bank 
+BMRI ,Bank Mandiri (Persero) Tbk. ,Finance ,Bank 
+BMSR ,Bintang Mitra Semestaraya Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+BMTR ,Global Mediacom Tbk. ,"Trade, Services & Investment ",Investment Company 
+BNBA ,Bank Bumi Arta Tbk. ,Finance ,Bank 
+BNBR ,Bakrie & Brothers Tbk. ,"Trade, Services & Investment ",Investment Company 
+BNGA ,Bank CIMB Niaga Tbk. ,Finance ,Bank 
+BNII ,Bank Internasional Indonesia Tbk. ,Finance ,Bank 
+BNLI ,Bank Permata Tbk. ,Finance ,Bank 
+BNTT ,PT BPD Nusa Tenggara Timur (Bank NTT) ,Finance ,Bank 
+BORN ,Borneo Lumbung Energi & Metal Tbk. ,Mining ,Coal Mining 
+BPFI ,Batavia Prosperindo Finance Tbk. ,Finance ,Financial Institution 
+BRAM ,Indo Kordsa Tbk. ,Miscellaneous Industry ,Automotive And Components 
+BRAU ,Berau Coal Energy Tbk. ,Mining ,Coal Mining 
+BRMS ,Bumi Resources Minerals Tbk. ,"Trade, Services & Investment ",Investment Company 
+BRNA ,Berlina Tbk. ,Basic Industry and Chemicals ,Plastics & Packaging 
+BRPT ,Barito Pacific Tbk. ,Basic Industry and Chemicals ,Chemicals 
+BSBR ,PT Bank Pembangunan Daerah Sumatera Barat ,Finance ,Bank 
+BSDE ,Bumi Serpong Damai Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+BSEC ,PT MNC Securities ,Finance ,Securities Company 
+BSIM ,Bank Sinarmas Tbk. ,Finance ,Bank 
+BSLT ,PT BPD Sulawesi Utara (Bank Sulut) ,Finance ,Bank 
+BSMT ,PT BPD Sumatera Utara (Bank Sumut) ,Finance ,Bank 
+BSSB ,PT BPD Sulawesi Selatan Dan Barat (Bank Sulselbar) ,Finance ,Bank 
+BSSR ,Baramulti Suksessarana Tbk. ,Mining ,Coal Mining 
+BSWD ,Bank of India Indonesia Tbk. ,Finance ,Bank 
+BTEK ,Bumi Teknokultura Unggul Tbk. ,Agriculture ,Others 
+BTEL ,Bakrie Telecom Tbk. ,"Infrastructure, Utilities And Transportation ",Telecommunication 
+BTON ,Betonjaya Manunggal Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+BTPN ,Bank Tabungan Pensiunan Nasional Tbk. ,Finance ,Bank 
+BUDI ,Budi Starch & Sweetener Tbk. ,Basic Industry and Chemicals ,Chemicals 
+BULL ,Buana Listya Tama Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+BUMI ,Bumi Resources Tbk. ,Mining ,Coal Mining 
+BUVA ,Bukit Uluwatu Villa Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+BVIC ,Bank Victoria International Tbk. ,Finance ,Bank 
+BWPT ,BW Plantation Tbk. ,Agriculture ,Plantation 
+BYAN ,Bayan Resources Tbk. ,Mining ,Coal Mining 
+CANI ,Capitol Nusantara Indonesia Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+CASS ,Cardig Aero Services Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+CEKA ,Wilmar Cahaya Indonesia Tbk. ,Consumer Goods Industry ,Food And Beverages 
+CENT ,Centrin Online Tbk. ,"Trade, Services & Investment ",Retail Trade 
+CFIN ,Clipan Finance Indonesia Tbk. ,Finance ,Financial Institution 
+CITA ,Cita Mineral Investindo Tbk. ,Mining ,Metal And Mineral Mining 
+CKRA ,Cakra Mineral Tbk. ,Mining ,Metal And Mineral Mining 
+CLPI ,Colorpak Indonesia Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+CMNP ,Citra Marga Nusaphala Persada Tbk. ,"Infrastructure, Utilities And Transportation ","Toll Road, Airport, Harbor And Allied Products "
+CMPP ,Centris Multipersada Pratama Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+CNAF ,PT CIMB Niaga Auto Finance ,Finance ,Financial Institution 
+CNKO ,Exploitasi Energi Indonesia Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+CNTB ,Century Textile Industry (Seri B) Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+CNTX ,Century Textile Industry (PS) Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+COWL ,Cowell Development Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+CPGT ,Cipaganti Citra Graha Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+CPIN ,Charoen Pokphand Indonesia Tbk. ,Basic Industry and Chemicals ,Animal Feed 
+CPRO ,Central Proteinaprima Tbk. ,Agriculture ,Fishery 
+CSAP ,Catur Sentosa Adiprana Tbk. ,"Trade, Services & Investment ",Retail Trade 
+CTBN ,Citra Tubindo Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+CTRA ,Ciputra Development Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+CTRP ,Ciputra Property Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+CTRS ,Ciputra Surya Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+CTTH ,Citatah Tbk. ,Mining ,Land / Stone Quarrying 
+DART ,Duta Anggada Realty Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+DAVO ,Davomas Abadi Tbk. ,Consumer Goods Industry ,Food And Beverages 
+DEFI ,Danasupra Erapacific Tbk. ,Finance ,Financial Institution 
+DEWA ,Darma Henwa Tbk. ,Mining ,Coal Mining 
+DGIK ,Nusa Konstruksi Enjiniring Tbk. ,"Property, Real Estate And Building Construction ",Building Construction 
+DILD ,Intiland Development Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+DKFT ,Central Omega Resources Tbk. ,Mining ,Metal And Mineral Mining 
+DLTA ,Delta Djakarta Tbk. ,Consumer Goods Industry ,Food And Beverages 
+DNET ,Indoritel Makmur Internasional Tbk. ,"Trade, Services & Investment ",Computer And Services 
+DNRK ,PT Danareksa (Persero) ,Finance ,Others 
+DOID ,Delta Dunia Makmur Tbk. ,Mining ,Coal Mining 
+DPNS ,Duta Pertiwi Nusantara Tbk. ,Basic Industry and Chemicals ,Chemicals 
+DSFI ,Dharma Samudera Fishing Industries Tbk. ,Agriculture ,Fishery 
+DSNG ,Dharma Satya Nusantara Tbk. ,Agriculture ,Plantation 
+DSSA ,Dian Swastatika Sentosa Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+DUTI ,Duta Pertiwi Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+DVLA ,Darya-Varia Laboratoria Tbk. ,Consumer Goods Industry ,Pharmaceuticals 
+DYAN ,Dyandra Media International Tbk. ,"Trade, Services & Investment ",Others 
+ECII ,Electronic City Indonesia Tbk. ,"Trade, Services & Investment ",Retail Trade 
+EKAD ,Ekadharma International Tbk. ,Basic Industry and Chemicals ,Chemicals 
+ELSA ,Elnusa Tbk. ,Mining ,Crude Petroleum & Natural Gas Production 
+ELTY ,Bakrieland Development Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+EMDE ,Megapolitan Developments Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+EMTK ,Elang Mahkota Teknologi Tbk. ,"Trade, Services & Investment ","Advertising, Printing And Media "
+ENRG ,Energi Mega Persada Tbk. ,Mining ,Crude Petroleum & Natural Gas Production 
+EPMT ,Enseval Putra Megatrading Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+ERAA ,Erajaya Swasembada Tbk. ,"Trade, Services & Investment ",Retail Trade 
+ERTX ,Eratex Djaja Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+ESSA ,Surya Esa Perkasa Tbk. ,Mining ,Crude Petroleum & Natural Gas Production 
+ESTI ,Ever Shine Textile Industry Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+ETWA ,Eterindo Wahanatama Tbk. ,Basic Industry and Chemicals ,Chemicals 
+EXCL ,XL Axiata Tbk.,"Infrastructure, Utilities And Transportation ",Telecommunication 
+FAST ,Fast Food Indonesia Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+FASW ,Fajar Surya Wisesa Tbk. ,Basic Industry and Chemicals ,Pulp & Paper 
+FIFA ,PT Federal International Finance ,Finance ,Financial Institution 
+FISH ,FKS Multi Agro Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+FMII ,Fortune Mate Indonesia Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+FORU ,Fortune Indonesia Tbk. ,"Trade, Services & Investment ","Advertising, Printing And Media "
+FPNI ,Lotte Chemical Titan Tbk. ,Basic Industry and Chemicals ,Plastics & Packaging 
+FREN ,Smartfren Telecom Tbk. ,"Infrastructure, Utilities And Transportation ",Telecommunication 
+GAMA ,Gading Development Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+GDST ,Gunawan Dianjaya Steel Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+GDYR ,Goodyear Indonesia Tbk. ,Miscellaneous Industry ,Automotive And Components 
+GEMA ,Gema Grahasarana Tbk. ,"Trade, Services & Investment ",Others 
+GEMS ,Golden Energy Mines Tbk. ,Mining ,Coal Mining 
+GGRM ,Gudang Garam Tbk. ,Consumer Goods Industry ,Tobacco Manufacturers 
+GIAA ,Garuda Indonesia (Persero) Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+GJTL ,Gajah Tunggal Tbk. ,Miscellaneous Industry ,Automotive And Components 
+GLOB ,Global Teleshop Tbk. ,"Trade, Services & Investment ",Retail Trade 
+GMCW ,Grahamas Citrawisata Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+GMTD ,Gowa Makassar Tourism Development Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+GOLD ,Golden Retailindo Tbk. ,"Trade, Services & Investment ",Retail Trade 
+GPRA ,Perdana Gapuraprima Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+GREN ,Evergreen Invesco Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+GSMF ,Equity Development Investment Tbk. ,Finance ,Others 
+GTBO ,Garda Tujuh Buana Tbk. ,Mining ,Coal Mining 
+GWSA ,Greenwood Sejahtera Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+GZCO ,Gozco Plantations Tbk. ,Agriculture ,Plantation 
+HADE ,HD Capital Tbk. ,Finance ,Securities Company 
+HDFA ,HD Finance Tbk. ,Finance ,Financial Institution 
+HDTX ,Panasia Indo Resources Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+HERO ,Hero Supermarket Tbk. ,"Trade, Services & Investment ",Retail Trade 
+HEXA ,Hexindo Adiperkasa Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+HITS ,Humpuss Intermoda Transportasi Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+HMSP ,HM Sampoerna Tbk. ,Consumer Goods Industry ,Tobacco Manufacturers 
+HOME ,Hotel Mandarine Regency Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+HOTL ,Saraswati Griya Lestari Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+HRUM ,Harum Energy Tbk. ,Mining ,Coal Mining 
+IATA ,Indonesia Air Transport Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+IBST ,Inti Bangun Sejahtera Tbk. ,"Infrastructure, Utilities And Transportation ",Non Building Construction 
+ICBP ,Indofood CBP Sukses Makmur Tbk. ,Consumer Goods Industry ,Food And Beverages 
+ICON ,Island Concepts Indonesia Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+IGAR ,Champion Pacific Indonesia Tbk. ,Basic Industry and Chemicals ,Plastics & Packaging 
+IIKP ,Inti Agri Resources Tbk. ,Agriculture ,Fishery 
+IKAI ,Intikeramik Alamasri Industri Tbk. ,Basic Industry and Chemicals ,"Ceramics, Glass, Porcelain "
+IKBI ,Sumi Indo Kabel Tbk. ,Miscellaneous Industry ,Cable 
+IMAS ,Indomobil Sukses Internasional Tbk. ,Miscellaneous Industry ,Automotive And Components 
+IMAT ,PT Indomobil Wahana Trada ,"Infrastructure, Utilities & Transportation ",Transportation 
+IMFI ,PT Indomobil Finance Indonesia ,Finance ,Financial Institution 
+IMJS ,Indomobil Multi Jasa Tbk. ,Finance ,Financial Institution 
+INAF ,Indofarma (Persero) Tbk. ,Consumer Goods Industry ,Pharmaceuticals 
+INAI ,Indal Aluminium Industry Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+INCI ,Intanwijaya Internasional Tbk. ,Basic Industry and Chemicals ,Chemicals 
+INCO ,Vale Indonesia Tbk. ,Mining ,Metal And Mineral Mining 
+INDF ,Indofood Sukses Makmur Tbk. ,Consumer Goods Industry ,Food And Beverages 
+INDR ,Indo-Rama Synthetics Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+INDS ,Indospring Tbk. ,Miscellaneous Industry ,Automotive And Components 
+INDX ,Tanah Laut Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+INDY ,Indika Energy Tbk. ,"Infrastructure, Utilities And Transportation ",Non Building Construction 
+INKP ,Indah Kiat Pulp & Paper Tbk. ,Basic Industry and Chemicals ,Pulp & Paper 
+INPC ,Bank Artha Graha Internasional Tbk. ,Finance ,Bank 
+INPP ,Indonesian Paradise Property Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+INRU ,Toba Pulp Lestari Tbk. ,Basic Industry and Chemicals ,Pulp & Paper 
+INTA ,Intraco Penta Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+INTD ,Inter Delta Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+INTP ,Indocement Tunggal Prakarsa Tbk. ,Basic Industry and Chemicals ,Cement 
+INVS ,Inovisi Infracom Tbk. ,"Infrastructure, Utilities And Transportation ",Telecommunication 
+IPOL ,Indopoly Swakarsa Industry Tbk. ,Basic Industry and Chemicals ,Plastics & Packaging 
+ISAT ,Indosat Tbk. ,"Infrastructure, Utilities And Transportation ",Telecommunication 
+ISSP ,Steel Pipe Industry of Indonesia Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+ITMA ,Sumber Energi Andalan Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+ITMG ,Indo Tambangraya Megah Tbk. ,Mining ,Coal Mining 
+ITTG ,Leo Investments Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+JAWA ,Jaya Agra Wattie Tbk. ,Agriculture ,Plantation 
+JECC ,Jembo Cable Company Tbk. ,Miscellaneous Industry ,Cable 
+JIHD ,Jakarta International Hotels & Dev. Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+JKON ,Jaya Konstruksi Manggala Pratama Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+JKSW ,Jakarta Kyoei Steel Works Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+JPFA ,JAPFA Comfeed Indonesia Tbk. ,Basic Industry and Chemicals ,Animal Feed 
+JPRS ,Jaya Pari Steel Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+JRPT ,Jaya Real Property Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+JSMR ,Jasa Marga (Persero) Tbk. ,"Infrastructure, Utilities And Transportation ","Toll Road, Airport, Harbor And Allied Products "
+JSPT ,Jakarta Setiabudi Internasional Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+JTPE ,Jasuindo Tiga Perkasa Tbk. ,"Trade, Services & Investment ","Advertising, Printing And Media "
+KAEF ,Kimia Farma (Persero) Tbk. ,Consumer Goods Industry ,Pharmaceuticals 
+KARW ,ICTSI Jasa Prima Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+KBLI ,KMI Wire and Cable Tbk. ,Miscellaneous Industry ,Cable 
+KBLM ,Kabelindo Murni Tbk. ,Miscellaneous Industry ,Cable 
+KBLV ,First Media Tbk. ,"Trade, Services & Investment ","Advertising, Printing And Media "
+KBRI ,Kertas Basuki Rachmat Indonesia Tbk. ,Basic Industry and Chemicals ,Pulp & Paper 
+KDSI ,Kedawung Setia Industrial Tbk. ,Consumer Goods Industry ,Houseware 
+KIAS ,Keramika Indonesia Assosiasi Tbk. ,Basic Industry and Chemicals ,"Ceramics, Glass, Porcelain "
+KICI ,Kedaung Indah Can Tbk. ,Consumer Goods Industry ,Houseware 
+KIJA ,Kawasan Industri Jababeka Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+KKGI ,Resource Alam Indonesia Tbk. ,Mining ,Coal Mining 
+KLBF ,Kalbe Farma Tbk. ,Consumer Goods Industry ,Pharmaceuticals 
+KOBX ,Kobexindo Tractors Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+KOIN ,Kokoh Inti Arebama Tbk. ,"Trade, Services & Investment ",Retail Trade 
+KONI ,Perdana Bangun Pusaka Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+KPIG ,MNC Land Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+KRAH ,Grand Kartech Tbk. ,Miscellaneous Industry ,Machinery And Heavy Equipment 
+KRAS ,Krakatau Steel (Persero) Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+KREN ,Kresna Graha Sekurindo Tbk. ,Finance ,Securities Company 
+LAMI ,Lamicitra Nusantara Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+LAPD ,Leyand International Tbk. ,"Infrastructure, Utilities And Transportation ",Energy 
+LCGP ,Eureka Prima Jakarta Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+LEAD ,Logindo Samudramakmur Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+LION ,Lion Metal Works Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+LMAS ,Limas Centric Indonesia Tbk. ,"Trade, Services & Investment ",Computer And Services 
+LMPI ,Langgeng Makmur Industri Tbk. ,Consumer Goods Industry ,Houseware 
+LMSH ,Lionmesh Prima Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+LPCK ,Lippo Cikarang Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+LPGI ,Lippo General Insurance Tbk. ,Finance ,Insurance 
+LPIN ,Multi Prima Sejahtera Tbk. ,Miscellaneous Industry ,Automotive And Components 
+LPKR ,Lippo Karawaci Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+LPLI ,Star Pacific Tbk. ,"Trade, Services & Investment ","Advertising, Printing And Media "
+LPPF ,Matahari Department Store Tbk. ,"Trade, Services & Investment ",Retail Trade 
+LPPS ,Lippo Securities Tbk. ,Finance ,Others 
+LSIP ,PP London Sumatra Indonesia Tbk. ,Agriculture ,Plantation 
+LTLS ,Lautan Luas Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+MAGP ,Multi Agro Gemilang Plantation Tbk ,Agriculture ,Plantation 
+MAIN ,Malindo Feedmill Tbk. ,Basic Industry and Chemicals ,Animal Feed 
+MAMI ,Mas Murni Indonesia Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+MAMIP ,Mas Murni Tbk. (Preferred Stock) ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+MAPI ,Mitra Adiperkasa Tbk. ,"Trade, Services & Investment ",Retail Trade 
+MASA ,Multistrada Arah Sarana Tbk. ,Miscellaneous Industry ,Automotive And Components 
+MAYA ,Bank Mayapada Internasional Tbk. ,Finance ,Bank 
+MBSS ,Mitrabahtera Segara Sejati Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+MBTO ,Martina Berto Tbk. ,Consumer Goods Industry ,Cosmetics And Household 
+MCOR ,Bank Windu Kentjana International Tbk. ,Finance ,Bank 
+MDLN ,Modernland Realty Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+MDRN ,Modern Internasional Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+MEDC ,Medco Energi Internasional Tbk. ,Mining ,Crude Petroleum & Natural Gas Production 
+MEGA ,Bank Mega Tbk. ,Finance ,Bank 
+MERK ,Merck Tbk. ,Consumer Goods Industry ,Pharmaceuticals 
+META ,Nusantara Infrastructure Tbk. ,"Infrastructure, Utilities And Transportation ","Toll Road, Airport, Harbor And Allied Products "
+MFIN ,Mandala Multifinance Tbk. ,Finance ,Financial Institution 
+MFMI ,Multifiling Mitra Indonesia Tbk. ,"Trade, Services & Investment ",Others 
+MICE ,Multi Indocitra Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+MIDI ,Midi Utama Indonesia Tbk. ,"Trade, Services & Investment ",Retail Trade 
+MIRA ,Mitra International Resources Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+MITI ,Mitra Investindo Tbk. ,Mining ,Land / Stone Quarrying 
+MKPI ,Metropolitan Kentjana Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+MLBI ,Multi Bintang Indonesia Tbk. ,Consumer Goods Industry ,Food And Beverages 
+MLIA ,Mulia Industrindo Tbk. ,Basic Industry and Chemicals ,"Ceramics, Glass, Porcelain "
+MLPL ,Multipolar Tbk. ,"Trade, Services & Investment ",Investment Company 
+MLPT ,Multipolar Technology Tbk. ,"Trade, Services & Investment ",Computer And Services 
+MNCN ,Media Nusantara Citra Tbk. ,"Trade, Services & Investment ","Advertising, Printing And Media "
+MPMX ,Mitra Pinasthika Mustika Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+MPPA ,Matahari Putra Prima Tbk. ,"Trade, Services & Investment ",Retail Trade 
+MRAT ,Mustika Ratu Tbk. ,Consumer Goods Industry ,Cosmetics And Household 
+MREI ,Maskapai Reasuransi Indonesia Tbk. ,Finance ,Insurance 
+MSKY ,MNC Sky Vision Tbk. ,"Trade, Services & Investment ","Advertising, Printing And Media "
+MTDL ,Metrodata Electronics Tbk. ,"Trade, Services & Investment ",Computer And Services 
+MTFN ,Capitalinc Investment Tbk. ,Finance ,Others 
+MTLA ,Metropolitan Land Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+MTSM ,Metro Realty Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+MYOH ,Samindo Resources Tbk. ,Mining ,Coal Mining 
+MYOR ,Mayora Indah Tbk. ,Consumer Goods Industry ,Food And Beverages 
+MYRX ,Hanson International Tbk. ,"Trade, Services & Investment ",Investment Company 
+MYRXP ,Hanson International (Seri B) Tbk. ,"Trade, Services & Investment ",Investment Company 
+MYTX ,Apac Citra Centertex Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+NAGA ,Bank Mitraniaga Tbk. ,Finance ,Bank 
+NELY ,Pelayaran Nelly Dwi Putri Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+NIKL ,Pelat Timah Nusantara Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+NIPS ,Nipress Tbk. ,Miscellaneous Industry ,Automotive And Components 
+NIRO ,Nirvana Development Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+NISP ,Bank OCBC NISP Tbk. ,Finance ,Bank 
+NOBU ,Bank Nationalnobu Tbk. ,Finance ,Bank 
+NRCA ,Nusa Raya Cipta Tbk. ,"Property, Real Estate And Building Construction ",Building Construction 
+OCAP ,Onix Capital Tbk. ,Finance ,Securities Company 
+OKAS ,Ancora Indonesia Resources Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+OMRE ,Indonesia Prima Property Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+OTMA ,PT Oto Multiartha ,Finance ,Financial Institution 
+PADI ,Minna Padi Investama Tbk. ,Finance ,Securities Company 
+PALM ,Provident Agro Tbk. ,Agriculture ,Plantation 
+PANR ,Panorama Sentrawisata Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+PANS ,Panin Sekuritas Tbk. ,Finance ,Securities Company 
+PBRX ,Pan Brothers Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+PDES ,Destinasi Tirta Nusantara Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+PEGE ,Panca Global Securities Tbk. ,Finance ,Securities Company 
+PGAS ,Perusahaan Gas Negara (Persero) Tbk. ,"Infrastructure, Utilities And Transportation ",Energy 
+PGLI ,Pembangunan Graha Lestari Indah Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+PICO ,Pelangi Indah Canindo Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+PJAA ,Pembangunan Jaya Ancol Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+PKPK ,Perdana Karya Perkasa Tbk. ,Mining ,Coal Mining 
+PLAS ,Polaris Investama Tbk. ,"Trade, Services & Investment ",Investment Company 
+PLIN ,Plaza Indonesia Realty Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+PNBN ,Bank Pan Indonesia Tbk. ,Finance ,Bank 
+PNBS ,Bank Panin Syariah Tbk. ,Finance ,Bank 
+PNIN ,Panin Insurance Tbk. ,Finance ,Insurance 
+PNLF ,Panin Financial Tbk. ,Finance ,Others 
+PNMP ,PT Permodalan Nasional Madani (Persero) ,Finance ,Financial Institution 
+PNSE ,Pudjiadi & Sons Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+POLY ,Asia Pacific Fibers Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+POOL ,Pool Advista Indonesia Tbk. ,"Trade, Services & Investment ",Investment Company 
+PPGD ,PT Pegadaian (Persero) ,Finance ,Financial Institution 
+PPKT ,PT Pupuk Kalimantan Timur ,Basic Industry And Chemicals ,Chemicals 
+PPLN ,PT Perusahaan Listrik Negara (Persero) ,"Infrastructure, Utilities & Transportation ",Energy 
+PPNX ,PT Perkebunan Nusantara X (Persero) ,Agriculture ,Plantation 
+PRAS ,Prima Alloy Steel Universal Tbk. ,Miscellaneous Industry ,Automotive And Components 
+PSAB ,J Resources Asia Pasifik Tbk. ,Mining ,Metal And Mineral Mining 
+PSDN ,Prasidha Aneka Niaga Tbk. ,Consumer Goods Industry ,Food And Beverages 
+PSKT ,Pusako Tarinka Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+PTBA ,Tambang Batubara Bukit Asam (Persero) Tbk. ,Mining ,Coal Mining 
+PTHK ,PT Hutama Karya (Persero) ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+PTIS ,Indo Straits Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+PTPP ,PP (Persero) Tbk. ,"Property, Real Estate And Building Construction ",Building Construction 
+PTRO ,Petrosea Tbk. ,Mining ,Coal Mining 
+PTSN ,Sat Nusapersada Tbk. ,Miscellaneous Industry ,Electronics 
+PTSP ,Pioneerindo Gourmet International Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+PUDP ,Pudjiadi Prestige Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+PWON ,Pakuwon Jati Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+PYFA ,Pyridam Farma Tbk. ,Consumer Goods Industry ,Pharmaceuticals 
+RAJA ,Rukun Raharja Tbk. ,"Infrastructure, Utilities And Transportation ",Energy 
+RALS ,Ramayana Lestari Sentosa Tbk. ,"Trade, Services & Investment ",Retail Trade 
+RANC ,Supra Boga Lestari Tbk. ,"Trade, Services & Investment ",Retail Trade 
+RBMS ,Ristia Bintang Mahkotasejati Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+RDTX ,Roda Vivatex Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+RELI ,Reliance Securities Tbk. ,Finance ,Securities Company 
+RICY ,Ricky Putra Globalindo Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+RIGS ,Rig Tenders Indonesia Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+RIMO ,Rimo Catur Lestari Tbk. ,"Trade, Services & Investment ",Retail Trade 
+RMBA ,Bentoel Internasional Investama Tbk. ,Consumer Goods Industry ,Tobacco Manufacturers 
+RODA ,Pikko Land Development Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+ROTI ,Nippon Indosari Corpindo Tbk. ,Consumer Goods Industry ,Food And Beverages 
+RUIS ,Radiant Utama Interinsco Tbk. ,Mining ,Crude Petroleum & Natural Gas Production 
+SAFE ,Steady Safe Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+SAME ,Sarana Meditama Metropolitan Tbk ,"Trade, Services & Investment ",Healthcare 
+SANF ,PT Surya Artha Nusantara Finance ,Finance ,Financial Institution 
+SCBD ,Danayasa Arthatama Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+SCCO ,Supreme Cable Manufacturing & Commerce Tbk. ,Miscellaneous Industry ,Cable 
+SCMA ,Surya Citra Media Tbk. ,"Trade, Services & Investment ","Advertising, Printing And Media "
+SCPI ,Merck Sharp Dohme Pharma Tbk. ,Consumer Goods Industry ,Pharmaceuticals 
+SDMU ,Sidomulyo Selaras Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+SDPC ,Millennium Pharmacon International Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+SDRA ,Bank Himpunan Saudara 1906 Tbk. ,Finance ,Bank 
+SGRO ,Sampoerna Agro Tbk. ,Agriculture ,Plantation 
+SHID ,Hotel Sahid Jaya International Tbk. ,"Trade, Services & Investment ","Tourism, Restaurant And Hotel"
+SIAP ,Sekawan Intipratama Tbk. ,Basic Industry and Chemicals ,Plastics & Packaging 
+SIDO ,Industri Jamu dan Farmasi Sido Muncul Tbk. ,Consumer Goods Industry ,Pharmaceuticals 
+SILO ,Siloam International Hospitals Tbk. ,"Trade, Services & Investment ",Healthcare 
+SIMA ,Siwani Makmur Tbk. ,Basic Industry and Chemicals ,Plastics & Packaging 
+SIMP ,Salim Ivomas Pratama Tbk. ,Agriculture ,Plantation 
+SIPD ,Sierad Produce Tbk. ,Basic Industry and Chemicals ,Animal Feed 
+SKBM ,Sekar Bumi Tbk. ,Consumer Goods Industry ,Food And Beverages 
+SKLT ,Sekar Laut Tbk. ,Consumer Goods Industry ,Food And Beverages 
+SKYB ,Skybee Tbk. ,"Trade, Services & Investment ",Retail Trade 
+SMAR ,SMART Tbk. ,Agriculture ,Plantation 
+SMBR ,Semen Baturaja (Persero) Tbk. ,Basic Industry and Chemicals ,Cement 
+SMCB ,Holcim Indonesia Tbk. ,Basic Industry and Chemicals ,Cement 
+SMDM ,Suryamas Dutamakmur Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+SMDR ,Samudera Indonesia Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+SMFP ,PT Sarana Multigriya Finansial (Persero) ,Finance ,Financial Institution 
+SMGR ,Semen Indonesia (Persero) Tbk. ,Basic Industry and Chemicals ,Cement 
+SMMA ,Sinar Mas Multiartha Tbk. ,Finance ,Others 
+SMMF ,PT Sinar Mas Multi Finance ,Finance ,Financial Institution 
+SMMT ,Golden Eagle Energy Tbk. ,Mining ,Coal Mining 
+SMRA ,Summarecon Agung Tbk. ,"Property, Real Estate And Building Construction ",Property And Real Estate 
+SMRU ,SMR Utama Tbk. ,Mining ,Metal And Mineral Mining 
+SMSM ,Selamat Sempurna Tbk. ,Miscellaneous Industry ,Automotive And Components 
+SOBI ,Sorini Agro Asia Corporindo Tbk. ,Basic Industry and Chemicals ,Chemicals 
+SOFN ,PT Summit Oto Finance ,Finance ,Financial Institution 
+SONA ,Sona Topas Tourism Industry Tbk. ,"Trade, Services & Investment ",Retail Trade 
+SPMA ,Suparma Tbk. ,Basic Industry and Chemicals ,Pulp & Paper 
+SQBB ,Taisho Pharmaceutical Indonesia Tbk. ,Consumer Goods Industry ,Pharmaceuticals 
+SQBI ,Taisho Pharmaceutical Indonesia (PS) Tbk. ,Consumer Goods Industry ,Pharmaceuticals 
+SQMI ,Renuka Coalindo Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+SRAJ ,Sejahteraraya Anugrahjaya Tbk. ,"Trade, Services & Investment ",Healthcare 
+SRIL ,Sri Rejeki Isman Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+SRSN ,Indo Acidatama Tbk. ,Basic Industry and Chemicals ,Chemicals 
+SRTG ,Saratoga Investama Sedaya Tbk. ,"Trade, Services & Investment ",Investment Company 
+SSIA ,Surya Semesta Internusa Tbk. ,"Property, Real Estate And Building Construction ",Building Construction 
+SSMM ,PT Sumberdaya Sewatama ,"Infrastructure, Utilities & Transportation ",Energy 
+SSMS ,Sawit Sumbermas Sarana Tbk. ,Agriculture ,Plantation 
+SSTM ,Sunson Textile Manufacturer Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+STAR ,Star Petrochem Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+STTP ,Siantar Top Tbk. ,Consumer Goods Industry ,Food And Beverages 
+SUGI ,Sugih Energy Tbk. ,"Trade, Services & Investment ",Others 
+SULI ,SLJ Global Tbk. ,Basic Industry and Chemicals ,Wood Industries 
+SUPR ,Solusi Tunas Pratama Tbk. ,"Infrastructure, Utilities And Transportation ",Non Building Construction 
+TAFS ,PT Toyota Astra Financial Services ,Finance ,Financial Institution 
+TALF ,Tunas Alfin Tbk. ,Basic Industry and Chemicals ,Chemicals 
+TAXI ,Express Transindo Utama Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+TBIG ,Tower Bersama Infrastructure Tbk. ,"Infrastructure, Utilities And Transportation ",Non Building Construction 
+TBLA ,Tunas Baru Lampung Tbk. ,Agriculture ,Plantation 
+TBMS ,Tembaga Mulia Semanan Tbk. ,Basic Industry and Chemicals ,Metal And Allied Products 
+TCID ,Mandom Indonesia Tbk. ,Consumer Goods Industry ,Cosmetics And Household 
+TELE ,Tiphone Mobile Indonesia Tbk. ,"Trade, Services & Investment ",Retail Trade 
+TFCO ,Tifico Fiber Indonesia Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+TGKA ,Tigaraksa Satria Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+TIFA ,Tifa Finance Tbk ,Finance ,Financial Institution 
+TINS ,Timah (Persero) Tbk. ,Mining ,Metal And Mineral Mining 
+TIRA ,Tira Austenite Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+TIRT ,Tirta Mahakam Resources Tbk. ,Basic Industry and Chemicals ,Wood Industries 
+TKGA ,Permata Prima Sakti Tbk. ,"Trade, Services & Investment ",Retail Trade 
+TKIM ,Pabrik Kertas Tjiwi Kimia Tbk. ,Basic Industry and Chemicals ,Pulp & Paper 
+TLKM ,Telekomunikasi Indonesia (Persero) Tbk. ,"Infrastructure, Utilities And Transportation ",Telecommunication 
+TMAS ,Pelayaran Tempuran Emas Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+TMPI ,AGIS Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+TMPO ,Tempo Inti Media Tbk. ,"Trade, Services & Investment ","Advertising, Printing And Media "
+TOBA ,Toba Bara Sejahtra Tbk. ,Mining ,Coal Mining 
+TOTL ,Total Bangun Persada Tbk. ,"Property, Real Estate And Building Construction ",Building Construction 
+TOTO ,Surya Toto Indonesia Tbk. ,Basic Industry and Chemicals ,"Ceramics, Glass, Porcelain "
+TOWR ,Sarana Menara Nusantara Tbk. ,"Infrastructure, Utilities And Transportation ",Non Building Construction 
+TPIA ,Chandra Asri Petrochemical Tbk. ,Basic Industry and Chemicals ,Chemicals 
+TPMA ,Trans Power Marine Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+TPNI ,PT TITAN Petrokimia Nusantara ,Basic Industry And Chemicals ,Chemicals 
+TRAC ,PT Serasi Autoraya ,"Infrastructure, Utilities & Transportation ",Transportation 
+TRAM ,Trada Maritime Tbk. ,"Infrastructure, Utilities And Transportation ",Transportation 
+TRIL ,Triwira Insanlestari Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+TRIM ,Trimegah Securities Tbk. ,Finance ,Securities Company 
+TRIO ,Trikomsel Oke Tbk. ,"Trade, Services & Investment ",Retail Trade 
+TRIS ,Trisula International Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+TRST ,Trias Sentosa Tbk. ,Basic Industry and Chemicals ,Plastics & Packaging 
+TRUB ,Truba Alam Manunggal Engineering Tbk. ,"Infrastructure, Utilities And Transportation ",Non Building Construction 
+TRUS ,Trust Finance Indonesia,Finance ,Financial Institution 
+TSPC ,Tempo Scan Pacific Tbk. ,Consumer Goods Industry ,Pharmaceuticals 
+TUFI ,PT Mandiri Tunas Finance ,Finance ,Financial Institution 
+TURI ,Tunas Ridean Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+ULTJ ,Ultrajaya Milk Industry & Trading Co. Tbk. ,Consumer Goods Industry ,Food And Beverages 
+UNIC ,Unggul Indah Cahaya Tbk. ,Basic Industry and Chemicals ,Chemicals 
+UNIT ,Nusantara Inti Corpora Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+UNSP ,Bakrie Sumatera Plantations Tbk. ,Agriculture ,Plantation 
+UNTR ,United Tractors Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+UNTX ,Unitex Tbk. ,Miscellaneous Industry ,"Textile, Garment "
+UNVR ,Unilever Indonesia Tbk. ,Consumer Goods Industry ,Cosmetics And Household 
+VICO ,Victoria Investama Tbk. ,Finance ,Others 
+VIVA ,Visi Media Asia Tbk. ,"Trade, Services & Investment ","Advertising, Printing And Media "
+VOKS ,Voksel Electric Tbk. ,Miscellaneous Industry ,Cable 
+VRNA ,Verena Multi Finance Tbk. ,Finance ,Financial Institution 
+WAPO ,Wahana Pronatural Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+WEHA ,Panorama Transportasi Tbk. ,"Infrastructure, Utilities  And Transportation ",Transportation 
+WICO ,Wicaksana Overseas International Tbk. ,"Trade, Services & Investment ",Wholesale (Durable & Non-Durable Goods) 
+WIIM ,Wismilak Inti Makmur Tbk. ,Consumer Goods Industry ,Tobacco Manufacturers 
+WIKA ,Wijaya Karya (Persero) Tbk. ,"Property, Real Estate And Building Construction ",Building Construction 
+WINS ,Wintermar Offshore Marine Tbk. ,"Infrastructure, Utilities  And Transportation ",Transportation 
+WOMF ,Wahana Ottomitra Multiartha Tbk. ,Finance ,Financial Institution 
+WSKT ,Waskita Karya (Persero) Tbk. ,"Property, Real Estate And Building Construction ",Building Construction 
+YPAS ,Yanaprima Hastapersada Tbk. ,Basic Industry and Chemicals ,Plastics & Packaging 
+YULE ,Yulie Sekurindo Tbk. ,Finance ,Securities Company 
+ZBRA ,Zebra Nusantara Tbk. ,"Infrastructure, Utilities  And Transportation ",Transportation 
