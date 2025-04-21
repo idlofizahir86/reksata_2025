@@ -1,0 +1,952 @@
+stock_id,name,sector,avg_return_1m,volatility_1m,avg_return_3m,volatility_3m,avg_return_6m,volatility_6m,avg_return_1y,volatility_1y,risk_profile
+AADI,Adaro Andalan Indonesia Tbk.,Energy,-0.0041,0.0382,0.0113,0.063,0.0113,0.063,0.0113,0.063,Tinggi
+AALI,Astra Agro Lestari Tbk.,Consumer Non-Cyclicals,-0.0016,0.0155,-0.0008,0.0151,-0.0002,0.0172,-0.0007,0.0162,Sedang
+ABBA,Mahaka Media Tbk.,Consumer Cyclicals,-0.0083,0.0416,-0.0055,0.053,0.0012,0.0635,-0.0038,0.0601,Tinggi
+ABDA,Asuransi Bina Dana Arta Tbk.,Financials,0.0,0.0,-0.0308,0.047,-0.0654,0.0483,-0.0455,0.0395,Sedang
+ABMM,ABM Investama Tbk.,Energy,-0.0009,0.0109,-0.0027,0.0187,0.0,0.0237,0.0004,0.0218,Sedang
+ACES,Aspirasi Hidup Indonesia Tbk.,Consumer Cyclicals,-0.0005,0.0233,0.0001,0.0228,-0.0008,0.0228,0.0006,0.0239,Sedang
+ACRO,Samcro Hyosung Adilestari Tbk.,Consumer Cyclicals,0.0122,0.0731,0.0046,0.0637,0.0038,0.0577,0.0001,0.0736,Tinggi
+ACST,Acset Indonusa Tbk.,Infrastructures,-0.003,0.0229,-0.0039,0.0194,-0.0003,0.0629,0.0,0.0574,Tinggi
+ADCP,Adhi Commuter Properti Tbk.,Properties and Real Estate,0.0,0.0,-0.002,0.0209,0.0003,0.0252,-0.0014,0.0334,Sedang
+ADES,Akasha Wira International Tbk.,Consumer Non-Cyclicals,-0.002,0.0098,-0.001,0.0185,-0.0008,0.0164,0.0001,0.0277,Sedang
+ADHI,Adhi Karya (Persero) Tbk.,Infrastructures,-0.0062,0.0369,-0.0029,0.0281,-0.0,0.0425,-0.0017,0.0376,Sedang
+ADMF,Adira Dinamika Multi Finance T,Financials,-0.0013,0.0077,-0.0016,0.009,-0.0012,0.0114,-0.0005,0.0156,Rendah
+ADMG,Polychem Indonesia Tbk,Basic Materials,-0.0023,0.0237,-0.0023,0.0226,-0.0005,0.0319,-0.0006,0.0286,Sedang
+ADMR,Adaro Minerals Indonesia Tbk.,Energy,-0.0098,0.0249,-0.0024,0.0252,-0.0014,0.0227,0.0006,0.0303,Sedang
+ADRO,Alamtri Resources Indonesia Tb,Energy,-0.0041,0.0215,0.001,0.0449,0.0033,0.0358,0.0023,0.0285,Sedang
+AEGS,Anugerah Spareparts Sejahtera ,Consumer Cyclicals,-0.0043,0.0768,-0.0014,0.0703,-0.0014,0.0644,-0.002,0.0738,Tinggi
+AGAR,Asia Sejahtera Mina Tbk.,Consumer Non-Cyclicals,0.0052,0.1367,-0.0029,0.0934,0.0112,0.1146,0.0059,0.1057,Tinggi
+AGII,Samator Indo Gas Tbk.,Basic Materials,-0.0031,0.0232,-0.0024,0.0167,-0.0013,0.0165,-0.0008,0.0174,Sedang
+AGRO,Bank Raya Indonesia Tbk.,Financials,-0.004,0.0283,-0.0028,0.0289,-0.0007,0.0298,-0.0013,0.0337,Sedang
+AGRS,Bank IBK Indonesia Tbk.,Financials,-0.0031,0.0497,0.003,0.0861,0.0041,0.0788,0.0006,0.0604,Tinggi
+AHAP,Asuransi Harta Aman Pratama Tb,Financials,-0.0028,0.0186,-0.0045,0.0203,-0.0003,0.0428,0.0032,0.0655,Tinggi
+AIMS,Artha Mahiya Investama Tbk.,Energy,-0.0138,0.0241,-0.0045,0.0414,-0.0024,0.0615,0.0015,0.0662,Tinggi
+AISA,FKS Food Sejahtera Tbk.,Consumer Non-Cyclicals,-0.0033,0.0248,-0.0022,0.0197,-0.0007,0.0233,-0.0001,0.0409,Sedang
+AKKU,Anugerah Kagum Karya Utama Tbk,Consumer Cyclicals,0.0144,0.0838,0.0074,0.0904,0.0127,0.1025,-0.0052,0.0999,Sedang
+AKPI,Argha Karya Prima Industry Tbk,Basic Materials,0.0001,0.0301,-0.0012,0.041,0.0008,0.0379,-0.001,0.0356,Sedang
+AKRA,AKR Corporindo Tbk.,Energy,-0.0041,0.0311,-0.0023,0.0261,-0.0014,0.0213,0.0001,0.0204,Sedang
+AKSI,Mineral Sumberdaya Mandiri Tbk,Transportation and Logistic,-0.0102,0.1143,0.0012,0.112,0.0078,0.1037,0.003,0.0814,Tinggi
+ALDO,Alkindo Naratama Tbk.,Basic Materials,0.0002,0.0438,0.0036,0.0412,0.0015,0.0361,0.0018,0.0372,Sedang
+ALII,Ancara Logistics Indonesia Tbk,Energy,-0.0034,0.0255,0.0008,0.0259,0.0004,0.0319,0.0026,0.0579,Tinggi
+ALKA,Alakasa Industrindo Tbk,Basic Materials,-0.0029,0.0302,-0.0004,0.044,0.0016,0.0592,-0.0011,0.0651,Tinggi
+ALMI,Alumindo Light Metal Industry ,Basic Materials,0.0,0.0,-0.0015,0.067,0.0015,0.061,-0.0031,0.057,Tinggi
+ALTO,Tri Banyan Tirta Tbk.,Consumer Non-Cyclicals,0.0028,0.0773,-0.0009,0.0712,0.0091,0.0869,-0.0054,0.0864,Sedang
+AMAG,Asuransi Multi Artha Guna Tbk.,Financials,-0.0002,0.0118,-0.0006,0.0136,0.0012,0.0229,0.0004,0.0195,Sedang
+AMAN,Makmur Berkah Amanda Tbk.,Properties and Real Estate,-0.0085,0.0152,-0.0023,0.0145,0.0007,0.032,-0.0002,0.0487,Sedang
+AMAR,Bank Amar Indonesia Tbk.,Financials,-0.0028,0.0131,-0.003,0.0143,-0.0022,0.0183,-0.0016,0.0229,Tinggi
+AMFG,Asahimas Flat Glass Tbk.,Industrials,-0.0018,0.0171,-0.0008,0.0149,-0.0005,0.0144,-0.0009,0.0162,Sedang
+AMIN,Ateliers Mecaniques D Indonesi,Industrials,0.0012,0.0263,-0.0005,0.023,0.0004,0.0352,0.0011,0.0372,Tinggi
+AMMN,Amman Mineral Internasional Tb,Basic Materials,-0.0034,0.0253,-0.0024,0.0236,-0.0003,0.0348,0.0051,0.0353,Sedang
+AMMS,Agung Menjangan Mas Tbk.,Consumer Non-Cyclicals,0.005,0.0759,0.0113,0.0756,0.0074,0.0717,0.0017,0.0622,Tinggi
+AMOR,Ashmore Asset Management Indon,Financials,-0.0001,0.0386,-0.0001,0.0377,-0.0019,0.0323,-0.0009,0.0332,Sedang
+AMRT,Sumber Alfaria Trijaya Tbk.,Consumer Non-Cyclicals,-0.0024,0.0209,-0.0018,0.0206,-0.0001,0.019,0.0001,0.0181,Sedang
+ANDI,Andira Agro Tbk.,Consumer Non-Cyclicals,0.0256,0.1447,0.0086,0.1523,0.0139,0.1691,-0.0062,0.1557,Tinggi
+ANJT,Austindo Nusantara Jaya Tbk.,Consumer Non-Cyclicals,-0.001,0.0108,0.0008,0.0138,0.0006,0.0201,-0.0005,0.0203,Sedang
+ANTM,Aneka Tambang Tbk.,Basic Materials,0.0001,0.0267,0.0013,0.0246,0.0003,0.0238,-0.0004,0.022,Sedang
+APEX,Apexindo Pratama Duta Tbk.,Energy,-0.0058,0.0204,-0.0036,0.024,-0.0016,0.031,0.0001,0.0515,Tinggi
+APIC,Pacific Strategic Financial Tb,Financials,0.0025,0.0087,0.0013,0.0133,0.0002,0.0126,0.0003,0.0159,Rendah
+APII,Arita Prima Indonesia Tbk.,Industrials,-0.0023,0.015,-0.0004,0.0175,-0.0003,0.018,-0.0004,0.0167,Sedang
+APLI,Asiaplast Industries Tbk.,Basic Materials,0.0017,0.0431,0.0004,0.0415,0.0001,0.0406,0.0014,0.0442,Sedang
+APLN,Agung Podomoro Land Tbk.,Properties and Real Estate,-0.0094,0.0287,-0.0044,0.0334,-0.0007,0.0391,-0.0016,0.0323,Sedang
+ARCI,Archi Indonesia Tbk.,Basic Materials,-0.0015,0.0176,-0.0011,0.0281,0.0004,0.0531,-0.0,0.0476,Sedang
+AREA,Dunia Virtual Online Tbk.,Technology,-0.0008,0.0374,-0.0003,0.0373,0.0051,0.0486,0.0035,0.0564,Tinggi
+ARGO,Argo Pantes Tbk,Consumer Cyclicals,-0.0083,0.0399,-0.004,0.0574,0.0017,0.0727,0.0036,0.0585,Sedang
+ARII,Atlas Resources Tbk.,Energy,-0.002,0.0293,-0.0056,0.0331,-0.0011,0.0409,0.0019,0.0544,Tinggi
+ARKA,Arkha Jayanti Persada Tbk.,Industrials,0.0075,0.0855,0.0049,0.0816,0.0094,0.0977,-0.0014,0.0981,Sedang
+ARKO,Arkora Hydro Tbk.,Infrastructures,0.0026,0.0324,0.0014,0.0372,0.0012,0.0391,0.002,0.0387,Sedang
+ARMY,Armidian Karyatama Tbk.,Properties and Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+ARNA,Arwana Citramulia Tbk.,Industrials,-0.0065,0.0228,-0.001,0.0203,-0.0001,0.0193,-0.0011,0.0201,Rendah
+ARTA,Arthavest Tbk,Consumer Cyclicals,0.0,0.0,-0.0014,0.0125,-0.0011,0.0137,0.0017,0.0239,Tinggi
+ARTI,Ratu Prabu Energi Tbk,Energy,0.0,0.0,0.0,0.0,-0.0,0.4564,-0.0405,0.225,Sedang
+ARTO,Bank Jago Tbk.,Financials,-0.0041,0.0312,-0.0018,0.0288,0.001,0.0321,-0.0,0.0386,Tinggi
+ASBI,Asuransi Bintang Tbk.,Financials,-0.0096,0.046,-0.0137,0.0663,-0.006,0.0607,0.0004,0.054,Sedang
+ASDM,Asuransi Dayin Mitra Tbk.,Financials,-0.0009,0.0103,-0.0004,0.0151,0.0009,0.0146,0.0005,0.02,Rendah
+ASGR,Astra Graphia Tbk.,Industrials,-0.0006,0.0155,0.0008,0.0157,0.001,0.0136,-0.0001,0.0146,Rendah
+ASHA,Cilacap Samudera Fishing Indus,Consumer Non-Cyclicals,0.0039,0.0924,0.0,0.0835,-0.0101,0.0895,-0.0127,0.0919,Tinggi
+ASII,Astra International Tbk.,Industrials,-0.0021,0.0159,-0.0,0.017,0.0004,0.0175,-0.0003,0.0165,Sedang
+ASJT,Asuransi Jasa Tania Tbk.,Financials,-0.0016,0.0149,-0.0009,0.0172,-0.0002,0.0192,0.0,0.0216,Sedang
+ASLC,Autopedia Sukses Lestari Tbk.,Consumer Cyclicals,-0.005,0.0342,-0.0045,0.0276,-0.0009,0.0412,-0.0007,0.0395,Sedang
+ASLI,Asri Karya Lestari Tbk.,Infrastructures,0.0002,0.0229,0.0002,0.0229,0.0002,0.0229,-0.0346,0.1058,Sedang
+ASMI,Asuransi Maximus Graha Persada,Financials,0.0048,0.1025,0.0019,0.0944,0.0081,0.1193,-0.005,0.1203,Tinggi
+ASPI,Andalan Sakti Primaindo Tbk.,Properties and Real Estate,-0.0071,0.0158,-0.0139,0.0415,-0.0018,0.0404,-0.002,0.0451,Sedang
+ASRI,Alam Sutera Realty Tbk.,Properties and Real Estate,-0.004,0.0332,-0.0058,0.0368,0.0011,0.0388,-0.0007,0.0304,Sedang
+ASRM,Asuransi Ramayana Tbk.,Financials,0.0009,0.0253,-0.0005,0.0195,-0.0001,0.0211,-0.0004,0.0213,Sedang
+ASSA,Adi Sarana Armada Tbk.,Transportation and Logistic,-0.0051,0.0193,-0.0007,0.0287,-0.0004,0.0287,-0.0012,0.0327,Sedang
+ATAP,Trimitra Prawara Goldland Tbk.,Properties and Real Estate,0.0087,0.0604,-0.0002,0.0635,-0.0046,0.0729,-0.0021,0.0654,Tinggi
+ATIC,Anabatic Technologies Tbk.,Technology,0.0042,0.0401,0.0,0.0281,0.0007,0.0257,0.0009,0.0297,Tinggi
+ATLA,Atlantis Subsea Indonesia Tbk.,Energy,0.0,0.0,0.0,0.0,-0.033,0.1687,-0.0009,0.1939,Tinggi
+AUTO,Astra Otoparts Tbk.,Consumer Cyclicals,-0.0043,0.0197,-0.0005,0.0213,0.0009,0.0232,-0.0002,0.0259,Sedang
+AVIA,Avia Avian Tbk.,Basic Materials,0.0011,0.0268,-0.0011,0.0236,-0.0009,0.0234,-0.0007,0.0259,Sedang
+AWAN,Era Digital Media Tbk.,Technology,-0.0011,0.0298,0.002,0.0355,0.0003,0.0356,0.0016,0.0409,Tinggi
+AXIO,Tera Data Indonusa Tbk.,Technology,-0.0079,0.0229,0.0005,0.0335,-0.0026,0.0289,0.0009,0.0414,Sedang
+AYAM,Janu Putra Sejahtera Tbk.,Consumer Non-Cyclicals,-0.0027,0.0337,0.0029,0.0361,0.0025,0.0303,0.0014,0.0496,Sedang
+AYLS,Agro Yasa Lestari Tbk.,Basic Materials,0.0255,0.1419,0.014,0.1263,0.0141,0.1266,0.006,0.0975,Tinggi
+BABP,Bank MNC Internasional Tbk.,Financials,-0.0026,0.031,-0.0039,0.035,0.0024,0.0528,-0.0005,0.0519,Sedang
+BABY,Multitrend Indo Tbk.,Consumer Cyclicals,0.0073,0.0384,0.0067,0.0553,0.0117,0.0617,0.0031,0.0664,Tinggi
+BACA,Bank Capital Indonesia Tbk.,Financials,0.0,0.0079,0.0001,0.015,0.0002,0.0127,-0.0001,0.0115,Sedang
+BAIK,Bersama Mencapai Puncak Tbk.,Consumer Cyclicals,-0.0017,0.0175,0.002,0.0978,0.0074,0.1297,-0.0008,0.135,Tinggi
+BAJA,Saranacentral Bajatama Tbk.,Basic Materials,-0.0026,0.0178,0.0012,0.062,0.0006,0.0591,0.0004,0.0638,Tinggi
+BALI,Bali Towerindo Sentra Tbk.,Infrastructures,0.0053,0.0548,0.0095,0.0522,0.0035,0.0494,0.0034,0.0538,Sedang
+BANK,Bank Aladin Syariah Tbk.,Financials,-0.0002,0.015,-0.0008,0.0207,-0.0013,0.0184,-0.0012,0.0283,Sedang
+BAPA,Bekasi Asri Pemula Tbk.,Properties and Real Estate,0.003,0.0538,-0.0006,0.0394,0.0022,0.0462,-0.0006,0.0543,Tinggi
+BAPI,Bhakti Agung Propertindo Tbk.,Properties and Real Estate,-0.0083,0.0932,0.0033,0.1008,-0.0162,0.0966,-0.0162,0.0966,Sedang
+BATA,Sepatu Bata Tbk.,Consumer Cyclicals,0.0067,0.0204,-0.0044,0.0291,-0.0051,0.0422,-0.0083,0.0523,Sedang
+BATR,Benteng Api Technic Tbk.,Basic Materials,-0.0089,0.0216,-0.0004,0.0708,-0.0039,0.0689,-0.0039,0.0689,Tinggi
+BAUT,Mitra Angkasa Sejahtera Tbk.,Consumer Cyclicals,0.0087,0.0654,-0.0038,0.0635,0.0061,0.0735,-0.0075,0.0821,Sedang
+BAYU,Bayu Buana Tbk,Consumer Cyclicals,-0.0005,0.0123,-0.0001,0.0139,0.001,0.0176,0.0004,0.0204,Sedang
+BBCA,Bank Central Asia Tbk.,Financials,-0.0043,0.0157,-0.0013,0.0167,-0.0003,0.0159,0.0002,0.0149,Rendah
+BBHI,Allo Bank Indonesia Tbk.,Financials,-0.0073,0.0647,-0.004,0.0429,-0.0019,0.0395,-0.0023,0.0362,Tinggi
+BBKP,Bank KB Bukopin Tbk.,Financials,-0.0008,0.0219,-0.0027,0.0395,-0.0009,0.0465,-0.0021,0.0392,Sedang
+BBLD,Buana Finance Tbk.,Financials,0.0029,0.0487,0.0005,0.0335,0.0027,0.0467,-0.0,0.0439,Sedang
+BBMD,Bank Mestika Dharma Tbk.,Financials,-0.0065,0.0252,-0.0021,0.0241,-0.0005,0.0304,0.0001,0.0318,Sedang
+BBNI,Bank Negara Indonesia (Persero,Financials,-0.0023,0.032,-0.0021,0.0246,-0.0005,0.023,0.0004,0.0203,Sedang
+BBRI,Bank Rakyat Indonesia (Persero,Financials,-0.0004,0.0268,-0.0021,0.0213,-0.0006,0.0202,-0.0005,0.0192,Sedang
+BBRM,Pelayaran Nasional Bina Buana ,Energy,0.0003,0.0413,-0.0012,0.0352,0.0018,0.043,0.0016,0.0439,Tinggi
+BBSI,Krom Bank Indonesia Tbk.,Financials,-0.0024,0.0282,-0.0002,0.0258,-0.0001,0.0498,0.0014,0.0399,Sedang
+BBSS,Bumi Benowo Sukses Sejahtera T,Properties and Real Estate,-0.0044,0.0548,-0.0005,0.0425,0.0028,0.0483,0.0061,0.0694,Tinggi
+BBTN,Bank Tabungan Negara (Persero),Financials,-0.0054,0.0215,-0.0035,0.0197,-0.0011,0.0199,-0.0004,0.0201,Sedang
+BBYB,Bank Neo Commerce Tbk.,Financials,-0.0066,0.0243,-0.0032,0.0401,-0.0002,0.0389,-0.0009,0.0547,Tinggi
+BCAP,MNC Kapital Indonesia Tbk.,Financials,-0.0007,0.0415,-0.0042,0.0503,0.0038,0.0752,0.0019,0.0645,Tinggi
+BCIC,Bank JTrust Indonesia Tbk.,Financials,-0.0135,0.0325,0.0053,0.049,0.0035,0.0449,0.0015,0.04,Sedang
+BCIP,Bumi Citra Permai Tbk.,Properties and Real Estate,0.001,0.0696,0.0026,0.0698,0.0021,0.0591,-0.0005,0.0441,Sedang
+BDKR,Berdikari Pondasi Perkasa Tbk.,Infrastructures,-0.0038,0.0201,-0.0159,0.0886,-0.0038,0.0768,-0.0004,0.0591,Tinggi
+BDMN,Bank Danamon Indonesia Tbk.,Financials,-0.0009,0.0126,-0.0002,0.0106,-0.0004,0.0112,-0.0004,0.0123,Sedang
+BEBS,Berkah Beton Sadaya Tbk.,Basic Materials,0.0483,0.2398,0.0095,0.1922,-0.0073,0.1891,-0.0073,0.1891,Tinggi
+BEEF,Estika Tata Tiara Tbk.,Consumer Non-Cyclicals,-0.0007,0.055,0.0004,0.074,-0.0023,0.0583,0.0027,0.0571,Sedang
+BEER,Jobubu Jarum Minahasa Tbk.,Consumer Non-Cyclicals,-0.0033,0.0434,-0.0041,0.0301,-0.0036,0.0332,-0.0022,0.0316,Sedang
+BEKS,Bank Pembangunan Daerah Banten,Financials,-0.0051,0.0461,0.0037,0.0729,0.0006,0.0657,-0.0018,0.0705,Sedang
+BELI,Global Digital Niaga Tbk.,Technology,0.0001,0.0122,0.0,0.0083,-0.0004,0.0091,0.0,0.0118,Rendah
+BELL,Trisula Textile Industries Tbk,Consumer Cyclicals,-0.0011,0.0298,-0.0028,0.0409,0.0023,0.0744,-0.0009,0.0614,Sedang
+BESS,Batulicin Nusantara Maritim Tb,Energy,0.014,0.0474,0.0124,0.0478,0.0064,0.0407,0.0037,0.039,Sedang
+BEST,Bekasi Fajar Industrial Estate,Properties and Real Estate,-0.0066,0.0221,-0.0035,0.0244,-0.0006,0.0319,-0.0018,0.0276,Sedang
+BFIN,BFI Finance  Indonesia Tbk.,Financials,-0.0005,0.0201,-0.001,0.0237,-0.0003,0.0279,-0.0008,0.0264,Sedang
+BGTG,Bank Ganesha Tbk.,Financials,-0.0063,0.0223,0.0024,0.042,0.0009,0.035,-0.0003,0.0327,Tinggi
+BHAT,Bhakti Multi Artha Tbk.,Financials,0.0008,0.0105,-0.0018,0.0178,0.0017,0.0288,-0.0,0.0291,Sedang
+BHIT,MNC Asia Holding Tbk.,Industrials,-0.0157,0.0266,-0.0074,0.0269,-0.0026,0.0556,-0.0028,0.0516,Sedang
+BIKA,Binakarya Jaya Abadi Tbk.,Properties and Real Estate,0.0,0.0,0.0,0.0,0.0063,0.0669,-0.001,0.0676,Tinggi
+BIKE,Sepeda Bersama Indonesia Tbk.,Consumer Cyclicals,0.0065,0.0341,-0.0004,0.0238,0.0015,0.0333,0.003,0.0362,Sedang
+BIMA,Primarindo Asia Infrastructure,Consumer Cyclicals,-0.0056,0.0371,-0.0009,0.0544,0.002,0.056,0.002,0.0656,Tinggi
+BINA,Bank Ina Perdana Tbk.,Financials,0.0002,0.0107,0.0001,0.0114,-0.0002,0.0114,0.0002,0.0124,Sedang
+BINO,Perma Plasindo Tbk.,Industrials,-0.0089,0.0926,-0.003,0.0823,0.0035,0.0818,0.0022,0.0617,Sedang
+BIPI,Astrindo Nusantara Infrastrukt,Energy,-0.0025,0.0303,0.0068,0.0621,0.0014,0.0643,-0.0002,0.0506,Sedang
+BIPP,Bhuwanatala Indah Permai Tbk.,Properties and Real Estate,0.0137,0.0726,0.0102,0.0649,0.0083,0.0653,0.0003,0.0681,Sedang
+BIRD,Blue Bird Tbk.,Transportation and Logistic,-0.0051,0.0231,-0.0011,0.0225,0.0009,0.0205,-0.0007,0.0212,Sedang
+BISI,BISI International Tbk.,Consumer Non-Cyclicals,-0.0001,0.0408,-0.0035,0.0322,-0.0027,0.0295,-0.0006,0.0259,Sedang
+BJBR,Bank Pembangunan Daerah Jawa B,Financials,-0.0002,0.0099,-0.0008,0.0085,-0.0005,0.0102,-0.0006,0.0104,Rendah
+BJTM,Bank Pembangunan Daerah Jawa T,Financials,0.0016,0.0137,0.0002,0.0126,-0.0001,0.0148,-0.0001,0.0131,Rendah
+BKDP,Bukit Darmo Property Tbk,Properties and Real Estate,-0.0042,0.0244,0.0067,0.0359,0.001,0.0456,0.0025,0.0743,Sedang
+BKSL,Sentul City Tbk.,Properties and Real Estate,-0.0099,0.0583,0.0057,0.056,0.0052,0.0534,0.0023,0.0561,Sedang
+BKSW,Bank QNB Indonesia Tbk.,Financials,-0.0073,0.0334,0.0044,0.082,0.0026,0.0628,-0.0003,0.049,Tinggi
+BLES,Superior Prima Sukses Tbk.,Basic Materials,0.0035,0.0379,0.0023,0.0304,0.0021,0.0453,0.0021,0.0453,Sedang
+BLTA,Berlian Laju Tanker Tbk,Transportation and Logistic,0.0014,0.0544,0.0005,0.0579,0.0023,0.0679,-0.0057,0.0736,Sedang
+BLTZ,Graha Layar Prima Tbk.,Consumer Cyclicals,0.0,0.0,0.0072,0.0435,0.0045,0.0767,0.0022,0.0687,Sedang
+BLUE,Berkah Prima Perkasa Tbk.,Industrials,0.0003,0.0108,-0.0002,0.0108,0.0002,0.0135,0.0002,0.0238,Sedang
+BMAS,Bank Maspion Indonesia Tbk.,Financials,-0.0122,0.0193,-0.0007,0.0761,0.0012,0.0554,0.0001,0.0486,Tinggi
+BMBL,Lavender Bina Cendikia Tbk.,Consumer Cyclicals,0.024,0.0924,0.0126,0.0894,0.0175,0.1314,0.0014,0.1057,Tinggi
+BMHS,Bundamedik Tbk.,Healthcare,-0.0013,0.0401,-0.0004,0.0479,0.0003,0.055,-0.0004,0.0416,Sedang
+BMRI,Bank Mandiri (Persero) Tbk.,Financials,-0.0005,0.0312,-0.0018,0.0243,-0.0004,0.0227,0.0006,0.0203,Sedang
+BMSR,Bintang Mitra Semestaraya Tbk,Basic Materials,0.0012,0.0188,0.0001,0.0193,-0.0003,0.0209,0.0008,0.0371,Tinggi
+BMTR,Global Mediacom Tbk.,Consumer Cyclicals,-0.0031,0.0166,-0.0025,0.0166,-0.0013,0.0228,-0.002,0.0232,Sedang
+BNBA,Bank Bumi Arta Tbk.,Financials,-0.0042,0.0198,-0.0024,0.0274,0.0003,0.0313,-0.0015,0.0307,Sedang
+BNBR,Bakrie & Brothers Tbk,Industrials,-0.0107,0.068,-0.0009,0.058,-0.0012,0.0623,-0.0013,0.0563,Sedang
+BNGA,Bank CIMB Niaga Tbk.,Financials,-0.0018,0.0117,-0.0014,0.0124,-0.0005,0.0136,0.0005,0.0157,Sedang
+BNII,Bank Maybank Indonesia Tbk.,Financials,-0.0052,0.0186,-0.0025,0.014,-0.0012,0.0235,-0.001,0.0207,Sedang
+BNLI,Bank Permata Tbk.,Financials,0.0092,0.0248,0.0018,0.0355,0.0031,0.0434,0.0015,0.0324,Sedang
+BOAT,Newport Marine Services Tbk.,Energy,-0.0144,0.0562,0.0108,0.1134,0.0108,0.1134,0.0108,0.1134,Tinggi
+BOBA,Formosa Ingredient Factory Tbk,Consumer Non-Cyclicals,0.0014,0.024,0.0026,0.0711,0.0025,0.0559,0.0018,0.0476,Sedang
+BOGA,Bintang Oto Global Tbk.,Consumer Cyclicals,0.0063,0.0336,-0.0058,0.0424,-0.0033,0.0315,-0.0028,0.0286,Rendah
+BOLA,Bali Bintang Sejahtera Tbk.,Consumer Cyclicals,-0.003,0.0204,-0.0015,0.0206,0.0006,0.0311,-0.002,0.0335,Sedang
+BOLT,Garuda Metalindo Tbk.,Consumer Cyclicals,0.0007,0.0154,0.0032,0.0177,0.0037,0.0204,0.0027,0.0252,Sedang
+BOSS,Borneo Olah Sarana Sukses Tbk.,Energy,0.0,0.0,0.0,0.0,0.0,0.0,0.0002,0.028,Tinggi
+BPFI,Woori Finance Indonesia Tbk.,Financials,-0.001,0.0317,-0.0008,0.0215,-0.0008,0.0345,0.0003,0.0483,Sedang
+BPII,Batavia Prosperindo Internasio,Financials,-0.0048,0.0378,0.0016,0.0225,0.0002,0.0197,0.0003,0.0172,Rendah
+BPTR,Batavia Prosperindo Trans Tbk.,Transportation and Logistic,-0.0047,0.0264,-0.0028,0.0373,0.001,0.043,0.0002,0.0534,Tinggi
+BRAM,Indo Kordsa Tbk.,Consumer Cyclicals,-0.0009,0.0198,0.0008,0.0265,0.0012,0.0256,-0.0002,0.0237,Tinggi
+BREN,Barito Renewables Energy Tbk.,Infrastructures,0.0051,0.0322,-0.0007,0.0585,0.002,0.0599,0.0102,0.0707,Tinggi
+BRIS,Bank Syariah Indonesia Tbk.,Financials,-0.0015,0.024,0.0002,0.0244,0.0009,0.0265,0.0019,0.0248,Sedang
+BRMS,Bumi Resources Minerals Tbk.,Basic Materials,-0.0011,0.0549,0.012,0.0561,0.0063,0.0431,0.003,0.038,Sedang
+BRNA,Berlina Tbk.,Basic Materials,0.0008,0.0416,-0.0018,0.0605,-0.0017,0.0589,-0.0015,0.0545,Sedang
+BRPT,Barito Pacific Tbk.,Basic Materials,-0.0009,0.0242,-0.0027,0.0279,0.0001,0.0397,0.0015,0.0455,Sedang
+BRRC,Raja Roti Cemerlang Tbk.,Consumer Non-Cyclicals,-0.0953,0.1762,-0.0953,0.1762,-0.0953,0.1762,-0.0953,0.1762,Tinggi
+BSBK,Wulandari Bangun Laksana Tbk.,Properties and Real Estate,0.0,0.0,-0.0032,0.0305,0.0009,0.0621,0.0016,0.0547,Tinggi
+BSDE,Bumi Serpong Damai Tbk.,Properties and Real Estate,-0.0015,0.0157,-0.0027,0.0245,0.0004,0.0238,-0.0004,0.0236,Sedang
+BSIM,Bank Sinarmas Tbk.,Financials,0.0056,0.0866,0.0009,0.0528,-0.0002,0.0425,0.0003,0.0337,Sedang
+BSML,Bintang Samudera Mandiri Lines,Energy,0.0062,0.0391,0.0058,0.0528,0.0015,0.0518,0.0023,0.0618,Tinggi
+BSSR,Baramulti Suksessarana Tbk.,Energy,0.0012,0.0116,-0.0003,0.0135,0.0019,0.0136,0.0014,0.0142,Sedang
+BSWD,Bank Of India Indonesia Tbk.,Financials,-0.0282,0.0099,-0.0282,0.0099,-0.0289,0.009,0.0202,0.0544,Rendah
+BTEK,Bumi Teknokultura Unggul Tbk,Consumer Non-Cyclicals,0.0581,0.2704,0.0483,0.2837,0.057,0.3722,0.0227,0.3287,Tinggi
+BTEL,Bakrie Telecom Tbk.,Infrastructures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+BTON,Betonjaya Manunggal Tbk.,Basic Materials,0.0021,0.0434,0.001,0.0563,0.001,0.0465,0.001,0.0426,Sedang
+BTPN,Bank SMBC Indonesia Tbk.,Financials,-0.0018,0.012,-0.001,0.0154,-0.0008,0.0136,-0.0006,0.0119,Rendah
+BTPS,Bank BTPN Syariah Tbk.,Financials,-0.0008,0.0198,-0.0034,0.0238,-0.0015,0.024,-0.0021,0.0259,Sedang
+BUAH,Segar Kumala Indonesia Tbk.,Consumer Non-Cyclicals,-0.0011,0.0153,0.0047,0.0194,0.0038,0.0208,0.0013,0.0284,Sedang
+BUDI,Budi Starch & Sweetener Tbk.,Consumer Non-Cyclicals,-0.003,0.0179,-0.0011,0.0141,-0.0015,0.0185,0.0001,0.0219,Sedang
+BUKA,Bukalapak.com Tbk.,Technology,-0.0037,0.0267,0.0009,0.0427,-0.0,0.0364,-0.0016,0.0318,Sedang
+BUKK,Bukaka Teknik Utama Tbk.,Infrastructures,-0.0015,0.0202,-0.0014,0.0159,-0.0008,0.0161,-0.0,0.0341,Sedang
+BULL,Buana Lintas Lautan Tbk.,Energy,0.0064,0.0313,0.0022,0.0368,0.0021,0.0442,0.0031,0.0599,Sedang
+BUMI,Bumi Resources Tbk.,Energy,-0.0064,0.0441,0.0037,0.0495,0.0021,0.0432,0.0002,0.0393,Sedang
+BUVA,Bukit Uluwatu Villa Tbk.,Consumer Cyclicals,0.0014,0.0365,0.0023,0.0473,0.0014,0.0386,0.002,0.0498,Sedang
+BVIC,Bank Victoria International Tb,Financials,0.0025,0.0489,0.0028,0.0411,0.0053,0.094,0.0014,0.0689,Tinggi
+BWPT,Eagle High Plantations Tbk.,Consumer Non-Cyclicals,-0.0036,0.0297,-0.0001,0.0304,0.0008,0.0284,0.0006,0.0362,Sedang
+BYAN,Bayan Resources Tbk.,Energy,0.0009,0.0144,0.0031,0.0143,0.0007,0.0206,0.0005,0.0182,Sedang
+CAKK,Cahayaputra Asa Keramik Tbk.,Industrials,-0.0017,0.0184,0.0022,0.0571,0.0033,0.0526,0.0002,0.0474,Tinggi
+CAMP,Campina Ice Cream Industry Tbk,Consumer Non-Cyclicals,-0.0106,0.0366,-0.0054,0.0333,-0.0008,0.0768,-0.0002,0.0559,Sedang
+CANI,Capitol Nusantara Indonesia Tb,Energy,-0.0024,0.0735,0.0037,0.0876,0.0052,0.0899,-0.0004,0.0872,Tinggi
+CARE,Metro Healthcare Indonesia Tbk,Healthcare,0.0017,0.0258,0.0096,0.0332,0.0016,0.0468,-0.0016,0.0702,Sedang
+CARS,Industri dan Perdagangan Bintr,Consumer Cyclicals,0.0034,0.0187,0.0013,0.02,-0.0003,0.0301,0.0001,0.0295,Sedang
+CASA,Capital Financial Indonesia Tb,Financials,0.0104,0.0283,0.0038,0.032,0.0019,0.0243,0.0002,0.0343,Sedang
+CASH,Cashlez Worldwide Indonesia Tb,Technology,-0.0024,0.0303,-0.0015,0.0299,-0.0012,0.0345,0.0006,0.047,Sedang
+CASS,Cardig Aero Services Tbk.,Infrastructures,0.0009,0.0265,0.0036,0.0263,0.0041,0.0333,0.0041,0.0359,Sedang
+CBDK,Bangun Kosambi Sukses Tbk.,Properties and Real Estate,0.0634,0.1158,0.0634,0.1158,0.0634,0.1158,0.0634,0.1158,Tinggi
+CBMF,Cahaya Bintang Medan Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+CBPE,Citra Buana Prasida Tbk.,Properties and Real Estate,-0.0033,0.0645,-0.0001,0.0474,0.0029,0.0494,0.0019,0.0405,Sedang
+CBRE,Cakra Buana Resources Energi T,Energy,0.0216,0.0903,0.006,0.0723,0.0068,0.0796,-0.0008,0.0817,Tinggi
+CBUT,Citra Borneo Utama Tbk.,Consumer Non-Cyclicals,0.0137,0.0708,0.0019,0.0464,0.0017,0.0478,-0.0005,0.0549,Tinggi
+CCSI,Communication Cable Systems In,Industrials,0.0075,0.0843,0.001,0.0643,-0.0012,0.0516,-0.0015,0.0487,Sedang
+CEKA,Wilmar Cahaya Indonesia Tbk.,Consumer Non-Cyclicals,0.0007,0.0167,0.0001,0.0162,0.0012,0.0184,0.0004,0.0147,Sedang
+CENT,Centratama Telekomunikasi Indo,Infrastructures,-0.0048,0.0368,-0.0012,0.0541,0.002,0.0501,-0.0012,0.0538,Sedang
+CFIN,Clipan Finance Indonesia Tbk.,Financials,-0.0004,0.0292,-0.0038,0.0216,-0.0029,0.0207,-0.0019,0.0258,Sedang
+CGAS,Citra Nusantara Gemilang Tbk.,Energy,-0.003,0.0278,-0.0013,0.0453,-0.0006,0.0638,-0.0016,0.1064,Tinggi
+CHEM,Chemstar Indonesia Tbk.,Basic Materials,-0.0043,0.0938,-0.0035,0.0579,0.0009,0.0714,-0.0003,0.0624,Tinggi
+CHIP,Pelita Teknologi Global Tbk.,Technology,-0.0058,0.0219,0.0017,0.0204,-0.0023,0.0179,0.0006,0.0297,Tinggi
+CINT,Chitose Internasional Tbk.,Consumer Cyclicals,0.0028,0.1019,0.0025,0.0839,0.0034,0.0729,0.0013,0.0628,Sedang
+CITA,Cita Mineral Investindo Tbk.,Basic Materials,-0.0037,0.0281,0.0054,0.049,0.0049,0.0445,0.0022,0.0478,Sedang
+CITY,Natura City Developments Tbk.,Properties and Real Estate,-0.0136,0.0505,0.0097,0.1222,0.0156,0.1381,0.0103,0.1223,Tinggi
+CLAY,Citra Putra Realty Tbk.,Consumer Cyclicals,0.0406,0.063,0.0322,0.0752,0.0091,0.0879,0.0099,0.0848,Tinggi
+CLEO,Sariguna Primatirta Tbk.,Consumer Non-Cyclicals,0.0032,0.0252,0.0025,0.0245,0.0031,0.0293,0.003,0.0271,Sedang
+CLPI,Colorpak Indonesia Tbk.,Basic Materials,-0.001,0.0083,-0.0006,0.0069,0.0013,0.0175,0.0008,0.0144,Rendah
+CMNP,Citra Marga Nusaphala Persada ,Infrastructures,0.0486,0.1021,0.0145,0.0616,0.0072,0.0461,0.0034,0.0347,Sedang
+CMNT,Cemindo Gemilang Tbk.,Basic Materials,-0.0058,0.0305,-0.0023,0.0255,-0.0015,0.0231,-0.0,0.0233,Sedang
+CMPP,AirAsia Indonesia Tbk.,Transportation and Logistic,0.0092,0.0632,-0.0055,0.0475,0.0032,0.0445,-0.0013,0.0397,Sedang
+CMRY,Cisarua Mountain Dairy Tbk.,Consumer Non-Cyclicals,-0.0037,0.0259,-0.0011,0.0227,0.0002,0.0223,0.0008,0.0245,Sedang
+CNKO,Exploitasi Energi Indonesia Tb,Energy,0.0411,0.084,0.0322,0.1258,0.027,0.167,0.008,0.1576,Sedang
+CNMA,Nusantara Sejahtera Raya Tbk.,Consumer Cyclicals,-0.0053,0.0279,-0.0042,0.0226,-0.0019,0.0297,-0.0014,0.0359,Sedang
+CNTX,Century Textile Industry Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0313,0.0365,Tinggi
+COAL,Black Diamond Resources Tbk.,Energy,0.0089,0.0646,0.0033,0.0538,-0.0005,0.0611,-0.002,0.0713,Tinggi
+COCO,Wahana Interfood Nusantara Tbk,Consumer Non-Cyclicals,-0.006,0.0171,-0.0029,0.0252,-0.004,0.0425,-0.0023,0.0497,Sedang
+COWL,Cowell Development Tbk.,Properties and Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+CPIN,Charoen Pokphand Indonesia Tbk,Consumer Non-Cyclicals,-0.0011,0.0176,-0.0001,0.0182,-0.0001,0.018,-0.0,0.0189,Sedang
+CPRI,Capri Nusa Satu Properti Tbk.,Properties and Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+CPRO,Central Proteina Prima Tbk.,Consumer Non-Cyclicals,0.0127,0.148,0.0046,0.0824,0.0027,0.063,0.0023,0.0802,Sedang
+CRAB,Toba Surimi Industries Tbk.,Consumer Non-Cyclicals,-0.0003,0.0102,-0.0002,0.0131,-0.0009,0.0159,0.0007,0.0241,Sedang
+CRSN,Carsurin Tbk.,Industrials,0.0058,0.0289,0.0058,0.0938,0.0029,0.0706,0.0014,0.0558,Tinggi
+CSAP,Catur Sentosa Adiprana Tbk.,Consumer Cyclicals,0.0001,0.0243,-0.0006,0.0261,-0.0006,0.0275,-0.001,0.0287,Sedang
+CSIS,Cahayasakti Investindo Sukses ,Properties and Real Estate,0.0048,0.046,0.009,0.052,0.0052,0.0613,0.0025,0.0529,Tinggi
+CSMI,Cipta Selera Murni Tbk.,Consumer Cyclicals,0.0028,0.0232,0.0044,0.025,0.0034,0.0447,0.0013,0.0455,Sedang
+CSRA,Cisadane Sawit Raya Tbk.,Consumer Non-Cyclicals,-0.0022,0.0234,0.0015,0.0226,0.004,0.0269,0.0014,0.0253,Sedang
+CTBN,Citra Tubindo Tbk.,Basic Materials,-0.0179,0.0203,0.0051,0.0776,0.0073,0.0802,0.0046,0.0856,Tinggi
+CTRA,Ciputra Development Tbk.,Properties and Real Estate,-0.002,0.0279,-0.003,0.0297,-0.0006,0.0267,0.0001,0.0254,Sedang
+CTTH,Citatah Tbk.,Industrials,0.0089,0.05,-0.0013,0.0476,0.0097,0.0658,-0.0026,0.0703,Sedang
+CUAN,Petrindo Jaya Kreasi Tbk.,Energy,0.0243,0.0421,0.0068,0.0447,0.0048,0.0435,0.0089,0.0587,Tinggi
+CYBR,ITSEC Asia Tbk.,Technology,0.0092,0.0321,0.004,0.0344,0.0024,0.0386,0.0051,0.052,Sedang
+DAAZ,Daaz Bara Lestari Tbk.,Basic Materials,0.0042,0.0874,0.0446,0.1166,0.0446,0.1166,0.0446,0.1166,Tinggi
+DADA,Diamond Citra Propertindo Tbk.,Properties and Real Estate,0.0425,0.1549,0.013,0.1382,0.0209,0.1609,-0.0019,0.1487,Tinggi
+DART,Duta Anggada Realty Tbk.,Properties and Real Estate,-0.0012,0.0906,0.0006,0.0972,0.0085,0.1085,0.0039,0.0891,Sedang
+DATA,Remala Abadi Tbk.,Infrastructures,0.03,0.1078,0.0129,0.0686,0.014,0.076,0.014,0.076,Tinggi
+DAYA,Duta Intidaya Tbk.,Consumer Non-Cyclicals,0.0175,0.06,0.0099,0.0579,0.0073,0.0514,0.0059,0.0503,Tinggi
+DCII,DCI Indonesia Tbk.,Technology,0.0024,0.045,-0.0013,0.0384,0.0026,0.0374,0.002,0.0432,Sedang
+DEAL,Dewata Freightinternational Tb,Transportation and Logistic,0.0,0.0,0.0,0.0,0.0,0.0,-0.0406,0.1399,Tinggi
+DEFI,Danasupra Erapacific Tbk.,Financials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+DEPO,Caturkarda Depo Bangunan Tbk.,Consumer Cyclicals,-0.0015,0.0208,-0.0002,0.0541,-0.002,0.0421,-0.0015,0.0345,Sedang
+DEWA,Darma Henwa Tbk,Energy,-0.0025,0.0374,0.0084,0.0603,0.0052,0.049,0.0036,0.0477,Sedang
+DEWI,Dewi Shri Farmindo Tbk.,Consumer Non-Cyclicals,0.0037,0.0279,0.0029,0.0258,0.0038,0.0578,0.0034,0.0682,Tinggi
+DFAM,Dafam Property Indonesia Tbk.,Consumer Cyclicals,0.0002,0.0212,-0.0005,0.0327,0.0005,0.0326,-0.0009,0.0581,Tinggi
+DGIK,Nusa Konstruksi Enjiniring Tbk,Infrastructures,-0.0036,0.018,-0.0026,0.0148,-0.0011,0.0184,-0.0013,0.029,Sedang
+DGNS,Diagnos Laboratorium Utama Tbk,Healthcare,-0.0056,0.0375,-0.0045,0.0463,-0.0023,0.053,0.0011,0.0508,Tinggi
+DGWG,Delta Giri Wacana Tbk.,Basic Materials,0.0236,0.0659,0.0236,0.0659,0.0236,0.0659,0.0236,0.0659,Tinggi
+DIGI,Arkadia Digital Media Tbk.,Consumer Cyclicals,0.0025,0.0735,0.0008,0.0708,0.0058,0.0816,-0.0047,0.0839,Sedang
+DILD,Intiland Development Tbk.,Properties and Real Estate,-0.0037,0.0141,-0.0032,0.0218,-0.0009,0.0241,-0.0013,0.0231,Sedang
+DIVA,Distribusi Voucher Nusantara T,Technology,-0.0131,0.0435,0.0023,0.0858,0.0044,0.1011,0.0002,0.1012,Tinggi
+DKFT,Central Omega Resources Tbk.,Basic Materials,0.0046,0.0508,0.0093,0.0551,0.0065,0.0458,0.0037,0.039,Sedang
+DLTA,Delta Djakarta Tbk.,Consumer Non-Cyclicals,0.0016,0.0226,-0.0009,0.018,-0.0016,0.018,-0.0015,0.0139,Rendah
+DMAS,Puradelta Lestari Tbk.,Properties and Real Estate,-0.0038,0.0105,-0.0017,0.0112,-0.0007,0.0149,-0.0002,0.0131,Sedang
+DMMX,Digital Mediatama Maxima Tbk.,Technology,0.0052,0.0546,0.0094,0.0644,0.0085,0.0618,-0.0005,0.0604,Tinggi
+DMND,Diamond Food Indonesia Tbk.,Consumer Non-Cyclicals,0.0056,0.0244,0.0,0.0274,0.0015,0.0298,0.0,0.0199,Sedang
+DNAR,Bank Oke Indonesia Tbk.,Financials,-0.0072,0.0382,0.0096,0.1112,0.0039,0.0895,0.0013,0.069,Tinggi
+DNET,Indoritel Makmur Internasional,Financials,0.0008,0.0142,-0.0006,0.0132,0.0053,0.0418,0.0031,0.0316,Sedang
+DOID,Delta Dunia Makmur Tbk.,Energy,-0.0086,0.0311,-0.0039,0.0333,0.0007,0.0321,0.0014,0.0332,Sedang
+DOOH,Era Media Sejahtera Tbk.,Consumer Cyclicals,0.0385,0.1223,0.0163,0.0857,0.0072,0.0637,0.006,0.0844,Tinggi
+DOSS,Global Sukses Digital Tbk.,Consumer Cyclicals,-0.0127,0.0732,0.0012,0.0791,0.0023,0.0814,0.0023,0.0814,Tinggi
+DPNS,Duta Pertiwi Nusantara Tbk.,Basic Materials,-0.0116,0.04,-0.0045,0.0256,-0.003,0.0236,-0.0014,0.0251,Sedang
+DPUM,Dua Putra Utama Makmur Tbk.,Consumer Non-Cyclicals,0.0035,0.1061,0.0061,0.0991,0.0166,0.0841,0.0055,0.0767,Sedang
+DRMA,Dharma Polimetal Tbk.,Consumer Cyclicals,-0.0017,0.0182,-0.0018,0.0186,0.0006,0.023,-0.001,0.0294,Sedang
+DSFI,Dharma Samudera Fishing Indust,Consumer Non-Cyclicals,0.0045,0.0725,0.0023,0.0572,0.0021,0.0487,-0.0005,0.039,Sedang
+DSNG,Dharma Satya Nusantara Tbk.,Consumer Non-Cyclicals,-0.0085,0.0442,0.0028,0.0433,0.0037,0.0367,0.002,0.0326,Sedang
+DSSA,Dian Swastatika Sentosa Tbk,Energy,0.0051,0.0322,0.0009,0.0279,0.0083,0.0372,0.0101,0.0468,Sedang
+DUCK,Jaya Bersama Indo Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+DUTI,Duta Pertiwi Tbk,Properties and Real Estate,-0.0127,0.0473,0.0008,0.0448,-0.0006,0.0457,-0.0001,0.0345,Sedang
+DVLA,Darya-Varia Laboratoria Tbk.,Healthcare,0.0011,0.019,0.0004,0.0159,0.0013,0.0148,-0.0001,0.0167,Rendah
+DWGL,Dwi Guna Laksana Tbk.,Energy,-0.0257,0.0795,0.0109,0.1082,0.0052,0.0814,0.0018,0.0628,Tinggi
+DYAN,Dyandra Media International Tb,Industrials,0.0002,0.0202,-0.0029,0.0308,0.0012,0.0393,-0.0002,0.0379,Sedang
+EAST,Eastparc Hotel Tbk.,Consumer Cyclicals,0.0001,0.0128,-0.0009,0.0228,-0.0006,0.0185,-0.0001,0.0238,Sedang
+ECII,Electronic City Indonesia Tbk.,Consumer Cyclicals,-0.0116,0.0804,0.0026,0.0967,0.0009,0.0737,-0.0005,0.0584,Sedang
+EDGE,Indointernet Tbk.,Technology,-0.0013,0.022,-0.0039,0.0227,-0.0002,0.0348,0.0014,0.0562,Sedang
+EKAD,Ekadharma International Tbk.,Basic Materials,-0.0019,0.0131,-0.0015,0.0116,-0.0004,0.0166,-0.0008,0.0145,Rendah
+ELIT,Data Sinergitama Jaya Tbk.,Technology,0.003,0.0417,0.0027,0.0373,0.0031,0.0384,0.0012,0.0473,Tinggi
+ELPI,Pelayaran Nasional Ekalya Purn,Transportation and Logistic,-0.0047,0.0117,0.0005,0.0198,0.0016,0.0183,0.0019,0.0268,Sedang
+ELSA,Elnusa Tbk.,Energy,-0.0028,0.0125,-0.001,0.018,0.0008,0.0206,0.0008,0.0207,Sedang
+ELTY,Bakrieland Development Tbk.,Properties and Real Estate,0.0043,0.0954,0.0004,0.0819,0.0089,0.1052,-0.0051,0.1069,Sedang
+EMDE,Megapolitan Developments Tbk.,Properties and Real Estate,-0.006,0.0329,-0.0012,0.0838,0.0056,0.1019,0.0028,0.0817,Sedang
+EMTK,Elang Mahkota Teknologi Tbk.,Technology,-0.0021,0.0431,0.0042,0.0409,0.0024,0.0361,-0.0004,0.0326,Sedang
+ENAK,Champ Resto Indonesia Tbk.,Consumer Cyclicals,0.0234,0.1259,0.0015,0.0884,0.0003,0.0714,-0.0008,0.0585,Sedang
+ENRG,Energi Mega Persada Tbk.,Energy,-0.0035,0.0412,0.0021,0.0466,0.001,0.0379,0.0003,0.0358,Sedang
+ENVY,Envy Technologies Indonesia Tb,Technology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+ENZO,Morenzo Abadi Perkasa Tbk.,Consumer Non-Cyclicals,-0.0014,0.0608,-0.0044,0.0529,0.0021,0.0604,-0.0002,0.0757,Sedang
+EPAC,Megalestari Epack Sentosaraya ,Basic Materials,-0.004,0.1075,0.0018,0.1145,0.0132,0.1196,0.0038,0.1219,Tinggi
+EPMT,Enseval Putera Megatrading Tbk,Consumer Non-Cyclicals,-0.0015,0.018,-0.0009,0.0145,0.0009,0.0159,-0.0006,0.0136,Sedang
+ERAA,Erajaya Swasembada Tbk.,Consumer Cyclicals,-0.0028,0.0271,-0.0013,0.0262,0.0005,0.0262,-0.0001,0.0286,Sedang
+ERAL,Sinar Eka Selaras Tbk.,Consumer Cyclicals,-0.0042,0.0425,0.0002,0.0353,0.0017,0.0371,-0.0008,0.0327,Sedang
+ERTX,Eratex Djaja Tbk.,Consumer Cyclicals,-0.001,0.0269,0.0025,0.0884,-0.0026,0.0816,0.0007,0.0721,Tinggi
+ESIP,Sinergi Inti Plastindo Tbk.,Basic Materials,0.0047,0.0699,-0.0069,0.0615,0.0018,0.0599,-0.0043,0.0589,Tinggi
+ESSA,ESSA Industries Indonesia Tbk.,Basic Materials,0.0021,0.0287,0.0009,0.0287,0.001,0.0306,0.0015,0.0339,Sedang
+ESTA,Esta Multi Usaha Tbk.,Consumer Cyclicals,0.001,0.031,-0.0033,0.0288,0.0009,0.0406,0.0008,0.0404,Tinggi
+ESTI,Ever Shine Tex Tbk.,Consumer Cyclicals,-0.0073,0.0358,0.0,0.0438,0.0057,0.0505,-0.0006,0.0506,Sedang
+ETWA,Eterindo Wahanatama Tbk,Basic Materials,0.0,0.0,0.0,0.0,0.0,0.0,-0.003,0.0624,Tinggi
+EURO,Estee Gold Feet Tbk.,Consumer Non-Cyclicals,0.0166,0.0822,-0.0037,0.0693,-0.0011,0.0685,0.0012,0.0669,Tinggi
+EXCL,XL Axiata Tbk.,Infrastructures,-0.0005,0.011,0.0001,0.0122,-0.0002,0.0164,0.0006,0.0208,Sedang
+FAPA,FAP Agri Tbk.,Consumer Non-Cyclicals,0.0005,0.0051,0.0005,0.0051,0.0003,0.005,0.0004,0.0061,Rendah
+FAST,Fast Food Indonesia Tbk.,Consumer Cyclicals,-0.0046,0.0366,-0.0059,0.031,-0.0062,0.0304,-0.0033,0.0312,Sedang
+FASW,Fajar Surya Wisesa Tbk.,Basic Materials,0.0184,0.0987,-0.0001,0.0759,0.0034,0.0853,0.0011,0.0752,Sedang
+FILM,MD Entertainment Tbk.,Consumer Cyclicals,0.0028,0.0238,0.0001,0.0352,-0.0005,0.0333,0.0011,0.0398,Tinggi
+FIMP,Fimperkasa Utama Tbk.,Infrastructures,0.0764,0.0532,0.0385,0.0806,0.0113,0.0722,0.0047,0.0644,Sedang
+FIRE,Alfa Energi Investama Tbk.,Energy,0.0006,0.0379,-0.0021,0.0561,0.002,0.0635,0.0051,0.092,Tinggi
+FISH,FKS Multi Agro Tbk.,Consumer Non-Cyclicals,-0.0164,0.0166,0.0084,0.0418,0.0118,0.035,0.0089,0.0353,Sedang
+FITT,Hotel Fitra International Tbk.,Consumer Cyclicals,0.0032,0.0158,0.0001,0.0141,-0.014,0.0506,-0.007,0.0406,Tinggi
+FLMC,Falmaco Nonwoven Industri Tbk.,Consumer Non-Cyclicals,0.0132,0.0862,0.0079,0.08,0.014,0.0843,0.005,0.0838,Tinggi
+FMII,Fortune Mate Indonesia Tbk,Properties and Real Estate,-0.0972,,0.0202,0.119,0.013,0.0901,0.0047,0.0794,Tinggi
+FOLK,Multi Garam Utama Tbk.,Industrials,0.0,0.0,0.0009,0.0878,-0.0023,0.0548,-0.0021,0.0719,Tinggi
+FOOD,Sentra Food Indonesia Tbk.,Consumer Non-Cyclicals,-0.0003,0.0157,-0.0001,0.0198,0.0004,0.0369,0.0018,0.0451,Tinggi
+FORU,Fortune Indonesia Tbk,Consumer Cyclicals,-0.0059,0.0776,0.0018,0.094,0.0185,0.1013,0.0164,0.0849,Tinggi
+FORZ,Forza Land Indonesia Tbk.,Properties and Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+FPNI,Lotte Chemical Titan Tbk.,Basic Materials,-0.0003,0.0136,0.0006,0.028,0.0006,0.0271,-0.0,0.0235,Tinggi
+FREN,Smartfren Telecom Tbk.,Infrastructures,-0.0106,0.0484,-0.0053,0.044,-0.0058,0.0578,-0.0039,0.0485,Sedang
+FUJI,Fuji Finance Indonesia Tbk.,Financials,-0.0,0.0482,0.0087,0.0697,0.0038,0.0663,0.0018,0.0555,Tinggi
+FUTR,Lini Imaji Kreasi Ekosistem Tb,Consumer Cyclicals,-0.0158,0.0954,0.0125,0.1055,0.0118,0.1062,0.0122,0.1163,Tinggi
+FWCT,Wijaya Cahaya Timber Tbk.,Basic Materials,0.002,0.0238,0.0068,0.0609,0.0026,0.0705,0.0062,0.0727,Tinggi
+GAMA,Aksara Global Development Tbk.,Properties and Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+GDST,Gunawan Dianjaya Steel Tbk.,Basic Materials,-0.0062,0.0353,-0.0026,0.042,0.001,0.0402,-0.0003,0.0399,Tinggi
+GDYR,Goodyear Indonesia Tbk.,Consumer Cyclicals,-0.0097,0.043,-0.0038,0.0308,-0.0001,0.0346,-0.0002,0.0308,Sedang
+GEMA,Gema Grahasarana Tbk.,Consumer Cyclicals,-0.0149,0.0305,-0.0062,0.0278,-0.0032,0.0401,-0.0006,0.0549,Sedang
+GEMS,Golden Energy Mines Tbk.,Energy,-0.0022,0.0177,-0.0026,0.0278,0.0051,0.0463,0.0032,0.0364,Sedang
+GGRM,Gudang Garam Tbk.,Consumer Non-Cyclicals,-0.0057,0.0123,-0.0039,0.0166,-0.0026,0.0178,-0.0025,0.0177,Sedang
+GGRP,Gunung Raja Paksi Tbk.,Basic Materials,-0.0015,0.0697,0.0025,0.1546,0.0049,0.1138,0.0022,0.0782,Tinggi
+GHON,Gihon Telekomunikasi Indonesia,Infrastructures,-0.0011,0.0122,-0.0012,0.0112,-0.0001,0.0218,-0.0001,0.02,Sedang
+GIAA,Garuda Indonesia (Persero) Tbk,Transportation and Logistic,-0.0057,0.0253,-0.005,0.0344,-0.001,0.036,0.0003,0.0511,Sedang
+GJTL,Gajah Tunggal Tbk.,Consumer Cyclicals,0.0007,0.0177,-0.0009,0.0246,0.0006,0.0252,0.0014,0.0418,Sedang
+GLOB,Globe Kita Terang Tbk.,Consumer Cyclicals,-0.0878,0.0111,-0.0614,0.0312,-0.0324,0.0545,-0.0046,0.0669,Tinggi
+GLVA,Galva Technologies Tbk.,Technology,-0.0005,0.0677,0.0001,0.0413,0.0012,0.0413,-0.001,0.0535,Sedang
+GMFI,Garuda Maintenance Facility Ae,Infrastructures,-0.0049,0.0379,-0.0048,0.0379,-0.0011,0.0396,0.0002,0.0488,Sedang
+GMTD,Gowa Makassar Tourism Developm,Properties and Real Estate,-0.004,0.0572,-0.0018,0.0462,-0.0004,0.0537,0.0057,0.0578,Sedang
+GOLD,Visi Telekomunikasi Infrastruk,Infrastructures,-0.0014,0.0273,0.0004,0.0487,-0.0011,0.0428,0.0002,0.0541,Tinggi
+GOLF,Intra Golflink Resorts Tbk.,Consumer Cyclicals,-0.0037,0.012,-0.0011,0.0259,-0.0024,0.0309,-0.0024,0.0309,Sedang
+GOLL,Golden Plantation Tbk.,Consumer Non-Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+GOOD,Garudafood Putra Putri Jaya Tb,Consumer Non-Cyclicals,-0.0001,0.0177,0.0011,0.0265,0.0001,0.0215,-0.0003,0.0173,Rendah
+GOTO,GoTo Gojek Tokopedia Tbk.,Technology,0.0017,0.0403,0.0048,0.04,0.003,0.0394,-0.0002,0.0452,Sedang
+GPRA,Perdana Gapuraprima Tbk.,Properties and Real Estate,-0.0033,0.0199,-0.002,0.0201,0.0002,0.0243,0.0,0.0241,Sedang
+GPSO,Geoprima Solusi Tbk.,Industrials,-0.027,0.1588,0.0255,0.1387,0.0078,0.1036,0.0072,0.0868,Tinggi
+GRIA,Ingria Pratama Capitalindo Tbk,Properties and Real Estate,-0.0152,0.0361,-0.0094,0.0541,-0.0017,0.0492,0.0015,0.0603,Tinggi
+GRPH,Griptha Putra Persada Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0006,0.1798,Tinggi
+GRPM,Graha Prima Mentari Tbk.,Consumer Non-Cyclicals,0.021,0.1084,0.0082,0.0727,0.0063,0.066,0.0017,0.0652,Tinggi
+GSMF,Equity Development Investment ,Financials,-0.0051,0.0257,0.0012,0.0328,0.0011,0.0293,-0.0005,0.0386,Tinggi
+GTBO,Garda Tujuh Buana Tbk,Energy,-0.0117,0.0255,-0.0057,0.0241,-0.0021,0.0442,0.0024,0.0739,Sedang
+GTRA,Grahaprima Suksesmandiri Tbk.,Transportation and Logistic,-0.0063,0.0212,-0.0002,0.0323,0.0004,0.0516,-0.001,0.0718,Tinggi
+GTSI,GTS Internasional Tbk.,Energy,0.0165,0.0608,0.0058,0.0509,0.0002,0.0598,-0.0004,0.0498,Sedang
+GULA,Aman Agrindo Tbk.,Consumer Non-Cyclicals,0.0026,0.0994,-0.0025,0.0645,-0.0006,0.0592,0.002,0.0585,Tinggi
+GUNA,Gunanusa Eramandiri Tbk.,Consumer Non-Cyclicals,-0.0049,0.0252,0.0017,0.0377,0.0055,0.0662,0.0055,0.0662,Tinggi
+GWSA,Greenwood Sejahtera Tbk.,Consumer Cyclicals,-0.0034,0.0138,-0.0019,0.0159,-0.0006,0.0226,-0.001,0.0203,Sedang
+GZCO,Gozco Plantations Tbk.,Consumer Non-Cyclicals,0.0042,0.0489,0.0027,0.0369,0.0029,0.0502,0.0018,0.0559,Sedang
+HADE,Himalaya Energi Perkasa Tbk.,Infrastructures,0.0303,0.1272,0.0197,0.1601,0.041,0.2434,0.0324,0.2505,Tinggi
+HAIS,Hasnur Internasional Shipping ,Transportation and Logistic,-0.0007,0.0123,0.0002,0.0189,0.0002,0.0182,-0.0002,0.0245,Sedang
+HAJJ,Arsy Buana Travelindo Tbk.,Consumer Cyclicals,0.0181,0.0579,0.0005,0.0527,0.0019,0.0478,0.0008,0.049,Tinggi
+HALO,Haloni Jane Tbk.,Healthcare,0.0023,0.0592,-0.0029,0.0446,0.0014,0.0481,-0.0012,0.0581,Tinggi
+HATM,Habco Trans Maritima Tbk.,Transportation and Logistic,0.0001,0.029,0.0012,0.0313,0.0019,0.0292,0.0021,0.0442,Sedang
+HBAT,Minahasa Membangun Hebat Tbk.,Properties and Real Estate,0.0125,0.089,0.01,0.0705,0.0037,0.0621,-0.0012,0.0721,Tinggi
+HDFA,Radana Bhaskara Finance Tbk.,Financials,-0.0087,0.0293,-0.0028,0.0348,0.0036,0.0726,0.0011,0.069,Tinggi
+HDIT,Hensel Davest Indonesia Tbk.,Technology,0.0225,0.0846,0.0037,0.0778,0.0144,0.0932,-0.0014,0.0928,Tinggi
+HDTX,Panasia Indo Resources Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+HEAL,Medikaloka Hermina Tbk.,Healthcare,0.0007,0.0232,0.002,0.023,0.0013,0.0198,0.0003,0.0222,Sedang
+HELI,Jaya Trishindo Tbk.,Transportation and Logistic,-0.0,0.0319,-0.0012,0.0583,0.0012,0.1209,0.0069,0.105,Tinggi
+HERO,DFI Retail Nusantara Tbk.,Consumer Non-Cyclicals,-0.0059,0.039,-0.0034,0.0308,-0.0019,0.0343,-0.0026,0.0321,Sedang
+HEXA,Hexindo Adiperkasa Tbk.,Industrials,0.0002,0.0119,-0.0038,0.0164,-0.0013,0.0143,-0.0004,0.0137,Rendah
+HGII,Hero Global Investment Tbk.,Infrastructures,-0.0107,0.073,-0.0107,0.073,-0.0107,0.073,-0.0107,0.073,Tinggi
+HILL,Hillcon Tbk.,Energy,-0.0015,0.0248,-0.0004,0.0252,0.0001,0.0348,0.0001,0.0443,Sedang
+HITS,Humpuss Intermoda Transportasi,Energy,-0.0084,0.0352,0.0037,0.0502,0.0002,0.0381,0.0,0.0478,Tinggi
+HKMU,HK Metals Utama Tbk.,Basic Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+HMSP,H.M. Sampoerna Tbk.,Consumer Non-Cyclicals,-0.0046,0.0105,-0.0029,0.0197,-0.0015,0.0282,-0.001,0.0253,Sedang
+HOKI,Buyung Poetra Sembada Tbk.,Consumer Non-Cyclicals,-0.0044,0.0332,-0.0015,0.0395,-0.0014,0.0355,0.0019,0.0474,Sedang
+HOME,Hotel Mandarine Regency Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+HOMI,Grand House Mulia Tbk.,Properties and Real Estate,0.0118,0.0981,0.0134,0.0852,0.0119,0.086,-0.0003,0.075,Tinggi
+HOPE,Harapan Duta Pertiwi Tbk.,Industrials,-0.0308,0.062,-0.0087,0.0739,-0.0,0.0846,-0.0018,0.0797,Tinggi
+HOTL,Saraswati Griya Lestari Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+HRME,Menteng Heritage Realty Tbk.,Consumer Cyclicals,-0.0111,0.0577,0.0038,0.0611,0.0098,0.0682,0.0007,0.0711,Sedang
+HRTA,Hartadinata Abadi Tbk.,Consumer Cyclicals,-0.0004,0.036,-0.0003,0.0321,-0.0003,0.0279,0.0001,0.0303,Sedang
+HRUM,Harum Energy Tbk.,Energy,-0.007,0.0225,-0.0045,0.0225,-0.0023,0.0282,-0.0012,0.0283,Sedang
+HUMI,Humpuss Maritim Internasional ,Energy,0.0007,0.0396,-0.0027,0.0392,-0.0038,0.045,0.0005,0.0852,Tinggi
+HYGN,Ecocare Indo Pasifik Tbk.,Industrials,-0.0022,0.0389,0.0003,0.0293,0.0003,0.0322,-0.001,0.0405,Sedang
+IATA,MNC Energy Investments Tbk.,Energy,-0.0064,0.0434,0.0009,0.0424,0.0013,0.0579,-0.0006,0.0536,Sedang
+IBFN,Intan Baru Prana Tbk.,Industrials,0.0039,0.0913,-0.0126,0.0943,0.012,0.1422,0.0056,0.1241,Tinggi
+IBOS,Indo Boga Sukses Tbk.,Consumer Non-Cyclicals,-0.0001,0.0949,-0.0144,0.072,-0.0092,0.0787,-0.004,0.0718,Tinggi
+IBST,Inti Bangun Sejahtera Tbk.,Infrastructures,0.0089,0.0728,0.0021,0.0684,0.0086,0.0679,0.0025,0.068,Sedang
+ICBP,Indofood CBP Sukses Makmur Tbk,Consumer Non-Cyclicals,-0.0008,0.0208,0.0002,0.0177,0.0006,0.0176,0.0002,0.0169,Rendah
+ICON,Island Concepts Indonesia Tbk.,Industrials,0.011,0.065,0.0013,0.0526,-0.0003,0.0649,0.0018,0.088,Tinggi
+IDEA,Idea Indonesia Akademi Tbk.,Consumer Cyclicals,0.0117,0.0697,0.005,0.0576,0.0,0.0587,-0.002,0.0656,Tinggi
+IDPR,Indonesia Pondasi Raya Tbk.,Infrastructures,-0.0006,0.0369,0.0027,0.0783,0.0026,0.0587,0.0017,0.0525,Tinggi
+IFII,Indonesia Fibreboard Industry ,Basic Materials,-0.0011,0.0296,0.0018,0.0301,0.0024,0.0324,0.001,0.031,Sedang
+IFSH,Ifishdeco Tbk.,Basic Materials,0.0188,0.0649,0.0033,0.0523,0.0044,0.0564,0.0021,0.0506,Tinggi
+IGAR,Champion Pacific Indonesia Tbk,Basic Materials,0.0009,0.0337,0.0007,0.025,0.0015,0.0218,0.0009,0.0191,Sedang
+IIKP,Inti Agri Resources Tbk,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+IKAI,Intikeramik Alamasri Industri ,Industrials,0.0088,0.0902,-0.0028,0.0939,0.0106,0.1065,-0.0061,0.1024,Sedang
+IKAN,Era Mandiri Cemerlang Tbk.,Consumer Non-Cyclicals,0.0187,0.072,-0.0006,0.0568,-0.0006,0.0745,-0.0007,0.062,Tinggi
+IKBI,Sumi Indo Kabel Tbk.,Industrials,-0.0036,0.0245,-0.0019,0.019,-0.001,0.025,0.0032,0.0621,Sedang
+IKPM,Ikapharmindo Putramas Tbk.,Healthcare,0.0012,0.0266,-0.0016,0.0202,0.0019,0.0306,0.0017,0.0439,Sedang
+IMAS,Indomobil Sukses Internasional,Consumer Cyclicals,-0.0066,0.0215,-0.0061,0.0194,-0.0031,0.018,-0.0016,0.0363,Sedang
+IMJS,Indomobil Multi Jasa Tbk.,Transportation and Logistic,-0.0041,0.0164,-0.0044,0.0266,-0.0018,0.0362,-0.0018,0.0418,Sedang
+IMPC,Impack Pratama Industri Tbk.,Industrials,-0.0034,0.0198,-0.0005,0.0252,-0.0004,0.0238,0.0001,0.0231,Rendah
+INAF,Indofarma Tbk.,Healthcare,0.0,0.0,0.0,0.0,0.0013,0.0671,-0.0074,0.0487,Tinggi
+INAI,Indal Aluminium Industry Tbk.,Basic Materials,-0.0103,0.0514,-0.0045,0.0359,-0.004,0.0357,-0.0022,0.0364,Sedang
+INCF,Indo Komoditi Korpora Tbk.,Basic Materials,0.0057,0.0663,-0.004,0.0551,0.0088,0.0805,-0.0039,0.0823,Tinggi
+INCI,Intanwijaya Internasional Tbk,Basic Materials,0.0008,0.0134,0.0006,0.0149,0.0012,0.0169,0.0006,0.0211,Sedang
+INCO,Vale Indonesia Tbk.,Basic Materials,-0.0037,0.0258,-0.0014,0.0214,-0.0014,0.023,-0.0018,0.0236,Sedang
+INDF,Indofood Sukses Makmur Tbk.,Consumer Non-Cyclicals,-0.0029,0.0165,0.0008,0.0167,0.0016,0.0146,0.0003,0.0132,Rendah
+INDO,Royalindo Investa Wijaya Tbk.,Properties and Real Estate,0.0116,0.053,0.0042,0.0401,0.0032,0.0368,0.0015,0.0316,Tinggi
+INDR,Indo-Rama Synthetics Tbk.,Consumer Cyclicals,0.0008,0.029,-0.0031,0.0237,-0.0009,0.0217,-0.0012,0.0228,Sedang
+INDS,Indospring Tbk.,Consumer Cyclicals,-0.0019,0.0137,-0.0015,0.0585,0.0023,0.0491,0.0007,0.0383,Sedang
+INDX,Tanah Laut Tbk,Industrials,0.0116,0.1378,0.0046,0.0966,0.0041,0.0813,0.0003,0.0681,Tinggi
+INDY,Indika Energy Tbk.,Energy,0.0053,0.0402,0.0017,0.0338,0.0016,0.0299,-0.0001,0.0279,Sedang
+INET,Sinergi Inti Andalan Prima Tbk,Infrastructures,0.0109,0.0881,0.0026,0.0644,0.0059,0.0693,0.0021,0.0799,Tinggi
+INKP,Indah Kiat Pulp & Paper Tbk.,Basic Materials,-0.0021,0.019,-0.0026,0.0168,-0.0018,0.0183,-0.0006,0.0228,Sedang
+INOV,Inocycle Technology Group Tbk.,Consumer Cyclicals,-0.0044,0.0195,0.0014,0.046,0.0015,0.0737,-0.0,0.055,Sedang
+INPC,Bank Artha Graha Internasional,Financials,-0.0191,0.1015,0.0252,0.1256,0.0136,0.0935,0.0065,0.0706,Sedang
+INPP,Indonesian Paradise Property T,Properties and Real Estate,0.0017,0.0378,-0.001,0.0348,-0.0002,0.0279,0.003,0.0301,Tinggi
+INPS,Indah Prakasa Sentosa Tbk.,Energy,-0.014,0.0774,0.0047,0.1052,0.0033,0.0853,0.0002,0.0789,Tinggi
+INRU,Toba Pulp Lestari Tbk.,Basic Materials,-0.0003,0.022,-0.0007,0.0271,0.0011,0.0332,-0.0009,0.0422,Sedang
+INTA,Intraco Penta Tbk.,Industrials,0.0196,0.1036,-0.0056,0.0962,0.0111,0.1265,-0.0031,0.1204,Sedang
+INTD,Inter Delta Tbk,Basic Materials,0.0006,0.0733,0.004,0.0916,0.0062,0.0889,0.0031,0.0766,Tinggi
+INTP,Indocement Tunggal Prakarsa Tb,Basic Materials,-0.0049,0.018,-0.0013,0.018,-0.0011,0.02,-0.0014,0.0179,Sedang
+IOTF,Sumber Sinergi Makmur Tbk.,Technology,-0.0159,0.0379,0.0029,0.0908,0.0061,0.1115,0.0059,0.111,Tinggi
+IPAC,Era Graharealty Tbk.,Properties and Real Estate,0.0067,0.0931,0.0035,0.0704,0.0028,0.0649,0.001,0.0578,Tinggi
+IPCC,Indonesia Kendaraan Terminal T,Infrastructures,0.0023,0.0145,0.0022,0.0148,0.0024,0.0154,0.0005,0.0161,Sedang
+IPCM,Jasa Armada Indonesia Tbk.,Infrastructures,-0.0005,0.0104,0.0,0.0092,0.0009,0.014,0.0,0.0113,Sedang
+IPOL,Indopoly Swakarsa Industry Tbk,Basic Materials,0.0008,0.0307,0.0006,0.0303,0.0003,0.0297,-0.0,0.029,Sedang
+IPPE,Indo Pureco Pratama Tbk.,Consumer Non-Cyclicals,0.0,0.0,0.0,0.0,0.0124,0.1075,-0.0134,0.1052,Tinggi
+IPTV,MNC Vision Networks Tbk.,Consumer Cyclicals,-0.008,0.0512,-0.0068,0.0443,-0.0051,0.0637,-0.0029,0.065,Sedang
+IRRA,Itama Ranoraya Tbk.,Healthcare,-0.0023,0.0374,-0.0023,0.0256,-0.001,0.0277,-0.0001,0.0509,Sedang
+IRSX,Aviana Sinar Abadi Tbk.,Technology,0.0032,0.1071,0.0133,0.0916,-0.0001,0.0924,-0.0042,0.0896,Tinggi
+ISAP,Isra Presisi Indonesia Tbk.,Consumer Cyclicals,0.0132,0.1041,0.0093,0.106,0.0074,0.1232,0.0041,0.1148,Tinggi
+ISAT,Indosat Tbk.,Infrastructures,-0.0021,0.0212,-0.0015,0.0286,-0.0005,0.0265,0.0005,0.0241,Sedang
+ISEA,Indo American Seafoods Tbk.,Consumer Non-Cyclicals,-0.0032,0.0262,-0.0028,0.0605,-0.0054,0.104,-0.0054,0.104,Tinggi
+ISSP,Steel Pipe Industry of Indones,Basic Materials,-0.0019,0.0142,-0.0013,0.0136,0.0001,0.017,0.0001,0.0179,Sedang
+ITIC,Indonesian Tobacco Tbk.,Consumer Non-Cyclicals,-0.0017,0.0155,0.0002,0.0296,0.0001,0.0282,0.0001,0.0243,Sedang
+ITMA,Sumber Energi Andalan Tbk.,Energy,0.008,0.0534,0.0027,0.0431,0.0023,0.0607,0.0037,0.0599,Sedang
+ITMG,Indo Tambangraya Megah Tbk.,Energy,-0.0019,0.013,0.0,0.0128,0.0006,0.0127,0.0006,0.0146,Sedang
+JARR,Jhonlin Agro Raya Tbk.,Consumer Non-Cyclicals,-0.0083,0.0402,0.0027,0.0601,0.0016,0.0556,0.0032,0.0648,Tinggi
+JAST,Jasnita Telekomindo Tbk.,Infrastructures,0.0139,0.1226,0.0045,0.0801,0.0043,0.0686,0.0022,0.0664,Tinggi
+JATI,Informasi Teknologi Indonesia ,Technology,0.0,0.0,0.0044,0.1086,0.0076,0.1267,-0.0045,0.0993,Tinggi
+JAWA,Jaya Agra Wattie Tbk.,Consumer Non-Cyclicals,-0.0053,0.0228,-0.0004,0.068,0.0029,0.0728,0.0051,0.0999,Tinggi
+JAYA,Armada Berjaya Trans Tbk.,Transportation and Logistic,-0.0011,0.0158,-0.0026,0.0228,0.0002,0.0426,-0.0005,0.0328,Tinggi
+JECC,Jembo Cable Company Tbk.,Industrials,0.0018,0.058,0.001,0.0422,-0.0008,0.0383,0.0007,0.0563,Sedang
+JGLE,Graha Andrasentra Propertindo ,Consumer Cyclicals,0.02,0.1447,0.0022,0.1315,0.0131,0.1641,-0.0066,0.1515,Sedang
+JIHD,Jakarta International Hotels &,Consumer Cyclicals,-0.0102,0.0816,0.0218,0.111,0.0118,0.0861,0.0051,0.0632,Sedang
+JKON,Jaya Konstruksi Manggala Prata,Infrastructures,-0.0014,0.0203,-0.0026,0.0221,0.0001,0.0268,-0.0005,0.0383,Sedang
+JKSW,Jakarta Kyoei Steel Works Tbk.,Basic Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+JMAS,Asuransi Jiwa Syariah Jasa Mit,Financials,-0.0025,0.0236,0.0062,0.075,0.0103,0.0844,0.0054,0.0746,Tinggi
+JPFA,Japfa Comfeed Indonesia Tbk.,Consumer Non-Cyclicals,0.0024,0.0299,0.0042,0.0253,0.004,0.026,0.0018,0.0241,Sedang
+JRPT,Jaya Real Property Tbk.,Properties and Real Estate,0.0056,0.018,0.0025,0.014,0.0014,0.0131,0.0015,0.0145,Rendah
+JSKY,Sky Energy Indonesia Tbk.,Energy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tinggi
+JSMR,Jasa Marga (Persero) Tbk.,Infrastructures,-0.0015,0.0229,-0.0014,0.0167,-0.0011,0.0193,0.0006,0.0215,Sedang
+JSPT,Jakarta Setiabudi Internasiona,Consumer Cyclicals,0.0633,0.188,0.0509,0.1521,0.0347,0.1324,0.0232,0.1089,Sedang
+JTPE,Jasuindo Tiga Perkasa Tbk.,Industrials,-0.0046,0.0138,-0.0031,0.0184,-0.0017,0.0178,-0.0,0.031,Sedang
+KAEF,Kimia Farma Tbk.,Healthcare,-0.0024,0.0541,-0.0019,0.0377,-0.0002,0.0428,0.0003,0.0534,Sedang
+KARW,Meratus Jasa Prima Tbk.,Infrastructures,-0.0577,0.0952,-0.0066,0.0994,0.0156,0.1066,0.0172,0.0881,Tinggi
+KAYU,Darmi Bersaudara Tbk.,Basic Materials,0.0,0.0,0.0,0.0,0.0,0.0,-0.0104,0.1035,Tinggi
+KBAG,Karya Bersama Anugerah Tbk.,Properties and Real Estate,0.0047,0.063,0.0021,0.0837,0.007,0.0905,-0.004,0.0894,Sedang
+KBLI,KMI Wire & Cable Tbk.,Industrials,0.0005,0.0167,-0.0013,0.0235,0.001,0.022,0.0007,0.0214,Sedang
+KBLM,Kabelindo Murni Tbk.,Industrials,-0.0008,0.037,-0.0011,0.0276,0.0014,0.0299,0.0006,0.0251,Sedang
+KBLV,First Media Tbk.,Infrastructures,-0.008,0.0335,0.0085,0.0378,0.0116,0.0474,-0.0002,0.0442,Tinggi
+KBRI,Kertas Basuki Rachmat Indonesi,Basic Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+KDSI,Kedawung Setia Industrial Tbk.,Basic Materials,-0.001,0.0427,0.0042,0.0531,0.0053,0.0546,0.0039,0.0441,Sedang
+KDTN,Puri Sentul Permai Tbk.,Consumer Cyclicals,0.0037,0.0599,-0.001,0.0486,0.0034,0.0458,0.0012,0.0463,Sedang
+KEEN,Kencana Energi Lestari Tbk.,Infrastructures,0.0005,0.0315,-0.0009,0.024,-0.0004,0.0233,-0.0003,0.0295,Sedang
+KEJU,Mulia Boga Raya Tbk.,Consumer Non-Cyclicals,0.0266,0.1322,0.0125,0.0954,0.0078,0.0716,0.0042,0.0535,Sedang
+KETR,Ketrosden Triasmitra Tbk.,Infrastructures,-0.0038,0.017,-0.0012,0.0618,-0.0007,0.0479,0.0008,0.0505,Sedang
+KIAS,Keramika Indonesia Assosiasi T,Industrials,0.0014,0.0542,-0.0034,0.0554,0.0069,0.0697,0.0025,0.0707,Sedang
+KICI,Kedaung Indah Can Tbk,Consumer Cyclicals,-0.0057,0.0289,-0.0009,0.0373,0.0005,0.0594,0.001,0.067,Tinggi
+KIJA,Kawasan Industri Jababeka Tbk.,Properties and Real Estate,-0.004,0.0179,0.0004,0.0169,0.003,0.0209,0.0004,0.0256,Sedang
+KING,Hoffmen Cleanindo Tbk.,Industrials,0.0079,0.0298,0.0015,0.0272,0.0016,0.0253,0.0009,0.0422,Sedang
+KINO,Kino Indonesia Tbk.,Consumer Non-Cyclicals,0.0004,0.0281,-0.0012,0.0209,-0.0009,0.0186,-0.0005,0.0319,Sedang
+KIOS,Kioson Komersial Indonesia Tbk,Technology,0.0,0.0,0.0059,0.1146,0.0049,0.104,-0.0021,0.0626,Tinggi
+KJEN,Krida Jaringan Nusantara Tbk.,Transportation and Logistic,0.0449,0.1555,0.0174,0.1089,0.0126,0.1089,0.0056,0.0946,Tinggi
+KKES,Kusuma Kemindo Sentosa Tbk.,Basic Materials,0.001,0.0471,-0.0021,0.048,-0.0044,0.0636,-0.0052,0.0623,Sedang
+KKGI,Resource Alam Indonesia Tbk.,Energy,-0.0035,0.0218,-0.0015,0.0221,0.002,0.0286,0.001,0.0295,Sedang
+KLAS,Pelayaran Kurnia Lautan Semest,Transportation and Logistic,0.0003,0.023,0.0033,0.0628,0.008,0.0519,0.0041,0.0609,Tinggi
+KLBF,Kalbe Farma Tbk.,Healthcare,-0.0069,0.0222,-0.0041,0.0184,-0.0009,0.02,-0.0012,0.0192,Sedang
+KLIN,Klinko Karya Imaji Tbk.,Consumer Cyclicals,0.0158,0.1094,0.0329,0.0988,0.0217,0.0912,0.0079,0.0756,Tinggi
+KMDS,Kurniamitra Duta Sentosa Tbk.,Consumer Non-Cyclicals,-0.0005,0.0202,0.0002,0.0371,0.0023,0.041,0.001,0.0308,Sedang
+KMTR,Kirana Megatara Tbk.,Basic Materials,0.0042,0.0368,0.0062,0.0448,0.0039,0.054,0.0016,0.0455,Sedang
+KOBX,Kobexindo Tractors Tbk.,Industrials,0.0004,0.0651,0.0048,0.0683,0.0041,0.0629,0.0007,0.062,Tinggi
+KOCI,Kokoh Exa Nusantara Tbk.,Properties and Real Estate,0.0002,0.028,-0.0019,0.0214,-0.0,0.0301,-0.0027,0.0777,Tinggi
+KOIN,Kokoh Inti Arebama Tbk,Industrials,0.0013,0.0906,-0.0026,0.0805,0.0014,0.0749,0.001,0.0585,Tinggi
+KOKA,Koka Indonesia Tbk.,Infrastructures,0.005,0.0416,0.0027,0.0374,-0.0012,0.0528,-0.0004,0.0877,Tinggi
+KONI,Perdana Bangun Pusaka Tbk,Industrials,-0.0007,0.1223,0.0124,0.125,0.0067,0.102,0.0035,0.0846,Tinggi
+KOPI,Mitra Energi Persada Tbk.,Energy,0.0051,0.037,0.0098,0.0598,0.0068,0.0606,0.0038,0.0583,Sedang
+KOTA,DMS Propertindo Tbk.,Consumer Cyclicals,0.0053,0.1598,-0.0003,0.1339,0.0079,0.1262,-0.0109,0.1185,Tinggi
+KPAL,Steadfast Marine Tbk.,Industrials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+KPAS,Cottonindo Ariesta Tbk.,Consumer Non-Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+KPIG,MNC Land Tbk.,Consumer Cyclicals,-0.0022,0.0383,-0.0013,0.0533,0.0082,0.0694,0.0042,0.0558,Sedang
+KRAH,Grand Kartech Tbk.,Industrials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+KRAS,Krakatau Steel (Persero) Tbk.,Basic Materials,-0.0012,0.0319,0.0003,0.047,-0.0001,0.0444,-0.0016,0.0384,Sedang
+KREN,Quantum Clovera Investama Tbk.,Technology,0.0268,0.1326,0.0114,0.1353,0.0132,0.1571,-0.0048,0.1467,Tinggi
+KRYA,Bangun Karya Perkasa Jaya Tbk.,Infrastructures,0.0023,0.0256,0.0003,0.0342,0.0019,0.0447,0.0005,0.0693,Tinggi
+KSIX,Kentanix Supra International T,Properties and Real Estate,-0.0496,0.1165,-0.0496,0.1165,-0.0496,0.1165,-0.0496,0.1165,Tinggi
+KUAS,Ace Oldfields Tbk.,Industrials,0.0064,0.0296,0.0003,0.0243,0.0023,0.0244,0.0007,0.025,Sedang
+LABA,Green Power Group Tbk.,Industrials,-0.0016,0.0754,-0.0071,0.0835,0.0185,0.1342,0.0155,0.1248,Tinggi
+LABS,UBC Medical Indonesia Tbk.,Healthcare,-0.0037,0.0149,-0.0009,0.019,0.001,0.0602,0.001,0.0602,Tinggi
+LAJU,Jasa Berdikari Logistics Tbk.,Transportation and Logistic,0.0,0.0,0.0,0.0,0.0204,,0.001,0.0863,Tinggi
+LAND,Trimitra Propertindo Tbk.,Properties and Real Estate,-0.0009,0.0747,-0.0037,0.073,0.0089,0.0816,-0.0043,0.0815,Tinggi
+LAPD,Leyand International Tbk.,Consumer Non-Cyclicals,0.0177,0.0929,0.0034,0.0973,0.019,0.1181,0.0032,0.126,Sedang
+LCGP,Eureka Prima Jakarta Tbk.,Properties and Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+LCKM,LCK Global Kedaton Tbk.,Infrastructures,0.0006,0.0484,0.0001,0.0476,0.0006,0.0541,0.0007,0.0466,Sedang
+LEAD,Logindo Samudramakmur Tbk.,Energy,-0.0074,0.0543,0.0019,0.0643,0.0027,0.0546,0.0036,0.0564,Sedang
+LFLO,Imago Mulia Persada Tbk.,Consumer Cyclicals,0.0087,0.06,0.0022,0.0656,0.0074,0.0698,0.0051,0.072,Tinggi
+LIFE,MSIG Life Insurance Indonesia ,Financials,-0.0028,0.0471,0.0018,0.063,0.0021,0.0616,0.0017,0.0572,Sedang
+LINK,Link Net Tbk.,Infrastructures,0.0402,0.1274,0.0059,0.0807,0.0089,0.0719,0.0026,0.0542,Sedang
+LION,Lion Metal Works Tbk.,Industrials,0.0458,0.1615,0.0152,0.1216,0.0069,0.0943,0.003,0.0722,Tinggi
+LIVE,Homeco Victoria Makmur Tbk.,Consumer Cyclicals,0.0171,0.1374,0.005,0.0895,0.0038,0.0678,0.0038,0.0636,Tinggi
+LMAS,Limas Indonesia Makmur Tbk,Technology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tinggi
+LMAX,Lupromax Pelumas Indonesia Tbk,Consumer Cyclicals,0.0041,0.0735,0.0047,0.085,0.0048,0.0831,-0.0037,0.0769,Tinggi
+LMPI,Langgeng Makmur Industri Tbk.,Consumer Cyclicals,-0.0062,0.0719,0.0113,0.1149,0.0075,0.1038,0.0024,0.0754,Sedang
+LMSH,Lionmesh Prima Tbk.,Basic Materials,-0.0115,0.0663,-0.0083,0.0691,-0.0048,0.0637,-0.0033,0.058,Tinggi
+LOPI,Logisticsplus International Tb,Transportation and Logistic,0.0276,0.1217,0.0117,0.1129,0.0056,0.0906,0.0011,0.0799,Tinggi
+LPCK,Lippo Cikarang Tbk,Properties and Real Estate,-0.0068,0.0237,-0.0049,0.0314,-0.0006,0.0337,-0.0019,0.0311,Sedang
+LPGI,Lippo General Insurance Tbk.,Financials,-0.011,0.0235,-0.0051,0.0281,0.0001,0.0447,-0.0014,0.0459,Sedang
+LPIN,Multi Prima Sejahtera Tbk,Consumer Cyclicals,0.001,0.0213,0.0009,0.0201,0.0026,0.0246,0.0004,0.0218,Tinggi
+LPKR,Lippo Karawaci Tbk.,Properties and Real Estate,-0.0051,0.0343,0.0019,0.0529,0.0035,0.0531,0.0007,0.0443,Sedang
+LPLI,Star Pacific Tbk,Properties and Real Estate,-0.003,0.0435,0.0002,0.0432,0.0016,0.038,-0.0002,0.0338,Tinggi
+LPPF,Matahari Department Store Tbk.,Consumer Cyclicals,0.0018,0.0122,-0.0009,0.0199,-0.0002,0.0204,-0.0016,0.0299,Sedang
+LPPS,Lenox Pasifik Investama Tbk.,Financials,-0.0033,0.0292,0.0011,0.0634,0.001,0.0561,0.0003,0.0478,Sedang
+LRNA,Eka Sari Lorena Transport Tbk.,Transportation and Logistic,0.0015,0.0533,-0.0024,0.0384,0.0021,0.0505,0.0013,0.0524,Tinggi
+LSIP,PP London Sumatra Indonesia Tb,Consumer Non-Cyclicals,-0.0034,0.023,0.0007,0.0284,0.0016,0.0254,0.0001,0.0205,Sedang
+LTLS,Lautan Luas Tbk.,Basic Materials,0.0,0.0067,0.0001,0.0079,0.0002,0.0147,-0.0002,0.0176,Sedang
+LUCK,Sentral Mitra Informatika Tbk.,Technology,0.0021,0.0406,0.0028,0.0715,0.0037,0.0844,0.0014,0.0709,Tinggi
+LUCY,Lima Dua Lima Tiga Tbk.,Consumer Cyclicals,0.0047,0.0213,0.0052,0.0318,0.0003,0.0283,0.0003,0.0302,Sedang
+MABA,Marga Abhinaya Abadi Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+MAGP,Multi Agro Gemilang Plantation,Consumer Non-Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+MAHA,Mandiri Herindo Adiperkasa Tbk,Energy,-0.0026,0.011,-0.0014,0.0192,-0.0007,0.0258,0.0012,0.0421,Sedang
+MAIN,Malindo Feedmill Tbk.,Consumer Non-Cyclicals,-0.0021,0.0245,-0.0003,0.0281,0.0028,0.0327,0.0021,0.0305,Sedang
+MAMI,Mas Murni Indonesia Tbk,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+MANG,Manggung Polahraya Tbk.,Infrastructures,-0.0144,0.0951,0.0072,0.0824,-0.003,0.0742,0.0018,0.0794,Tinggi
+MAPA,Map Aktif Adiperkasa Tbk.,Consumer Cyclicals,-0.0024,0.0287,0.0012,0.0339,0.0019,0.0332,0.0013,0.0313,Sedang
+MAPB,MAP Boga Adiperkasa Tbk.,Consumer Cyclicals,-0.0339,0.0349,-0.0278,0.0338,-0.0052,0.0342,-0.0021,0.0287,Sedang
+MAPI,Mitra Adiperkasa Tbk.,Consumer Cyclicals,-0.0005,0.0215,-0.0023,0.0276,-0.0004,0.0294,-0.0007,0.0265,Sedang
+MARI,Mahaka Radio Integra Tbk.,Consumer Cyclicals,0.0,0.0,0.0045,0.1024,0.0045,0.1024,0.0025,0.0919,Sedang
+MARK,Mark Dynamics Indonesia Tbk.,Industrials,-0.0039,0.0203,0.0009,0.0284,0.0017,0.03,0.0018,0.0308,Sedang
+MASA,Multistrada Arah Sarana Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0054,0.0477,0.0038,0.0538,Tinggi
+MASB,Bank Multiarta Sentosa Tbk.,Financials,0.0017,0.0147,0.0024,0.0293,0.001,0.0311,0.0009,0.0258,Rendah
+MAXI,Maxindo Karya Anugerah Tbk.,Consumer Non-Cyclicals,-0.0011,0.0271,-0.0011,0.0256,0.0012,0.0367,-0.0004,0.0352,Sedang
+MAYA,Bank Mayapada Internasional Tb,Financials,-0.0057,0.026,0.0002,0.0608,-0.0025,0.0488,0.0006,0.0621,Sedang
+MBAP,Mitrabara Adiperdana Tbk.,Energy,-0.006,0.0132,-0.0035,0.0146,-0.0018,0.0222,-0.002,0.0204,Sedang
+MBMA,Merdeka Battery Materials Tbk.,Basic Materials,-0.0078,0.027,-0.0035,0.0279,-0.0014,0.0324,-0.0012,0.0372,Sedang
+MBSS,Mitrabahtera Segara Sejati Tbk,Energy,-0.0009,0.0246,0.0004,0.0274,-0.0002,0.0251,-0.0005,0.0235,Sedang
+MBTO,Martina Berto Tbk.,Consumer Non-Cyclicals,-0.0003,0.0195,-0.0001,0.0723,0.0046,0.0897,0.0025,0.0856,Tinggi
+MCAS,M Cash Integrasi Tbk.,Technology,-0.0088,0.0271,-0.0035,0.034,0.0001,0.0443,-0.0054,0.0463,Sedang
+MCOL,Prima Andalan Mandiri Tbk.,Energy,0.0012,0.0156,-0.0003,0.0133,-0.0002,0.0145,0.0009,0.0174,Sedang
+MCOR,Bank China Construction Bank I,Financials,-0.0036,0.0176,-0.0007,0.0233,0.0011,0.0347,-0.0001,0.0287,Sedang
+MDIA,Intermedia Capital Tbk.,Consumer Cyclicals,0.0763,0.0143,0.0763,0.0143,0.0253,0.1063,-0.0152,0.0981,Sedang
+MDIY,Daya Intiguna Yasa Tbk.,Consumer Cyclicals,0.0054,0.0241,0.0054,0.0241,0.0054,0.0241,0.0054,0.0241,Sedang
+MDKA,Merdeka Copper Gold Tbk.,Basic Materials,-0.0059,0.0405,-0.0039,0.0305,-0.0026,0.0266,-0.0017,0.0304,Sedang
+MDKI,Emdeki Utama Tbk.,Basic Materials,-0.0021,0.0131,-0.0013,0.0096,-0.0005,0.0095,-0.0006,0.0108,Sedang
+MDLN,Modernland Realty Tbk.,Properties and Real Estate,0.0002,0.02,0.0014,0.0459,0.0018,0.0475,-0.0028,0.0376,Sedang
+MDRN,Modern Internasional Tbk.,Industrials,0.0215,0.1701,0.0115,0.1553,0.0253,0.1821,0.0137,0.1851,Tinggi
+MEDC,Medco Energi Internasional Tbk,Energy,-0.0007,0.0259,-0.0009,0.0263,-0.0004,0.0247,0.0011,0.0334,Sedang
+MEDS,Hetzer Medical Indonesia Tbk.,Healthcare,0.0,0.0,0.0,0.0,0.0,0.0,-0.0013,0.0935,Tinggi
+MEGA,Bank Mega Tbk.,Financials,-0.0067,0.0242,-0.0033,0.0152,-0.002,0.0143,-0.0007,0.0167,Sedang
+MEJA,Harta Djaya Karya Tbk.,Consumer Cyclicals,0.0076,0.0375,0.0137,0.0458,0.0064,0.0593,0.0074,0.0589,Tinggi
+MENN,Menn Teknologi Indonesia Tbk.,Technology,-0.0062,0.1033,0.0108,0.0998,0.0154,0.1014,0.0036,0.1009,Tinggi
+MERK,Merck Tbk.,Healthcare,0.0004,0.018,-0.0012,0.0126,-0.0004,0.0123,-0.0008,0.0108,Rendah
+META,Nusantara Infrastructure Tbk.,Infrastructures,0.0,0.0,0.0,0.0,0.0,0.0,0.0152,0.0953,Sedang
+MFIN,Mandala Multifinance Tbk.,Financials,0.003,0.0784,0.0194,0.1046,0.0089,0.0722,0.0045,0.0491,Sedang
+MFMI,Multifiling Mitra Indonesia Tb,Industrials,0.0136,0.0291,0.011,0.0661,0.0161,0.0591,0.0047,0.0438,Tinggi
+MGLV,Panca Anugrah Wisesa Tbk.,Consumer Cyclicals,-0.0021,0.0904,0.0025,0.0704,0.0032,0.0663,0.0043,0.0718,Tinggi
+MGNA,Magna Investama Mandiri Tbk.,Consumer Cyclicals,-0.0277,0.0601,-0.0103,0.0702,0.0169,0.0909,-0.0043,0.1034,Sedang
+MGRO,Mahkota Group Tbk.,Consumer Non-Cyclicals,-0.002,0.0141,-0.0001,0.0146,-0.0008,0.0192,0.0004,0.0259,Rendah
+MHKI,Multi Hanna Kreasindo Tbk.,Industrials,-0.0025,0.0313,-0.0015,0.033,-0.0059,0.0892,0.002,0.1027,Tinggi
+MICE,Multi Indocitra Tbk.,Consumer Cyclicals,-0.0038,0.0138,-0.0004,0.019,0.0003,0.0226,0.0001,0.0251,Sedang
+MIDI,Midi Utama Indonesia Tbk.,Consumer Non-Cyclicals,0.0003,0.0124,-0.0011,0.0166,0.0006,0.0213,0.0006,0.0284,Sedang
+MIKA,Mitra Keluarga Karyasehat Tbk.,Healthcare,-0.0036,0.0203,-0.0027,0.0203,-0.0011,0.0199,-0.0005,0.0202,Sedang
+MINA,Sanurhasta Mitra Tbk.,Consumer Cyclicals,0.0141,0.0891,0.0201,0.0783,0.02,0.0792,0.0063,0.0792,Tinggi
+MIRA,Mitra International Resources ,Transportation and Logistic,0.021,0.1174,0.0113,0.121,0.0189,0.1534,0.0116,0.155,Tinggi
+MITI,Mitra Investindo Tbk.,Transportation and Logistic,0.0052,0.0435,0.0044,0.0651,0.0013,0.0481,0.0001,0.0597,Tinggi
+MKAP,Multikarya Asia Pasifik Raya T,Energy,0.0137,0.0358,-0.0001,0.0287,0.0013,0.0494,0.0058,0.0565,Tinggi
+MKNT,Mitra Komunikasi Nusantara Tbk,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.2,0.7746,0.0919,0.537,Tinggi
+MKPI,Metropolitan Kentjana Tbk.,Properties and Real Estate,0.0001,0.035,-0.001,0.023,-0.0006,0.0179,-0.0,0.0201,Sedang
+MKTR,Menthobi Karyatama Raya Tbk.,Consumer Non-Cyclicals,0.001,0.0128,0.0001,0.0142,0.0001,0.0179,0.0002,0.0398,Sedang
+MLBI,Multi Bintang Indonesia Tbk.,Consumer Non-Cyclicals,0.0002,0.0092,0.0016,0.0216,0.0,0.017,-0.0008,0.0136,Rendah
+MLIA,Mulia Industrindo Tbk,Industrials,-0.0002,0.0125,-0.0015,0.0116,-0.0008,0.0136,-0.0009,0.0137,Sedang
+MLPL,Multipolar Tbk.,Consumer Non-Cyclicals,-0.0028,0.0547,0.0077,0.091,0.0084,0.08,0.0026,0.0633,Tinggi
+MLPT,Multipolar Technology Tbk.,Technology,-0.0066,0.0299,0.0235,0.0899,0.0192,0.0769,0.0092,0.0589,Tinggi
+MMIX,Multi Medika Internasional Tbk,Healthcare,0.0515,0.17,0.0226,0.1124,0.0132,0.1097,0.0043,0.0989,Tinggi
+MMLP,Mega Manunggal Property Tbk.,Properties and Real Estate,0.0015,0.0245,0.0031,0.0329,0.0044,0.0326,0.001,0.0284,Sedang
+MNCN,Media Nusantara Citra Tbk.,Consumer Cyclicals,-0.0025,0.0208,-0.0016,0.0202,-0.0002,0.0297,-0.0022,0.0287,Sedang
+MOLI,Madusari Murni Indah Tbk.,Basic Materials,-0.0061,0.0234,-0.0023,0.0208,-0.0005,0.0374,0.0015,0.0509,Sedang
+MORA,Mora Telematika Indonesia Tbk.,Infrastructures,0.0028,0.0434,0.0001,0.0386,-0.0005,0.0298,-0.0003,0.0226,Sedang
+MPIX,Mitra Pedagang Indonesia Tbk.,Technology,-0.0002,0.0352,-0.0036,0.0272,-0.0005,0.0361,-0.0052,0.0889,Tinggi
+MPMX,Mitra Pinasthika Mustika Tbk.,Consumer Cyclicals,-0.0008,0.0079,-0.0009,0.0106,0.0006,0.0112,0.0003,0.0118,Sedang
+MPOW,Megapower Makmur Tbk.,Infrastructures,0.0121,0.1268,0.0117,0.1148,0.0145,0.1248,0.0053,0.0958,Tinggi
+MPPA,Matahari Putra Prima Tbk.,Consumer Non-Cyclicals,-0.0033,0.0489,0.0058,0.0773,0.0055,0.0757,0.0008,0.0654,Tinggi
+MPRO,Maha Properti Indonesia Tbk.,Properties and Real Estate,0.0004,0.0163,0.0049,0.0197,0.0027,0.0491,0.0009,0.0692,Tinggi
+MPXL,MPX Logistics International Tb,Transportation and Logistic,0.0047,0.1209,0.0014,0.0763,-0.0005,0.0625,0.0015,0.0682,Tinggi
+MRAT,Mustika Ratu Tbk.,Consumer Non-Cyclicals,-0.0037,0.0292,-0.0047,0.0274,-0.0017,0.0299,-0.0011,0.047,Sedang
+MREI,Maskapai Reasuransi Indonesia ,Financials,-0.0012,0.0284,-0.0017,0.0186,-0.0011,0.0415,-0.0017,0.0381,Sedang
+MSIE,Multisarana Intan Eduka Tbk.,Properties and Real Estate,0.013,0.0961,0.0043,0.0941,0.001,0.0867,-0.0044,0.0799,Tinggi
+MSIN,MNC Digital Entertainment Tbk.,Consumer Cyclicals,-0.0082,0.0373,-0.0074,0.0347,0.0031,0.0565,0.0013,0.0547,Sedang
+MSJA,Multi Spunindo Jaya Tbk.,Consumer Non-Cyclicals,-0.0067,0.0359,-0.0016,0.0403,0.0013,0.0407,0.0006,0.0518,Sedang
+MSKY,MNC Sky Vision Tbk.,Consumer Cyclicals,-0.0043,0.0717,-0.0031,0.0794,0.0042,0.0903,0.0026,0.104,Tinggi
+MSTI,Mastersystem Infotama Tbk.,Technology,-0.0025,0.0166,-0.0013,0.0177,0.0005,0.021,-0.0,0.026,Sedang
+MTDL,Metrodata Electronics Tbk.,Technology,-0.0036,0.0222,-0.0011,0.018,0.0002,0.0212,0.0005,0.0204,Sedang
+MTEL,Dayamitra Telekomunikasi Tbk.,Infrastructures,0.0004,0.015,0.0009,0.0189,0.0016,0.0193,0.0004,0.0194,Rendah
+MTFN,Capitalinc Investment Tbk.,Energy,0.0283,0.2263,0.0019,0.1966,-0.0134,0.1816,-0.0134,0.1816,Sedang
+MTLA,Metropolitan Land Tbk.,Properties and Real Estate,-0.0007,0.0374,-0.0006,0.0286,0.0007,0.0242,0.0004,0.0204,Sedang
+MTMH,Murni Sadar Tbk.,Healthcare,-0.0018,0.0176,-0.0013,0.015,-0.0014,0.0206,-0.0013,0.0211,Sedang
+MTPS,Meta Epsi Tbk.,Infrastructures,-0.0117,0.094,-0.0078,0.0937,0.0099,0.1098,-0.0027,0.1149,Tinggi
+MTRA,Mitra Pemuda Tbk.,Infrastructures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+MTSM,Metro Realty Tbk.,Properties and Real Estate,-0.0098,0.0876,0.0291,0.0963,0.0187,0.0883,0.0028,0.0864,Tinggi
+MTWI,Malacca Trust Wuwungan Insuran,Financials,-0.002,0.018,0.0005,0.0258,0.0056,0.0535,0.0033,0.0548,Tinggi
+MUTU,Mutuagung Lestari Tbk.,Industrials,0.0028,0.0476,-0.0011,0.034,0.0006,0.0445,0.0015,0.0872,Tinggi
+MYOH,Samindo Resources Tbk.,Energy,-0.0021,0.0275,0.0022,0.0253,-0.0014,0.0228,0.0003,0.0242,Sedang
+MYOR,Mayora Indah Tbk.,Consumer Non-Cyclicals,-0.003,0.0211,-0.001,0.0235,0.0006,0.0217,0.0003,0.0199,Rendah
+MYRX,Hanson International Tbk.,Properties and Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+MYTX,Asia Pacific Investama Tbk.,Consumer Cyclicals,0.0078,0.1014,0.0032,0.0823,0.0104,0.0872,-0.0,0.074,Tinggi
+NAIK,Adiwarna Anugerah Abadi Tbk.,Industrials,-0.0014,0.0521,0.0126,0.0883,0.0126,0.0883,0.0126,0.0883,Tinggi
+NANO,Nanotech Indonesia Global Tbk.,Consumer Non-Cyclicals,0.0229,0.1013,0.0152,0.0895,0.0136,0.0856,0.0051,0.0776,Tinggi
+NASA,Andalan Perkasa Abadi Tbk.,Properties and Real Estate,0.01,0.0936,0.0032,0.0796,0.0084,0.0862,0.0007,0.0778,Tinggi
+NASI,Wahana Inti Makmur Tbk.,Consumer Non-Cyclicals,-0.0056,0.0383,-0.0036,0.0651,0.0046,0.0951,0.0036,0.0839,Tinggi
+NATO,Surya Permata Andalan Tbk.,Consumer Cyclicals,0.0038,0.0443,0.0011,0.034,0.0003,0.0266,-0.0031,0.0647,Sedang
+NAYZ,Hassana Boga Sejahtera Tbk.,Consumer Non-Cyclicals,0.0907,0.0524,0.0325,0.0691,0.0198,0.0669,0.0078,0.0681,Tinggi
+NCKL,Trimegah Bangun Persada Tbk.,Basic Materials,-0.006,0.0208,-0.0025,0.0186,-0.0016,0.0198,-0.0003,0.0261,Sedang
+NELY,Pelayaran Nelly Dwi Putri Tbk.,Transportation and Logistic,-0.0005,0.0155,-0.0003,0.0128,0.0001,0.0143,0.0008,0.0279,Sedang
+NEST,Esta Indonesia Tbk.,Consumer Non-Cyclicals,0.0023,0.04,0.0065,0.0343,0.007,0.0374,0.007,0.0374,Sedang
+NETV,MDTV Media Technologies Tbk.,Consumer Cyclicals,0.0193,0.0766,0.0024,0.0608,0.0066,0.071,0.0009,0.0749,Tinggi
+NFCX,NFC Indonesia Tbk.,Technology,0.0028,0.0451,-0.0032,0.0512,0.0017,0.0574,-0.0023,0.0568,Sedang
+NICE,Adhi Kartiko Pratama Tbk.,Basic Materials,-0.0018,0.0237,-0.0025,0.0308,-0.0033,0.0383,0.001,0.0649,Tinggi
+NICK,Charnic Capital Tbk.,Financials,0.0058,0.0521,0.0044,0.0512,0.0078,0.0611,0.0053,0.0518,Tinggi
+NICL,PAM Mineral Tbk.,Basic Materials,-0.0064,0.0229,-0.0012,0.0276,0.0041,0.0426,0.0012,0.0517,Tinggi
+NIKL,Pelat Timah Nusantara Tbk.,Basic Materials,-0.0034,0.0191,0.0014,0.0731,-0.001,0.0667,-0.0001,0.063,Tinggi
+NINE,Techno9 Indonesia Tbk.,Technology,0.0917,0.0395,0.0565,0.0891,0.0444,0.1331,0.0214,0.1377,Tinggi
+NIPS,Nipress Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+NIRO,City Retail Developments Tbk.,Properties and Real Estate,0.0006,0.0106,-0.0017,0.0108,-0.001,0.0098,-0.0008,0.0163,Sedang
+NISP,Bank OCBC NISP Tbk.,Financials,-0.0013,0.0156,-0.0004,0.0129,0.0001,0.0139,0.0003,0.0158,Rendah
+NOBU,Bank Nationalnobu Tbk.,Financials,-0.0045,0.031,0.0002,0.028,-0.0013,0.0288,0.0015,0.0383,Sedang
+NPGF,Nusa Palapa Gemilang Tbk.,Basic Materials,0.0027,0.0443,0.0012,0.05,-0.0014,0.0633,-0.0017,0.0699,Tinggi
+NRCA,Nusa Raya Cipta Tbk.,Infrastructures,-0.0029,0.0115,-0.0004,0.0233,0.0008,0.0203,0.0005,0.0182,Sedang
+NSSS,Nusantara Sawit Sejahtera Tbk.,Consumer Non-Cyclicals,0.0044,0.0654,0.0075,0.0416,0.0033,0.0342,0.0019,0.0439,Sedang
+NTBK,Nusatama Berkah Tbk.,Industrials,0.0,0.0,0.0,0.0,0.0,0.0,-0.002,0.0526,Sedang
+NUSA,Sinergi Megah Internusa Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+NZIA,Nusantara Almazia Tbk.,Properties and Real Estate,-0.0017,0.0239,0.0055,0.1229,0.0069,0.1132,0.0012,0.093,Tinggi
+OASA,Maharaksa Biru Energi Tbk.,Infrastructures,-0.003,0.0284,-0.0009,0.0283,0.0014,0.0367,0.0012,0.0481,Tinggi
+OBAT,Brigit Biofarmaka Teknologi Tb,Healthcare,0.0884,0.103,0.0884,0.103,0.0884,0.103,0.0884,0.103,Tinggi
+OBMD,OBM Drilchem Tbk.,Basic Materials,-0.0021,0.0313,-0.0016,0.0249,-0.0012,0.0283,-0.0001,0.0342,Sedang
+OCAP,Onix Capital Tbk.,Financials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tinggi
+OILS,Indo Oil Perkasa Tbk.,Consumer Non-Cyclicals,-0.0035,0.0276,0.0007,0.0451,0.0026,0.0845,-0.0001,0.0662,Tinggi
+OKAS,Ancora Indonesia Resources Tbk,Basic Materials,-0.0042,0.0187,-0.0023,0.0436,0.0034,0.0551,0.001,0.0624,Tinggi
+OLIV,Oscar Mitra Sukses Sejahtera T,Consumer Cyclicals,0.0372,0.1098,0.0196,0.1023,0.0256,0.1379,0.0099,0.13,Tinggi
+OMED,Jayamas Medica Industri Tbk.,Healthcare,-0.002,0.015,0.0004,0.0155,-0.0005,0.014,0.0004,0.0319,Sedang
+OMRE,Indonesia Prima Property Tbk,Properties and Real Estate,0.0097,,0.0059,0.0236,-0.0066,0.0392,0.0004,0.0616,Tinggi
+OPMS,Optima Prima Metal Sinergi Tbk,Basic Materials,0.001,0.0516,-0.013,0.0691,0.0015,0.0693,0.0017,0.0647,Tinggi
+PACK,Abadi Nusantara Hijau Investam,Basic Materials,0.0976,0.0016,0.0707,0.0486,0.034,0.0599,0.0098,0.066,Tinggi
+PADA,Personel Alih Daya Tbk.,Industrials,-0.0051,0.0829,0.0004,0.0803,-0.0084,0.0865,-0.0084,0.0865,Tinggi
+PADI,Minna Padi Investama Sekuritas,Financials,0.0056,0.1083,0.0087,0.114,0.0097,0.1306,0.0117,0.1279,Tinggi
+PALM,Provident Investasi Bersama Tb,Financials,0.0013,0.0505,0.0005,0.0321,-0.0,0.0283,-0.0008,0.0344,Sedang
+PAMG,Bima Sakti Pertiwi Tbk.,Properties and Real Estate,-0.0011,0.0201,-0.0001,0.0259,-0.0015,0.0598,-0.0009,0.0654,Tinggi
+PANI,Pantai Indah Kapuk Dua Tbk.,Properties and Real Estate,-0.0073,0.0912,0.0053,0.0649,0.0071,0.0535,0.007,0.0496,Tinggi
+PANR,Panorama Sentrawisata Tbk.,Consumer Cyclicals,0.0177,0.0275,0.0091,0.0202,0.0059,0.0172,0.0005,0.0261,Sedang
+PANS,Panin Sekuritas Tbk.,Financials,-0.0003,0.0077,0.0001,0.0086,0.0006,0.0113,0.0001,0.0096,Sedang
+PART,Cipta Perdana Lancar Tbk.,Consumer Cyclicals,-0.0036,0.0371,-0.0007,0.1004,-0.0001,0.0893,-0.0001,0.0893,Tinggi
+PBID,Panca Budi Idaman Tbk.,Basic Materials,-0.0002,0.0245,0.002,0.0232,0.0026,0.0246,0.0013,0.0199,Sedang
+PBRX,Pan Brothers Tbk.,Consumer Cyclicals,0.0,0.0,0.0085,0.0572,0.0037,0.0647,-0.0078,0.0723,Sedang
+PBSA,Paramita Bangun Sarana Tbk.,Infrastructures,-0.0013,0.0223,0.003,0.0228,0.002,0.0189,0.0019,0.0221,Sedang
+PCAR,Prima Cakrawala Abadi Tbk.,Consumer Non-Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0093,0.1469,Tinggi
+PDES,Destinasi Tirta Nusantara Tbk,Consumer Cyclicals,-0.0028,0.0153,-0.0014,0.0144,0.0017,0.0198,0.0016,0.0468,Tinggi
+PDPP,Primadaya Plastisindo Tbk.,Basic Materials,-0.0015,0.0284,0.0,0.0328,0.0013,0.0308,0.0033,0.0311,Sedang
+PEGE,Panca Global Kapital Tbk.,Financials,0.0051,0.0422,-0.002,0.0413,0.0036,0.0708,-0.0024,0.0786,Tinggi
+PEHA,Phapros Tbk.,Healthcare,-0.0011,0.021,-0.0028,0.0224,-0.0028,0.0269,-0.0021,0.0393,Sedang
+PEVE,Penta Valent Tbk.,Healthcare,0.0081,0.0368,0.004,0.0339,0.0034,0.053,0.0027,0.0432,Sedang
+PGAS,Perusahaan Gas Negara Tbk.,Energy,0.0001,0.0251,0.0013,0.0197,0.0016,0.0189,0.001,0.019,Sedang
+PGEO,Pertamina Geothermal Energy Tb,Infrastructures,0.0015,0.0383,-0.0014,0.0254,-0.0007,0.0256,0.0015,0.0337,Sedang
+PGJO,Tourindo Guide Indonesia Tbk.,Technology,-0.0034,0.0283,-0.0002,0.0232,0.0003,0.019,0.0008,0.0288,Sedang
+PGLI,Pembangunan Graha Lestari Inda,Consumer Cyclicals,0.0009,0.1258,0.0022,0.0784,0.0044,0.0737,0.001,0.0612,Tinggi
+PGUN,Pradiksi Gunatama Tbk.,Consumer Non-Cyclicals,0.0975,0.0018,0.0336,0.0646,0.0127,0.0372,0.002,0.0316,Tinggi
+PICO,Pelangi Indah Canindo Tbk,Basic Materials,-0.006,0.0262,0.003,0.0823,0.0054,0.0741,0.0015,0.0617,Tinggi
+PIPA,Multi Makmur Lemindo Tbk.,Industrials,0.0267,0.1023,0.0195,0.103,-0.0029,0.113,-0.0033,0.1101,Tinggi
+PJAA,Pembangunan Jaya Ancol Tbk.,Consumer Cyclicals,0.0002,0.0211,-0.002,0.0153,-0.0006,0.0183,-0.0013,0.0225,Sedang
+PKPK,Perdana Karya Perkasa Tbk,Energy,-0.004,0.024,0.0056,0.0636,0.0071,0.0574,0.0034,0.0439,Tinggi
+PLAN,Planet Properindo Jaya Tbk.,Consumer Cyclicals,-0.0048,0.0816,0.0081,0.0822,0.0067,0.0752,0.0022,0.0676,Tinggi
+PLAS,Polaris Investama Tbk,Financials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+PLIN,Plaza Indonesia Realty Tbk.,Properties and Real Estate,0.0014,0.0563,0.0019,0.0402,0.0003,0.0288,0.0015,0.0313,Sedang
+PMJS,Putra Mandiri Jembar Tbk.,Consumer Cyclicals,-0.0025,0.0238,-0.0035,0.0408,-0.0004,0.0359,-0.0009,0.0276,Sedang
+PMMP,Panca Mitra Multiperdana Tbk.,Consumer Non-Cyclicals,-0.0146,0.0351,-0.0104,0.0686,-0.0055,0.0687,-0.0025,0.0634,Sedang
+PNBN,Bank Pan Indonesia Tbk,Financials,-0.0006,0.025,0.0033,0.0322,0.0035,0.0304,0.0016,0.0258,Sedang
+PNBS,Bank Panin Dubai Syariah Tbk.,Financials,-0.0026,0.0208,-0.0014,0.0361,0.0005,0.0332,-0.0009,0.0294,Sedang
+PNGO,Pinago Utama Tbk.,Consumer Non-Cyclicals,0.0,0.0226,-0.0007,0.025,0.002,0.0312,0.0014,0.0332,Sedang
+PNIN,Paninvest Tbk.,Financials,-0.0017,0.0235,0.0014,0.0301,0.0018,0.0282,0.0001,0.0262,Sedang
+PNLF,Panin Financial Tbk.,Financials,-0.0023,0.0293,0.0005,0.0307,0.0029,0.0363,0.0016,0.0339,Sedang
+PNSE,Pudjiadi & Sons Tbk.,Consumer Cyclicals,-0.0294,0.0899,0.0105,0.1355,0.0102,0.1324,0.0128,0.1303,Tinggi
+POLA,Pool Advista Finance Tbk.,Financials,0.0046,0.0982,0.003,0.0976,0.0083,0.1031,-0.0079,0.0996,Tinggi
+POLI,Pollux Hotels Group Tbk.,Properties and Real Estate,-0.0088,0.0762,0.0017,0.0597,0.0031,0.0497,0.0016,0.0545,Tinggi
+POLL,Pollux Properties Indonesia Tb,Properties and Real Estate,0.0,0.0,0.0,0.0,-0.0056,0.0413,-0.0019,0.0331,Tinggi
+POLU,Golden Flower Tbk.,Consumer Cyclicals,0.0337,0.1746,0.0231,0.1522,0.0166,0.1303,0.0184,0.1445,Tinggi
+POLY,Asia Pacific Fibers Tbk,Consumer Cyclicals,-0.0026,0.0629,-0.0083,0.0608,0.0084,0.0699,-0.0061,0.0725,Sedang
+POOL,Pool Advista Indonesia Tbk.,Financials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+PORT,Nusantara Pelabuhan Handal Tbk,Infrastructures,0.0037,0.0464,0.0013,0.0499,0.0031,0.0507,0.0011,0.0524,Tinggi
+POSA,Bliss Properti Indonesia Tbk.,Properties and Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+POWR,Cikarang Listrindo Tbk.,Infrastructures,-0.002,0.0106,-0.0001,0.0132,0.0009,0.0145,0.0002,0.0141,Rendah
+PPGL,Prima Globalindo Logistik Tbk.,Transportation and Logistic,0.0006,0.0148,0.0003,0.016,0.0022,0.0188,0.0002,0.022,Sedang
+PPRE,PP Presisi Tbk.,Infrastructures,-0.0025,0.0444,-0.0044,0.0376,-0.0008,0.0498,-0.0013,0.0429,Sedang
+PPRI,Paperocks Indonesia Tbk.,Basic Materials,0.0088,0.0356,0.0068,0.0462,0.0053,0.0582,0.0022,0.0763,Tinggi
+PPRO,PP Properti Tbk.,Properties and Real Estate,0.0,0.0,-0.0265,0.0919,0.0117,0.1075,-0.0045,0.105,Sedang
+PRAS,Prima Alloy Steel Universal Tb,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,-0.0046,0.0455,Sedang
+PRAY,Famon Awal Bros Sedaya Tbk.,Healthcare,0.0006,0.0237,0.0012,0.021,-0.0,0.018,-0.0003,0.0168,Sedang
+PRDA,Prodia Widyahusada Tbk.,Healthcare,-0.001,0.016,-0.002,0.0158,-0.0013,0.021,-0.0025,0.0195,Sedang
+PRIM,Royal Prima Tbk.,Healthcare,-0.0019,0.0249,0.0001,0.0359,-0.0004,0.0478,0.0004,0.0634,Tinggi
+PSAB,J Resources Asia Pasifik Tbk.,Basic Materials,-0.0111,0.0468,-0.0014,0.0506,0.0029,0.0526,0.0039,0.0475,Sedang
+PSDN,Prasidha Aneka Niaga Tbk,Consumer Non-Cyclicals,0.0043,0.1111,0.0009,0.0728,0.0012,0.0691,0.0027,0.0881,Tinggi
+PSGO,Palma Serasih Tbk.,Consumer Non-Cyclicals,-0.0011,0.0268,0.0034,0.0278,0.0023,0.0267,0.0017,0.0338,Sedang
+PSKT,Red Planet Indonesia Tbk.,Consumer Cyclicals,0.0188,0.0766,0.0116,0.0713,0.0077,0.0721,-0.0001,0.0753,Sedang
+PSSI,IMC Pelita Logistik Tbk.,Energy,-0.002,0.0121,-0.0008,0.0102,0.0005,0.0184,-0.0003,0.0195,Sedang
+PTBA,Bukit Asam Tbk.,Energy,-0.0007,0.0189,0.0001,0.0186,0.001,0.0175,0.0005,0.0182,Sedang
+PTDU,Djasa Ubersakti Tbk.,Infrastructures,-0.0029,0.0575,-0.0004,0.0676,0.0099,0.0798,-0.0035,0.0936,Tinggi
+PTIS,Indo Straits Tbk.,Energy,0.0044,0.1014,0.0052,0.1027,0.0033,0.0959,-0.0001,0.0798,Tinggi
+PTMP,Mitra Pack Tbk.,Industrials,0.002,0.0527,-0.004,0.0473,-0.0022,0.0656,0.001,0.0762,Tinggi
+PTMR,Master Print Tbk.,Basic Materials,-0.0004,0.0101,-0.0059,0.0375,-0.0059,0.0375,-0.0059,0.0375,Sedang
+PTPP,PP (Persero) Tbk.,Infrastructures,-0.0054,0.0295,-0.0031,0.0239,-0.0006,0.0392,-0.001,0.0436,Sedang
+PTPS,Pulau Subur Tbk.,Consumer Non-Cyclicals,0.0007,0.0377,0.0009,0.0476,-0.0019,0.0749,0.002,0.1021,Tinggi
+PTPW,Pratama Widya Tbk.,Infrastructures,-0.0034,0.0108,-0.0016,0.011,-0.0009,0.0106,-0.0006,0.0112,Sedang
+PTRO,Petrosea Tbk.,Energy,0.0181,0.042,0.0139,0.0463,0.0135,0.0538,0.0084,0.0511,Tinggi
+PTSN,Sat Nusapersada Tbk,Technology,-0.0011,0.012,-0.0008,0.0125,-0.0005,0.0144,0.0001,0.0289,Sedang
+PTSP,Pioneerindo Gourmet Internatio,Consumer Cyclicals,-0.0054,0.022,-0.0053,0.0271,-0.0015,0.0534,-0.0009,0.0738,Tinggi
+PUDP,Pudjiadi Prestige Tbk.,Properties and Real Estate,-0.0111,0.035,0.0019,0.0881,0.0026,0.0742,0.0014,0.0731,Tinggi
+PURA,Putra Rajawali Kencana Tbk.,Transportation and Logistic,0.0046,0.1005,-0.007,0.0826,0.0077,0.0997,-0.0077,0.0966,Tinggi
+PURE,Trinitan Metals and Minerals T,Basic Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tinggi
+PURI,Puri Global Sukses Tbk.,Properties and Real Estate,0.0156,0.0661,0.0077,0.0549,0.0049,0.0585,0.0017,0.0649,Tinggi
+PWON,Pakuwon Jati Tbk.,Properties and Real Estate,-0.0021,0.0204,-0.003,0.0224,0.0004,0.0225,-0.0004,0.0211,Sedang
+PYFA,Pyridam Farma Tbk,Healthcare,-0.0006,0.1018,0.0105,0.104,0.0079,0.0833,0.0011,0.0927,Tinggi
+PZZA,Sarimelati Kencana Tbk.,Consumer Cyclicals,0.0164,0.1502,-0.0012,0.0943,-0.0021,0.0701,-0.0025,0.051,Sedang
+RAAM,Tripar Multivision Plus Tbk.,Consumer Cyclicals,-0.0139,0.0304,-0.0087,0.0348,-0.0024,0.0473,-0.0018,0.0493,Tinggi
+RAFI,Sari Kreasi Boga Tbk.,Consumer Cyclicals,-0.0061,0.0361,0.0049,0.0561,-0.0022,0.0607,-0.0003,0.0652,Tinggi
+RAJA,Rukun Raharja Tbk.,Energy,0.018,0.0635,0.0164,0.0783,0.0079,0.0596,0.0057,0.0548,Sedang
+RALS,Ramayana Lestari Sentosa Tbk.,Consumer Cyclicals,-0.0023,0.0102,-0.0014,0.0103,-0.001,0.0187,-0.0014,0.017,Sedang
+RANC,Supra Boga Lestari Tbk.,Consumer Non-Cyclicals,-0.0033,0.0139,-0.0028,0.0183,-0.0018,0.02,-0.0008,0.0337,Sedang
+RATU,Raharja Energi Cepu Tbk.,Energy,0.1679,0.1169,0.1679,0.1169,0.1679,0.1169,0.1679,0.1169,Tinggi
+RBMS,Ristia Bintang Mahkotasejati T,Properties and Real Estate,-0.0029,0.0489,0.0015,0.0424,0.0015,0.0499,-0.0028,0.0542,Tinggi
+RCCC,Utama Radar Cahaya Tbk.,Transportation and Logistic,-0.0238,0.0649,-0.0048,0.0606,0.0028,0.0574,0.0028,0.0621,Tinggi
+RDTX,Roda Vivatex Tbk,Properties and Real Estate,-0.0017,0.0323,-0.0016,0.0269,-0.0,0.0218,0.0014,0.0259,Sedang
+REAL,Repower Asia Indonesia Tbk.,Properties and Real Estate,-0.0013,0.1172,0.0015,0.1176,0.0154,0.1509,-0.002,0.1443,Tinggi
+RELF,Graha Mitra Asia Tbk.,Properties and Real Estate,0.0079,0.1042,0.005,0.0878,0.0048,0.0834,-0.0057,0.0859,Tinggi
+RELI,Reliance Sekuritas Indonesia T,Financials,0.0058,0.0505,0.001,0.0341,0.0011,0.0345,0.0014,0.0485,Tinggi
+RGAS,Kian Santang Muliatama Tbk.,Energy,0.0025,0.0297,0.0024,0.0353,0.0022,0.0396,0.002,0.076,Tinggi
+RICY,Ricky Putra Globalindo Tbk,Consumer Cyclicals,-0.0063,0.0268,-0.0004,0.0601,0.0054,0.1251,0.0017,0.0916,Tinggi
+RIGS,Rig Tenders Indonesia Tbk.,Energy,-0.0023,0.0598,0.0042,0.0611,0.0037,0.0487,0.0023,0.0443,Sedang
+RIMO,Rimo International Lestari Tbk,Properties and Real Estate,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+RISE,Jaya Sukses Makmur Sentosa Tbk,Properties and Real Estate,0.0008,0.013,0.0018,0.0099,0.0011,0.009,0.0005,0.0093,Rendah
+RMKE,RMK Energy Tbk.,Energy,-0.0003,0.0149,-0.0014,0.0223,0.0009,0.0252,-0.0017,0.0259,Sedang
+RMKO,Royaltama Mulia Kontraktorindo,Energy,-0.0035,0.0338,-0.0058,0.0305,-0.0021,0.0308,-0.0037,0.0432,Sedang
+ROCK,Rockfields Properti Indonesia ,Properties and Real Estate,0.0296,0.073,0.0186,0.0595,-0.0089,0.0518,-0.0028,0.0566,Tinggi
+RODA,Pikko Land Development Tbk.,Properties and Real Estate,-0.0022,0.0659,-0.0003,0.0706,0.0105,0.0686,0.0006,0.075,Tinggi
+RONY,Aesler Grup Internasional Tbk.,Infrastructures,0.0885,0.0291,0.0943,0.0489,0.0237,0.0669,0.0076,0.0933,Tinggi
+ROTI,Nippon Indosari Corpindo Tbk.,Consumer Non-Cyclicals,-0.0015,0.0088,-0.0009,0.0081,-0.0013,0.0157,-0.0007,0.0179,Rendah
+RSCH,Charlie Hospital Semarang Tbk.,Healthcare,-0.01,0.0237,-0.0034,0.0286,0.0008,0.0348,0.0029,0.051,Sedang
+RSGK,Kedoya Adyaraya Tbk.,Healthcare,-0.0055,0.0418,-0.0001,0.0519,0.0005,0.0464,0.0001,0.0392,Sedang
+RUIS,Radiant Utama Interinsco Tbk.,Energy,-0.0031,0.0141,-0.0016,0.0127,-0.0004,0.0159,0.0001,0.0377,Sedang
+RUNS,Global Sukses Solusi Tbk.,Technology,-0.0011,0.0731,0.0031,0.0641,0.0024,0.0548,0.0009,0.0479,Tinggi
+SAFE,Steady Safe Tbk,Transportation and Logistic,0.0115,0.1658,0.0002,0.1122,0.004,0.0852,0.0025,0.068,Tinggi
+SAGE,Saptausaha Gemilangindah Tbk.,Properties and Real Estate,0.003,0.0811,-0.0006,0.0789,-0.0116,0.0912,-0.0116,0.0912,Tinggi
+SAME,Sarana Meditama Metropolitan T,Healthcare,-0.0006,0.0369,-0.0,0.0361,0.0007,0.0362,-0.0006,0.0322,Sedang
+SAMF,Saraswanti Anugerah Makmur Tbk,Basic Materials,0.0128,0.0606,0.0052,0.0439,0.004,0.0341,0.0021,0.0276,Sedang
+SAPX,Satria Antaran Prima Tbk.,Transportation and Logistic,-0.0093,0.1875,-0.0047,0.1147,0.008,0.095,0.0047,0.082,Tinggi
+SATU,Kota Satu Properti Tbk.,Properties and Real Estate,0.0053,0.0375,0.0039,0.0313,0.0032,0.0316,0.0073,0.0585,Sedang
+SBAT,Sejahtera Bintang Abadi Textil,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.2059,0.7717,0.0477,0.5223,Tinggi
+SBMA,Surya Biru Murni Acetylene Tbk,Basic Materials,-0.002,0.0134,-0.0011,0.0134,-0.0005,0.0292,-0.0006,0.0309,Sedang
+SCCO,Supreme Cable Manufacturing & ,Industrials,-0.0014,0.0176,-0.0004,0.0153,0.0001,0.0178,-0.0023,0.048,Tinggi
+SCMA,Surya Citra Media Tbk.,Consumer Cyclicals,0.0047,0.0559,0.0059,0.0424,0.0029,0.0361,0.0007,0.0318,Sedang
+SCNP,Selaras Citra Nusantara Perkas,Consumer Cyclicals,-0.0062,0.0328,-0.0009,0.0444,0.0012,0.0598,0.0006,0.0628,Sedang
+SCPI,Organon Pharma Indonesia Tbk.,Healthcare,0.0,0.0,0.0,0.0,0.0,0.0,-3.2308,,Tinggi
+SDMU,Sidomulyo Selaras Tbk.,Transportation and Logistic,-0.0014,0.0555,-0.0004,0.05,0.005,0.0554,-0.004,0.0666,Tinggi
+SDPC,Millennium Pharmacon Internati,Consumer Non-Cyclicals,-0.0008,0.0144,0.0007,0.0455,0.0003,0.035,0.0007,0.0414,Tinggi
+SDRA,Bank Woori Saudara Indonesia 1,Financials,-0.0055,0.0167,-0.0029,0.0127,-0.002,0.0115,-0.0016,0.0152,Sedang
+SEMA,Semacom Integrated Tbk.,Energy,0.0069,0.1114,-0.0008,0.0628,-0.0014,0.0467,0.0016,0.0529,Sedang
+SFAN,Surya Fajar Capital Tbk.,Financials,0.0004,0.0031,0.0002,0.0031,0.0002,0.0035,0.0002,0.0086,Rendah
+SGER,Sumber Global Energy Tbk.,Energy,-0.0061,0.0247,-0.0013,0.0443,-0.0017,0.0447,0.0041,0.0483,Tinggi
+SGRO,Sampoerna Agro Tbk.,Consumer Non-Cyclicals,-0.0007,0.022,0.0005,0.0193,0.0007,0.0161,0.0003,0.013,Rendah
+SHID,Hotel Sahid Jaya International,Consumer Cyclicals,-0.0099,0.0379,-0.0045,0.0368,-0.0026,0.0331,-0.0025,0.0628,Sedang
+SHIP,Sillo Maritime Perdana Tbk.,Energy,-0.0074,0.0348,0.0002,0.0415,0.0005,0.0399,-0.0002,0.0405,Sedang
+SICO,Sigma Energy Compressindo Tbk.,Energy,-0.0015,0.024,0.001,0.0426,0.0014,0.0401,-0.0,0.0424,Tinggi
+SIDO,Industri Jamu dan Farmasi Sido,Healthcare,-0.0009,0.0229,-0.0019,0.021,-0.0012,0.0193,-0.0002,0.022,Rendah
+SILO,Siloam International Hospitals,Healthcare,-0.0015,0.0162,0.0006,0.0306,0.0016,0.0278,0.0017,0.0296,Sedang
+SIMA,Siwani Makmur Tbk,Basic Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+SIMP,Salim Ivomas Pratama Tbk.,Consumer Non-Cyclicals,-0.0029,0.0146,-0.0007,0.0154,0.0006,0.0162,-0.0003,0.0144,Sedang
+SINI,Singaraja Putra Tbk.,Industrials,-0.0282,0.0778,0.0027,0.0971,0.0127,0.0873,0.0041,0.0768,Tinggi
+SIPD,Sreeya Sewu Indonesia Tbk.,Consumer Non-Cyclicals,-0.0013,0.0332,-0.0015,0.0324,0.0014,0.0386,0.0003,0.045,Sedang
+SKBM,Sekar Bumi Tbk.,Consumer Non-Cyclicals,0.0098,0.1438,0.0086,0.1137,0.006,0.093,0.0035,0.0765,Tinggi
+SKLT,Sekar Laut Tbk.,Consumer Non-Cyclicals,-0.002,0.0271,0.0017,0.0726,0.0048,0.0766,0.0017,0.0786,Tinggi
+SKRN,Superkrane Mitra Utama Tbk.,Industrials,-0.001,0.0242,0.0032,0.0439,0.0028,0.0395,-0.0004,0.0493,Sedang
+SKYB,Northcliff Citranusa Indonesia,Technology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tinggi
+SLIS,Gaya Abadi Sempurna Tbk.,Consumer Cyclicals,0.0002,0.028,-0.0026,0.0229,-0.0007,0.0379,-0.0035,0.0579,Tinggi
+SMAR,Smart Tbk.,Consumer Non-Cyclicals,-0.0023,0.0238,-0.0011,0.0222,0.0002,0.0213,-0.0005,0.0177,Sedang
+SMBR,Semen Baturaja Tbk.,Basic Materials,-0.0047,0.0197,-0.0026,0.025,-0.0005,0.0363,-0.0018,0.0316,Sedang
+SMCB,Solusi Bangun Indonesia Tbk.,Basic Materials,-0.0003,0.0194,-0.0,0.0261,-0.003,0.0402,-0.0016,0.0335,Sedang
+SMDM,Suryamas Dutamakmur Tbk.,Properties and Real Estate,0.0064,0.0627,0.0034,0.038,0.0103,0.0458,0.0045,0.0336,Tinggi
+SMDR,Samudera Indonesia  Tbk.,Transportation and Logistic,-0.0033,0.0167,-0.003,0.0219,0.0004,0.0311,-0.0006,0.0285,Sedang
+SMGA,Sumber Mineral Global Abadi Tb,Basic Materials,-0.0036,0.0635,-0.0053,0.0438,-0.0017,0.0379,-0.0029,0.0612,Tinggi
+SMGR,Semen Indonesia (Persero) Tbk.,Basic Materials,-0.004,0.0234,-0.0032,0.0245,-0.0023,0.0251,-0.0023,0.0214,Sedang
+SMIL,Sarana Mitra Luas Tbk.,Industrials,-0.0183,0.0786,-0.0066,0.0566,0.0009,0.0544,0.0006,0.0513,Tinggi
+SMKL,Satyamitra Kemas Lestari Tbk.,Basic Materials,0.0083,0.0934,0.0019,0.0616,0.0008,0.0446,-0.001,0.0384,Sedang
+SMKM,Sumber Mas Konstruksi Tbk.,Infrastructures,-0.0146,0.0473,-0.0069,0.0419,0.0016,0.0463,-0.0009,0.0565,Tinggi
+SMLE,Sinergi Multi Lestarindo Tbk.,Basic Materials,0.0024,0.051,0.0061,0.0754,0.005,0.0752,0.0019,0.0922,Tinggi
+SMMA,Sinarmas Multiartha Tbk.,Financials,0.0027,0.0258,0.0013,0.0186,0.0007,0.0227,0.0016,0.0398,Sedang
+SMMT,Golden Eagle Energy Tbk.,Energy,-0.003,0.0125,-0.0002,0.0366,-0.0001,0.0266,-0.001,0.0297,Tinggi
+SMRA,Summarecon Agung Tbk.,Properties and Real Estate,-0.0057,0.0203,-0.0045,0.0264,-0.0004,0.026,-0.001,0.0258,Sedang
+SMRU,SMR Utama Tbk.,Energy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+SMSM,Selamat Sempurna Tbk.,Consumer Cyclicals,-0.0035,0.0147,-0.0019,0.0171,0.0006,0.0238,0.0001,0.0244,Sedang
+SNLK,Sunter Lakeside Hotel Tbk.,Consumer Cyclicals,-0.0122,0.0765,0.0008,0.0527,0.0025,0.0545,-0.0005,0.0478,Tinggi
+SOCI,Soechi Lines Tbk.,Energy,-0.003,0.0155,-0.0014,0.0191,-0.0005,0.0186,-0.0001,0.0275,Sedang
+SOFA,Boston Furniture Industries Tb,Consumer Cyclicals,0.0031,0.122,0.0206,0.1102,0.0141,0.0931,0.0073,0.0808,Tinggi
+SOHO,Soho Global Health Tbk.,Healthcare,0.0044,0.0442,0.0004,0.0325,0.0029,0.0385,0.0023,0.0351,Sedang
+SOLA,Xolare RCR Energy Tbk.,Basic Materials,0.0,0.0,0.0018,0.0665,-0.006,0.1577,-0.006,0.1577,Tinggi
+SONA,Sona Topas Tourism Industry Tb,Consumer Cyclicals,-0.0153,0.1436,0.0263,0.1594,0.0127,0.1274,0.0088,0.1102,Tinggi
+SOSS,Shield On Service Tbk.,Industrials,-0.006,0.0717,0.0076,0.0948,0.0043,0.0725,0.0024,0.0607,Sedang
+SOTS,Satria Mega Kencana Tbk.,Consumer Cyclicals,0.0012,0.0361,0.0013,0.0578,0.0073,0.096,0.0057,0.1081,Tinggi
+SOUL,Mitra Tirta Buwana Tbk.,Consumer Non-Cyclicals,-0.005,0.0798,0.0158,0.0942,0.0099,0.095,0.0053,0.0866,Tinggi
+SPMA,Suparma Tbk.,Basic Materials,-0.0013,0.0109,-0.0003,0.0174,-0.0002,0.0177,-0.0013,0.0175,Sedang
+SPRE,Soraya Berjaya Indonesia Tbk.,Consumer Cyclicals,-0.0146,0.0594,-0.0058,0.0546,0.0023,0.0624,0.0023,0.0624,Tinggi
+SPTO,Surya Pertiwi Tbk.,Industrials,0.002,0.0151,0.0033,0.0185,0.0028,0.0195,0.0012,0.0166,Sedang
+SQMI,Wilton Makmur Indonesia Tbk.,Basic Materials,-0.0295,0.0453,-0.0048,0.0677,-0.0069,0.0651,-0.0027,0.062,Tinggi
+SRAJ,Sejahteraraya Anugrahjaya Tbk.,Healthcare,-0.0051,0.0159,-0.001,0.0203,0.0026,0.0247,0.0068,0.0687,Tinggi
+SRIL,Sri Rejeki Isman Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+SRSN,Indo Acidatama Tbk,Basic Materials,0.0002,0.0229,-0.0019,0.0218,0.0002,0.0223,0.0009,0.0421,Sedang
+SRTG,Saratoga Investama Sedaya Tbk.,Financials,-0.0149,0.0292,-0.004,0.0421,0.0024,0.0395,0.0008,0.0325,Sedang
+SSIA,Surya Semesta Internusa Tbk.,Infrastructures,0.001,0.0487,-0.0031,0.0356,0.0006,0.0365,0.0033,0.0381,Sedang
+SSMS,Sawit Sumbermas Sarana Tbk.,Consumer Non-Cyclicals,0.0116,0.0538,0.0039,0.0433,0.0024,0.0363,0.001,0.0331,Sedang
+SSTM,Sunson Textile Manufacture Tbk,Consumer Cyclicals,0.0167,0.1616,0.0097,0.1322,-0.0023,0.1219,-0.0031,0.1214,Tinggi
+STAA,Sumber Tani Agung Resources Tb,Consumer Non-Cyclicals,-0.0005,0.0135,-0.0,0.0165,0.0011,0.0161,0.0001,0.0164,Sedang
+STAR,Buana Artha Anugerah Tbk.,Financials,0.0,0.0,0.0,0.0,0.0041,0.0975,-0.0062,0.0559,Sedang
+STRK,Lovina Beach Brewery Tbk.,Consumer Non-Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,-0.0045,0.1555,Tinggi
+STTP,Siantar Top Tbk.,Consumer Non-Cyclicals,0.0012,0.0471,-0.0014,0.0392,0.0029,0.0451,0.0021,0.0455,Sedang
+SUGI,Sugih Energy Tbk.,Energy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+SULI,SLJ Global Tbk.,Basic Materials,-0.0028,0.029,-0.0006,0.058,-0.0002,0.0641,0.0008,0.0671,Sedang
+SUNI,Sunindo Pratama Tbk.,Energy,-0.0003,0.0205,0.0037,0.0421,0.0031,0.0485,0.004,0.0433,Sedang
+SUPR,Solusi Tunas Pratama Tbk.,Infrastructures,0.0,0.0,0.0,0.0,0.0238,0.0413,0.0265,0.0381,Sedang
+SURE,Super Energy Tbk.,Energy,0.0123,0.0802,0.0039,0.0624,0.0036,0.0474,0.0035,0.0441,Sedang
+SURI,Maja Agung Latexindo Tbk.,Healthcare,0.0036,0.0716,-0.0092,0.0677,-0.0106,0.0861,-0.0004,0.0991,Tinggi
+SWAT,Sriwahana Adityakarta Tbk.,Basic Materials,-0.0224,0.0742,0.005,0.0835,-0.0048,0.0896,-0.0034,0.0839,Tinggi
+SWID,Saraswanti Indoland Developmen,Consumer Cyclicals,-0.0035,0.0198,-0.003,0.0266,0.0002,0.0288,0.0003,0.0465,Sedang
+TALF,Tunas Alfin Tbk.,Basic Materials,0.0006,0.035,-0.0005,0.0381,0.0007,0.0364,0.0009,0.0476,Tinggi
+TAMA,Lancartama Sejati Tbk.,Infrastructures,0.0562,0.0697,0.0216,0.0801,0.0212,0.0963,0.003,0.0897,Tinggi
+TAMU,Pelayaran Tamarin Samudra Tbk.,Energy,-0.0036,0.0785,-0.0021,0.0778,0.0129,0.1041,0.0103,0.1101,Sedang
+TAPG,Triputra Agro Persada Tbk.,Consumer Non-Cyclicals,-0.0034,0.0239,0.0004,0.024,0.0032,0.0243,0.0019,0.0245,Sedang
+TARA,Agung Semesta Sejahtera Tbk.,Properties and Real Estate,0.0128,0.118,0.0055,0.1066,0.0148,0.1473,0.008,0.1362,Sedang
+TAXI,Express Transindo Utama Tbk.,Transportation and Logistic,-0.0132,0.1822,0.0292,0.1983,0.0597,0.3781,0.0336,0.3461,Tinggi
+TAYS,Jaya Swarasa Agung Tbk.,Consumer Non-Cyclicals,-0.0077,0.0269,-0.0048,0.0525,-0.002,0.0722,-0.0007,0.0589,Tinggi
+TBIG,Tower Bersama Infrastructure T,Infrastructures,0.002,0.0246,0.001,0.019,0.0004,0.0183,0.0003,0.0182,Sedang
+TBLA,Tunas Baru Lampung Tbk.,Consumer Non-Cyclicals,-0.0018,0.0129,0.0003,0.023,0.0011,0.0231,-0.0003,0.0216,Sedang
+TBMS,Tembaga Mulia Semanan Tbk.,Basic Materials,-0.0001,0.0256,0.0011,0.0227,0.0007,0.0236,0.0016,0.0426,Sedang
+TCID,Mandom Indonesia Tbk.,Consumer Non-Cyclicals,-0.0014,0.0379,-0.0015,0.0301,-0.001,0.0281,-0.0011,0.0258,Rendah
+TCPI,Transcoal Pacific Tbk.,Energy,-0.0036,0.0191,-0.0003,0.0192,-0.0014,0.0202,-0.0002,0.0259,Sedang
+TDPM,Tianrong Chemicals Industry Tb,Basic Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+TEBE,Dana Brata Luhur Tbk.,Energy,-0.0023,0.008,-0.0012,0.0132,-0.0004,0.0154,-0.0004,0.0142,Sedang
+TECH,Indosterling Technomedia Tbk.,Technology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tinggi
+TELE,Omni Inovasi Indonesia Tbk.,Consumer Cyclicals,0.0056,0.1156,0.0155,0.1204,0.0237,0.2173,0.0025,0.1991,Tinggi
+TFAS,Telefast Indonesia Tbk.,Technology,-0.0053,0.0167,-0.001,0.0541,0.0,0.0792,-0.0065,0.0814,Tinggi
+TFCO,Tifico Fiber Indonesia Tbk.,Consumer Cyclicals,-0.0607,0.0542,-0.0607,0.0542,-0.0516,0.0511,-0.02,0.0472,Tinggi
+TGKA,Tigaraksa Satria Tbk.,Consumer Non-Cyclicals,-0.0008,0.022,-0.0,0.0238,0.0002,0.0229,0.0001,0.0284,Sedang
+TGRA,Terregra Asia Energy Tbk.,Infrastructures,0.0416,0.0947,0.0126,0.0866,0.0188,0.0881,0.0038,0.0884,Tinggi
+TGUK,Platinum Wahab Nusantara Tbk.,Consumer Non-Cyclicals,0.0,0.0,-0.0048,0.0473,-0.011,0.0922,0.0007,0.0911,Tinggi
+TIFA,KDB Tifa Finance Tbk.,Financials,-0.009,,-0.0089,0.0001,0.0178,0.047,0.0047,0.0446,Sedang
+TINS,Timah Tbk.,Basic Materials,-0.0039,0.0301,0.0011,0.0382,0.0015,0.0333,0.001,0.039,Sedang
+TIRA,Tira Austenite Tbk,Industrials,0.001,0.0771,0.0035,0.062,0.0031,0.0631,0.0025,0.0633,Sedang
+TIRT,Tirta Mahakam Resources Tbk,Basic Materials,0.0015,0.13,0.006,0.1138,0.013,0.1039,0.0045,0.103,Tinggi
+TKIM,Pabrik Kertas Tjiwi Kimia Tbk.,Basic Materials,-0.0026,0.0149,-0.0024,0.0177,-0.0015,0.0194,0.0,0.0254,Sedang
+TLDN,Teladan Prima Agro Tbk.,Consumer Non-Cyclicals,-0.0004,0.016,0.0021,0.0301,0.0015,0.0229,0.0007,0.0183,Rendah
+TLKM,Telkom Indonesia (Persero) Tbk,Infrastructures,-0.0008,0.023,-0.0014,0.02,-0.0004,0.0193,-0.0008,0.017,Rendah
+TMAS,Temas Tbk.,Transportation and Logistic,-0.0013,0.0264,-0.0014,0.0219,-0.0007,0.0223,-0.0017,0.0353,Tinggi
+TMPO,Tempo Intimedia Tbk.,Consumer Cyclicals,-0.0118,0.0637,0.0028,0.1003,0.0112,0.1084,0.0045,0.0822,Tinggi
+TNCA,Trimuda Nuansa Citra Tbk.,Transportation and Logistic,-0.0143,0.0336,-0.0081,0.0928,0.003,0.0862,0.0012,0.077,Tinggi
+TOBA,TBS Energi Utama Tbk.,Energy,-0.0073,0.0235,-0.0037,0.0487,0.0039,0.0495,0.0006,0.0449,Sedang
+TOOL,Rohartindo Nusantara Luas Tbk.,Consumer Cyclicals,0.003,0.0201,-0.0003,0.0202,-0.002,0.0323,0.0,0.0417,Sedang
+TOPS,Totalindo Eka Persada Tbk.,Infrastructures,0.0,0.0,0.0,0.0,0.1548,0.7609,-0.001,0.4211,Tinggi
+TOSK,Topindo Solusi Komunika Tbk.,Technology,-0.0182,0.0494,0.0005,0.0956,0.0018,0.0905,-0.0007,0.0996,Tinggi
+TOTL,Total Bangun Persada Tbk.,Infrastructures,-0.0042,0.0161,0.0003,0.0328,0.0028,0.0345,0.0024,0.0282,Sedang
+TOTO,Surya Toto Indonesia Tbk.,Industrials,-0.0012,0.0116,0.0009,0.0215,0.0015,0.022,0.0004,0.0194,Sedang
+TOWR,Sarana Menara Nusantara Tbk.,Infrastructures,-0.0019,0.032,-0.0028,0.0243,-0.0007,0.0225,-0.001,0.0218,Sedang
+TOYS,Sunindo Adipersada Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,-0.0545,0.1283,-0.0405,0.1132,Tinggi
+TPIA,Chandra Asri Pacific Tbk.,Basic Materials,-0.0059,0.0217,-0.0023,0.0365,0.0,0.0312,0.0046,0.0447,Sedang
+TPMA,Trans Power Marine Tbk.,Energy,-0.0011,0.022,-0.0013,0.0251,0.0002,0.0276,0.0017,0.0313,Sedang
+TRAM,Trada Alam Minera Tbk.,Energy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+TRGU,Cerestar Indonesia Tbk.,Consumer Non-Cyclicals,-0.0017,0.0161,-0.0003,0.0173,0.003,0.0444,0.0003,0.0376,Sedang
+TRIL,Triwira Insanlestari Tbk.,Industrials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Rendah
+TRIM,Trimegah Sekuritas Indonesia T,Financials,-0.001,0.034,0.0041,0.0305,0.0028,0.0287,0.0019,0.0279,Sedang
+TRIN,Perintis Triniti Properti Tbk.,Properties and Real Estate,-0.0039,0.0265,-0.0026,0.0286,-0.0,0.0347,-0.0006,0.0582,Tinggi
+TRIO,Trikomsel Oke Tbk.,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+TRIS,Trisula International Tbk.,Consumer Cyclicals,-0.0015,0.0185,-0.0014,0.0162,0.0006,0.021,0.0004,0.045,Tinggi
+TRJA,Transkon Jaya Tbk.,Transportation and Logistic,-0.0035,0.0222,-0.0019,0.0248,-0.0005,0.0221,-0.0013,0.0274,Sedang
+TRON,Teknologi Karya Digital Nusa T,Technology,0.0041,0.0563,0.0099,0.0934,0.0009,0.0892,0.0004,0.0767,Tinggi
+TRST,Trias Sentosa Tbk.,Basic Materials,0.0081,0.0496,0.003,0.0337,0.0025,0.0349,0.0002,0.0441,Sedang
+TRUE,Triniti Dinamik Tbk.,Properties and Real Estate,-0.0108,0.0586,-0.0064,0.0555,0.0033,0.0715,-0.0076,0.0789,Tinggi
+TRUK,Guna Timur Raya Tbk.,Transportation and Logistic,0.0085,0.0323,0.0012,0.0446,0.0025,0.0645,0.0017,0.0542,Sedang
+TRUS,Trust Finance Indonesia Tbk,Financials,0.0311,0.1594,0.0123,0.0975,0.0069,0.0772,0.0038,0.0616,Tinggi
+TSPC,Tempo Scan Pacific Tbk.,Healthcare,-0.0006,0.0113,-0.0007,0.0144,0.002,0.0233,0.0015,0.0207,Sedang
+TUGU,Asuransi Tugu Pratama Indonesi,Financials,-0.0023,0.0114,-0.0025,0.014,-0.0001,0.0184,-0.0003,0.0206,Sedang
+TYRE,King Tire Indonesia Tbk.,Consumer Cyclicals,0.0001,0.0116,-0.0003,0.0185,0.0002,0.0321,0.0012,0.0389,Sedang
+UANG,Pakuan Tbk.,Properties and Real Estate,-0.0576,0.056,-0.0118,0.0493,0.0014,0.0772,0.0041,0.0873,Tinggi
+UCID,Uni-Charm Indonesia Tbk.,Consumer Non-Cyclicals,-0.0024,0.0176,-0.0045,0.0181,-0.0001,0.0193,-0.0013,0.0175,Rendah
+UDNG,Agro Bahari Nusantara Tbk.,Consumer Non-Cyclicals,-0.0019,0.0552,-0.003,0.0516,-0.0015,0.0605,-0.001,0.0686,Tinggi
+UFOE,Damai Sejahtera Abadi Tbk.,Consumer Cyclicals,-0.0089,0.0334,0.0005,0.0503,0.0024,0.0395,0.0011,0.0373,Tinggi
+ULTJ,Ultrajaya Milk Industry & Trad,Consumer Non-Cyclicals,-0.004,0.0228,-0.0013,0.0196,-0.0006,0.0201,-0.0003,0.0211,Rendah
+UNIC,Unggul Indah Cahaya Tbk.,Basic Materials,-0.0002,0.0182,-0.0,0.0203,0.0005,0.0192,-0.0,0.019,Sedang
+UNIQ,Ulima Nitra Tbk.,Energy,-0.0012,0.0421,-0.001,0.0495,0.002,0.0434,0.0046,0.0571,Tinggi
+UNIT,Nusantara Inti Corpora Tbk,Consumer Cyclicals,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+UNSP,Bakrie Sumatera Plantations Tb,Consumer Non-Cyclicals,-0.0005,0.068,0.0055,0.0504,0.005,0.0422,0.0004,0.0335,Sedang
+UNTD,Terang Dunia Internusa Tbk.,Consumer Cyclicals,-0.0061,0.0181,-0.0041,0.0635,-0.0018,0.0483,-0.0052,0.0524,Sedang
+UNTR,United Tractors Tbk.,Industrials,-0.004,0.0191,-0.0001,0.0155,0.0007,0.0153,0.0005,0.0158,Sedang
+UNVR,Unilever Indonesia Tbk.,Consumer Non-Cyclicals,-0.004,0.0225,-0.0026,0.0247,-0.0021,0.0247,-0.0023,0.0225,Sedang
+URBN,Urban Jakarta Propertindo Tbk.,Properties and Real Estate,-0.003,0.0296,-0.0016,0.0427,0.0016,0.0633,0.0012,0.0589,Sedang
+UVCR,Trimegah Karya Pratama Tbk.,Technology,-0.011,0.0411,-0.0037,0.0659,-0.0025,0.0577,-0.0019,0.0543,Tinggi
+VAST,Vastland Indonesia Tbk.,Properties and Real Estate,-0.0005,0.0238,0.0005,0.0253,0.0001,0.0286,0.0009,0.0415,Sedang
+VERN,Verona Indah Pictures Tbk.,Consumer Cyclicals,-0.001,0.0507,-0.0088,0.0566,-0.0088,0.0566,-0.0088,0.0566,Tinggi
+VICI,Victoria Care Indonesia Tbk.,Consumer Non-Cyclicals,-0.0003,0.012,-0.0005,0.0121,-0.0002,0.0119,0.0008,0.0165,Sedang
+VICO,Victoria Investama Tbk.,Financials,-0.0012,0.063,0.0048,0.0604,0.0069,0.0626,0.001,0.0583,Tinggi
+VINS,Victoria Insurance Tbk.,Financials,-0.0017,0.0223,-0.0004,0.0338,-0.0,0.0572,0.0033,0.0939,Tinggi
+VISI,Satu Visi Putra Tbk.,Industrials,0.0034,0.0671,-0.0016,0.084,-0.0009,0.0818,0.0028,0.0818,Tinggi
+VIVA,Visi Media Asia Tbk.,Consumer Cyclicals,0.1171,0.0298,0.1171,0.0298,0.0345,0.1651,-0.0218,0.1327,Sedang
+VKTR,VKTR Teknologi Mobilitas Tbk.,Consumer Cyclicals,-0.0027,0.0291,-0.0002,0.0376,0.0016,0.0677,0.0011,0.0565,Tinggi
+VOKS,Voksel Electric Tbk.,Industrials,0.0002,0.1157,0.0022,0.104,0.0044,0.0865,0.0024,0.065,Sedang
+VRNA,Mizuho Leasing Indonesia Tbk.,Financials,-0.0032,0.0148,-0.0008,0.0198,-0.0001,0.024,-0.0,0.0272,Tinggi
+VTNY,Venteny Fortuna International ,Financials,-0.0122,0.0686,0.0039,0.0534,0.0005,0.0468,0.0003,0.0589,Tinggi
+WAPO,Wahana Pronatural Tbk.,Consumer Non-Cyclicals,0.0204,0.1005,0.0069,0.0661,0.0029,0.0526,0.002,0.0618,Tinggi
+WEGE,Wijaya Karya Bangunan Gedung T,Infrastructures,-0.006,0.0328,-0.0042,0.0254,-0.0,0.0478,-0.001,0.0415,Sedang
+WEHA,WEHA Transportasi Indonesia Tb,Transportation and Logistic,-0.0025,0.0204,-0.0015,0.023,0.001,0.0255,-0.0001,0.0328,Sedang
+WGSH,Wira Global Solusi Tbk.,Technology,0.0033,0.0372,0.0017,0.0323,0.0049,0.04,-0.0005,0.0525,Sedang
+WICO,Wicaksana Overseas Internation,Consumer Non-Cyclicals,0.0,0.0,0.0,0.0,0.0159,0.1189,-0.0013,0.0613,Sedang
+WIDI,Widiant Jaya Krenindo Tbk.,Industrials,0.0058,0.1084,0.0099,0.109,0.0091,0.1187,-0.0006,0.1137,Tinggi
+WIFI,Solusi Sinergi Digital Tbk.,Technology,0.0363,0.1044,0.0186,0.0723,0.0139,0.062,0.0065,0.0487,Sedang
+WIIM,Wismilak Inti Makmur Tbk.,Consumer Non-Cyclicals,-0.0083,0.0177,-0.0046,0.0222,-0.0024,0.0293,-0.0016,0.0381,Sedang
+WIKA,Wijaya Karya (Persero) Tbk.,Infrastructures,-0.0081,0.0433,-0.0054,0.0427,0.0048,0.0731,-0.0007,0.0671,Sedang
+WINE,Hatten Bali Tbk.,Consumer Non-Cyclicals,-0.0058,0.0186,0.0013,0.0369,-0.0001,0.0341,-0.0017,0.0341,Tinggi
+WINR,Winner Nusantara Jaya Tbk.,Properties and Real Estate,0.0199,0.0775,0.0104,0.0841,0.0123,0.0987,-0.0046,0.0995,Tinggi
+WINS,Wintermar Offshore Marine Tbk.,Energy,-0.0024,0.0275,-0.0007,0.0261,-0.0007,0.0304,0.0012,0.0391,Sedang
+WIRG,WIR ASIA Tbk.,Technology,0.0039,0.0558,0.0024,0.0493,0.0013,0.0448,-0.0,0.0463,Tinggi
+WMPP,Widodo Makmur Perkasa Tbk.,Consumer Non-Cyclicals,0.0,0.0,0.0,0.0,-0.0463,0.1058,-0.058,0.1022,Sedang
+WMUU,Widodo Makmur Unggas Tbk.,Consumer Non-Cyclicals,-0.0146,0.1083,-0.0022,0.1013,-0.0009,0.1057,-0.0136,0.1076,Sedang
+WOMF,Wahana Ottomitra Multiartha Tb,Financials,-0.0004,0.0145,-0.0004,0.0136,-0.0005,0.0187,-0.0005,0.0196,Sedang
+WOOD,Integra Indocabinet Tbk.,Consumer Cyclicals,0.0052,0.0515,0.0073,0.048,0.0034,0.0494,0.0004,0.04,Sedang
+WOWS,Ginting Jaya Energi Tbk.,Energy,-0.0021,0.04,0.0031,0.0409,0.0148,0.0672,0.0023,0.0711,Tinggi
+WSBP,Waskita Beton Precast Tbk.,Basic Materials,-0.0087,0.0641,-0.0045,0.0643,0.0014,0.0732,-0.0075,0.0739,Sedang
+WSKT,Waskita Karya (Persero) Tbk.,Infrastructures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Sedang
+WTON,Wijaya Karya Beton Tbk.,Basic Materials,-0.0065,0.0337,-0.0048,0.0259,0.0007,0.061,-0.0011,0.0499,Sedang
+YELO,Yelooo Integra Datanet Tbk.,Consumer Cyclicals,0.0219,0.0991,0.0073,0.0877,0.0064,0.0903,-0.0035,0.0872,Tinggi
+YOII,Asuransi Digital Bersama Tbk.,Financials,-0.0216,0.125,-0.0216,0.125,-0.0216,0.125,-0.0216,0.125,Tinggi
+YPAS,Yanaprima Hastapersada Tbk,Basic Materials,0.0091,0.0977,0.0042,0.0841,0.0038,0.0803,-0.0023,0.063,Tinggi
+YULE,Yulie Sekuritas Indonesia Tbk.,Financials,0.0141,0.1236,0.0051,0.072,0.0029,0.0486,0.0025,0.0414,Tinggi
+ZATA,Bersama Zatta Jaya Tbk.,Consumer Cyclicals,0.0098,0.1424,0.0019,0.1231,0.0093,0.1247,-0.0107,0.12,Tinggi
+ZBRA,Dosni Roha Indonesia Tbk.,Industrials,-0.0167,0.0443,-0.0088,0.1117,-0.0126,0.0842,-0.0079,0.0668,Tinggi
+ZINC,Kapuas Prima Coal Tbk.,Basic Materials,0.0057,0.0821,0.0068,0.0767,0.0129,0.0882,-0.0046,0.0882,Sedang
+ZONE,Mega Perintis Tbk.,Consumer Cyclicals,0.0008,0.0167,-0.0016,0.0134,-0.0021,0.0264,-0.0009,0.0191,Rendah
+ZYRX,Zyrexindo Mandiri Buana Tbk.,Technology,-0.0029,0.0165,-0.0017,0.0201,0.0004,0.0535,-0.0007,0.0457,Sedang
