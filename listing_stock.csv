@@ -1,952 +1,952 @@
-stock_id,name,sector
-DVLA,Darya-Varia Laboratoria Tbk.,Healthcare
-INAF,Indofarma Tbk.,Healthcare
-KAEF,Kimia Farma Tbk.,Healthcare
-KLBF,Kalbe Farma Tbk.,Healthcare
-MERK,Merck Tbk.,Healthcare
-MIKA,Mitra Keluarga Karyasehat Tbk.,Healthcare
-PYFA,Pyridam Farma Tbk,Healthcare
-SAME,Sarana Meditama Metropolitan T,Healthcare
-SCPI,Organon Pharma Indonesia Tbk.,Healthcare
-SIDO,Industri Jamu dan Farmasi Sido,Healthcare
-SILO,Siloam International Hospitals,Healthcare
-SRAJ,Sejahteraraya Anugrahjaya Tbk.,Healthcare
-TSPC,Tempo Scan Pacific Tbk.,Healthcare
-PRDA,Prodia Widyahusada Tbk.,Healthcare
-PRIM,Royal Prima Tbk.,Healthcare
-HEAL,Medikaloka Hermina Tbk.,Healthcare
-PEHA,Phapros Tbk.,Healthcare
-IRRA,Itama Ranoraya Tbk.,Healthcare
-CARE,Metro Healthcare Indonesia Tbk,Healthcare
-SOHO,Soho Global Health Tbk.,Healthcare
-DGNS,Diagnos Laboratorium Utama Tbk,Healthcare
-BMHS,Bundamedik Tbk.,Healthcare
-RSGK,Kedoya Adyaraya Tbk.,Healthcare
-MTMH,Murni Sadar Tbk.,Healthcare
-MEDS,Hetzer Medical Indonesia Tbk.,Healthcare
-PRAY,Famon Awal Bros Sedaya Tbk.,Healthcare
-OMED,Jayamas Medica Industri Tbk.,Healthcare
-MMIX,Multi Medika Internasional Tbk,Healthcare
-PEVE,Penta Valent Tbk.,Healthcare
-HALO,Haloni Jane Tbk.,Healthcare
-RSCH,Charlie Hospital Semarang Tbk.,Healthcare
-IKPM,Ikapharmindo Putramas Tbk.,Healthcare
-SURI,Maja Agung Latexindo Tbk.,Healthcare
-LABS,UBC Medical Indonesia Tbk.,Healthcare
-OBAT,Brigit Biofarmaka Teknologi Tb,Healthcare
-ADMG,Polychem Indonesia Tbk,Basic Materials
-AGII,Samator Indo Gas Tbk.,Basic Materials
-AKPI,Argha Karya Prima Industry Tbk,Basic Materials
-ALDO,Alkindo Naratama Tbk.,Basic Materials
-ALKA,Alakasa Industrindo Tbk,Basic Materials
-ALMI,Alumindo Light Metal Industry ,Basic Materials
-ANTM,Aneka Tambang Tbk.,Basic Materials
-APLI,Asiaplast Industries Tbk.,Basic Materials
-BAJA,Saranacentral Bajatama Tbk.,Basic Materials
-BMSR,Bintang Mitra Semestaraya Tbk,Basic Materials
-BRMS,Bumi Resources Minerals Tbk.,Basic Materials
-BRNA,Berlina Tbk.,Basic Materials
-BRPT,Barito Pacific Tbk.,Basic Materials
-BTON,Betonjaya Manunggal Tbk.,Basic Materials
-CITA,Cita Mineral Investindo Tbk.,Basic Materials
-CLPI,Colorpak Indonesia Tbk.,Basic Materials
-CTBN,Citra Tubindo Tbk.,Basic Materials
-DKFT,Central Omega Resources Tbk.,Basic Materials
-DPNS,Duta Pertiwi Nusantara Tbk.,Basic Materials
-EKAD,Ekadharma International Tbk.,Basic Materials
-ESSA,ESSA Industries Indonesia Tbk.,Basic Materials
-ETWA,Eterindo Wahanatama Tbk,Basic Materials
-FASW,Fajar Surya Wisesa Tbk.,Basic Materials
-FPNI,Lotte Chemical Titan Tbk.,Basic Materials
-GDST,Gunawan Dianjaya Steel Tbk.,Basic Materials
-IGAR,Champion Pacific Indonesia Tbk,Basic Materials
-INAI,Indal Aluminium Industry Tbk.,Basic Materials
-INCI,Intanwijaya Internasional Tbk,Basic Materials
-INCO,Vale Indonesia Tbk.,Basic Materials
-INKP,Indah Kiat Pulp & Paper Tbk.,Basic Materials
-INRU,Toba Pulp Lestari Tbk.,Basic Materials
-INTD,Inter Delta Tbk,Basic Materials
-INTP,Indocement Tunggal Prakarsa Tb,Basic Materials
-IPOL,Indopoly Swakarsa Industry Tbk,Basic Materials
-ISSP,Steel Pipe Industry of Indones,Basic Materials
-JKSW,Jakarta Kyoei Steel Works Tbk.,Basic Materials
-KBRI,Kertas Basuki Rachmat Indonesi,Basic Materials
-KDSI,Kedawung Setia Industrial Tbk.,Basic Materials
-KRAS,Krakatau Steel (Persero) Tbk.,Basic Materials
-LMSH,Lionmesh Prima Tbk.,Basic Materials
-LTLS,Lautan Luas Tbk.,Basic Materials
-MDKA,Merdeka Copper Gold Tbk.,Basic Materials
-NIKL,Pelat Timah Nusantara Tbk.,Basic Materials
-OKAS,Ancora Indonesia Resources Tbk,Basic Materials
-PICO,Pelangi Indah Canindo Tbk,Basic Materials
-PSAB,J Resources Asia Pasifik Tbk.,Basic Materials
-SIMA,Siwani Makmur Tbk,Basic Materials
-SMBR,Semen Baturaja Tbk.,Basic Materials
-SMCB,Solusi Bangun Indonesia Tbk.,Basic Materials
-SMGR,Semen Indonesia (Persero) Tbk.,Basic Materials
-SPMA,Suparma Tbk.,Basic Materials
-SQMI,Wilton Makmur Indonesia Tbk.,Basic Materials
-SRSN,Indo Acidatama Tbk,Basic Materials
-SULI,SLJ Global Tbk.,Basic Materials
-TALF,Tunas Alfin Tbk.,Basic Materials
-TBMS,Tembaga Mulia Semanan Tbk.,Basic Materials
-TINS,Timah Tbk.,Basic Materials
-TIRT,Tirta Mahakam Resources Tbk,Basic Materials
-TKIM,Pabrik Kertas Tjiwi Kimia Tbk.,Basic Materials
-TPIA,Chandra Asri Pacific Tbk.,Basic Materials
-TRST,Trias Sentosa Tbk.,Basic Materials
-UNIC,Unggul Indah Cahaya Tbk.,Basic Materials
-WTON,Wijaya Karya Beton Tbk.,Basic Materials
-YPAS,Yanaprima Hastapersada Tbk,Basic Materials
-INCF,Indo Komoditi Korpora Tbk.,Basic Materials
-WSBP,Waskita Beton Precast Tbk.,Basic Materials
-KMTR,Kirana Megatara Tbk.,Basic Materials
-MDKI,Emdeki Utama Tbk.,Basic Materials
-ZINC,Kapuas Prima Coal Tbk.,Basic Materials
-PBID,Panca Budi Idaman Tbk.,Basic Materials
-TDPM,Tianrong Chemicals Industry Tb,Basic Materials
-SWAT,Sriwahana Adityakarta Tbk.,Basic Materials
-MOLI,Madusari Murni Indah Tbk.,Basic Materials
-HKMU,HK Metals Utama Tbk.,Basic Materials
-KAYU,Darmi Bersaudara Tbk.,Basic Materials
-SMKL,Satyamitra Kemas Lestari Tbk.,Basic Materials
-GGRP,Gunung Raja Paksi Tbk.,Basic Materials
-OPMS,Optima Prima Metal Sinergi Tbk,Basic Materials
-PURE,Trinitan Metals and Minerals T,Basic Materials
-ESIP,Sinergi Inti Plastindo Tbk.,Basic Materials
-IFSH,Ifishdeco Tbk.,Basic Materials
-IFII,Indonesia Fibreboard Industry ,Basic Materials
-AYLS,Agro Yasa Lestari Tbk.,Basic Materials
-SAMF,Saraswanti Anugerah Makmur Tbk,Basic Materials
-EPAC,Megalestari Epack Sentosaraya ,Basic Materials
-BEBS,Berkah Beton Sadaya Tbk.,Basic Materials
-NPGF,Nusa Palapa Gemilang Tbk.,Basic Materials
-ARCI,Archi Indonesia Tbk.,Basic Materials
-NICL,PAM Mineral Tbk.,Basic Materials
-SBMA,Surya Biru Murni Acetylene Tbk,Basic Materials
-CMNT,Cemindo Gemilang Tbk.,Basic Materials
-OBMD,OBM Drilchem Tbk.,Basic Materials
-AVIA,Avia Avian Tbk.,Basic Materials
-CHEM,Chemstar Indonesia Tbk.,Basic Materials
-KKES,Kusuma Kemindo Sentosa Tbk.,Basic Materials
-PDPP,Primadaya Plastisindo Tbk.,Basic Materials
-FWCT,Wijaya Cahaya Timber Tbk.,Basic Materials
-PACK,Abadi Nusantara Hijau Investam,Basic Materials
-NCKL,Trimegah Bangun Persada Tbk.,Basic Materials
-MBMA,Merdeka Battery Materials Tbk.,Basic Materials
-AMMN,Amman Mineral Internasional Tb,Basic Materials
-PPRI,Paperocks Indonesia Tbk.,Basic Materials
-NICE,Adhi Kartiko Pratama Tbk.,Basic Materials
-SMLE,Sinergi Multi Lestarindo Tbk.,Basic Materials
-SMGA,Sumber Mineral Global Abadi Tb,Basic Materials
-SOLA,Xolare RCR Energy Tbk.,Basic Materials
-BATR,Benteng Api Technic Tbk.,Basic Materials
-BLES,Superior Prima Sukses Tbk.,Basic Materials
-PTMR,Master Print Tbk.,Basic Materials
-DAAZ,Daaz Bara Lestari Tbk.,Basic Materials
-DGWG,Delta Giri Wacana Tbk.,Basic Materials
-ABDA,Asuransi Bina Dana Arta Tbk.,Financials
-ADMF,Adira Dinamika Multi Finance T,Financials
-AGRO,Bank Raya Indonesia Tbk.,Financials
-AGRS,Bank IBK Indonesia Tbk.,Financials
-AHAP,Asuransi Harta Aman Pratama Tb,Financials
-AMAG,Asuransi Multi Artha Guna Tbk.,Financials
-APIC,Pacific Strategic Financial Tb,Financials
-ARTO,Bank Jago Tbk.,Financials
-ASBI,Asuransi Bintang Tbk.,Financials
-ASDM,Asuransi Dayin Mitra Tbk.,Financials
-ASJT,Asuransi Jasa Tania Tbk.,Financials
-ASMI,Asuransi Maximus Graha Persada,Financials
-ASRM,Asuransi Ramayana Tbk.,Financials
-BABP,Bank MNC Internasional Tbk.,Financials
-BACA,Bank Capital Indonesia Tbk.,Financials
-BBCA,Bank Central Asia Tbk.,Financials
-BBHI,Allo Bank Indonesia Tbk.,Financials
-BBKP,Bank KB Bukopin Tbk.,Financials
-BBLD,Buana Finance Tbk.,Financials
-BBMD,Bank Mestika Dharma Tbk.,Financials
-BBNI,Bank Negara Indonesia (Persero,Financials
-BBRI,Bank Rakyat Indonesia (Persero,Financials
-BBTN,Bank Tabungan Negara (Persero),Financials
-BBYB,Bank Neo Commerce Tbk.,Financials
-BCAP,MNC Kapital Indonesia Tbk.,Financials
-BCIC,Bank JTrust Indonesia Tbk.,Financials
-BDMN,Bank Danamon Indonesia Tbk.,Financials
-BEKS,Bank Pembangunan Daerah Banten,Financials
-BFIN,BFI Finance  Indonesia Tbk.,Financials
-BGTG,Bank Ganesha Tbk.,Financials
-BINA,Bank Ina Perdana Tbk.,Financials
-BJBR,Bank Pembangunan Daerah Jawa B,Financials
-BJTM,Bank Pembangunan Daerah Jawa T,Financials
-BKSW,Bank QNB Indonesia Tbk.,Financials
-BMAS,Bank Maspion Indonesia Tbk.,Financials
-BMRI,Bank Mandiri (Persero) Tbk.,Financials
-BNBA,Bank Bumi Arta Tbk.,Financials
-BNGA,Bank CIMB Niaga Tbk.,Financials
-BNII,Bank Maybank Indonesia Tbk.,Financials
-BNLI,Bank Permata Tbk.,Financials
-BPFI,Woori Finance Indonesia Tbk.,Financials
-BPII,Batavia Prosperindo Internasio,Financials
-BSIM,Bank Sinarmas Tbk.,Financials
-BSWD,Bank Of India Indonesia Tbk.,Financials
-BTPN,Bank SMBC Indonesia Tbk.,Financials
-BVIC,Bank Victoria International Tb,Financials
-CFIN,Clipan Finance Indonesia Tbk.,Financials
-DEFI,Danasupra Erapacific Tbk.,Financials
-DNAR,Bank Oke Indonesia Tbk.,Financials
-DNET,Indoritel Makmur Internasional,Financials
-GSMF,Equity Development Investment ,Financials
-HDFA,Radana Bhaskara Finance Tbk.,Financials
-INPC,Bank Artha Graha Internasional,Financials
-LPGI,Lippo General Insurance Tbk.,Financials
-LPPS,Lenox Pasifik Investama Tbk.,Financials
-MAYA,Bank Mayapada Internasional Tb,Financials
-MCOR,Bank China Construction Bank I,Financials
-MEGA,Bank Mega Tbk.,Financials
-MFIN,Mandala Multifinance Tbk.,Financials
-MREI,Maskapai Reasuransi Indonesia ,Financials
-NISP,Bank OCBC NISP Tbk.,Financials
-NOBU,Bank Nationalnobu Tbk.,Financials
-OCAP,Onix Capital Tbk.,Financials
-PADI,Minna Padi Investama Sekuritas,Financials
-PALM,Provident Investasi Bersama Tb,Financials
-PANS,Panin Sekuritas Tbk.,Financials
-PEGE,Panca Global Kapital Tbk.,Financials
-PLAS,Polaris Investama Tbk,Financials
-PNBN,Bank Pan Indonesia Tbk,Financials
-PNBS,Bank Panin Dubai Syariah Tbk.,Financials
-PNIN,Paninvest Tbk.,Financials
-PNLF,Panin Financial Tbk.,Financials
-POOL,Pool Advista Indonesia Tbk.,Financials
-RELI,Reliance Sekuritas Indonesia T,Financials
-SDRA,Bank Woori Saudara Indonesia 1,Financials
-SMMA,Sinarmas Multiartha Tbk.,Financials
-SRTG,Saratoga Investama Sedaya Tbk.,Financials
-STAR,Buana Artha Anugerah Tbk.,Financials
-TIFA,KDB Tifa Finance Tbk.,Financials
-TRIM,Trimegah Sekuritas Indonesia T,Financials
-TRUS,Trust Finance Indonesia Tbk,Financials
-VICO,Victoria Investama Tbk.,Financials
-VINS,Victoria Insurance Tbk.,Financials
-VRNA,Mizuho Leasing Indonesia Tbk.,Financials
-WOMF,Wahana Ottomitra Multiartha Tb,Financials
-YULE,Yulie Sekuritas Indonesia Tbk.,Financials
-CASA,Capital Financial Indonesia Tb,Financials
-BRIS,Bank Syariah Indonesia Tbk.,Financials
-MTWI,Malacca Trust Wuwungan Insuran,Financials
-JMAS,Asuransi Jiwa Syariah Jasa Mit,Financials
-NICK,Charnic Capital Tbk.,Financials
-BTPS,Bank BTPN Syariah Tbk.,Financials
-TUGU,Asuransi Tugu Pratama Indonesi,Financials
-SFAN,Surya Fajar Capital Tbk.,Financials
-LIFE,MSIG Life Insurance Indonesia ,Financials
-FUJI,Fuji Finance Indonesia Tbk.,Financials
-AMAR,Bank Amar Indonesia Tbk.,Financials
-AMOR,Ashmore Asset Management Indon,Financials
-BHAT,Bhakti Multi Artha Tbk.,Financials
-BBSI,Krom Bank Indonesia Tbk.,Financials
-BANK,Bank Aladin Syariah Tbk.,Financials
-MASB,Bank Multiarta Sentosa Tbk.,Financials
-VTNY,Venteny Fortuna International ,Financials
-YOII,Asuransi Digital Bersama Tbk.,Financials
-POLA,Pool Advista Finance Tbk.,Financials
-AKSI,Mineral Sumberdaya Mandiri Tbk,Transportation and Logistic
-ASSA,Adi Sarana Armada Tbk.,Transportation and Logistic
-BIRD,Blue Bird Tbk.,Transportation and Logistic
-BLTA,Berlian Laju Tanker Tbk,Transportation and Logistic
-CMPP,AirAsia Indonesia Tbk.,Transportation and Logistic
-GIAA,Garuda Indonesia (Persero) Tbk,Transportation and Logistic
-IMJS,Indomobil Multi Jasa Tbk.,Transportation and Logistic
-LRNA,Eka Sari Lorena Transport Tbk.,Transportation and Logistic
-MIRA,Mitra International Resources ,Transportation and Logistic
-MITI,Mitra Investindo Tbk.,Transportation and Logistic
-NELY,Pelayaran Nelly Dwi Putri Tbk.,Transportation and Logistic
-SAFE,Steady Safe Tbk,Transportation and Logistic
-SDMU,Sidomulyo Selaras Tbk.,Transportation and Logistic
-SMDR,Samudera Indonesia  Tbk.,Transportation and Logistic
-TAXI,Express Transindo Utama Tbk.,Transportation and Logistic
-TMAS,Temas Tbk.,Transportation and Logistic
-WEHA,WEHA Transportasi Indonesia Tb,Transportation and Logistic
-HELI,Jaya Trishindo Tbk.,Transportation and Logistic
-TRUK,Guna Timur Raya Tbk.,Transportation and Logistic
-TNCA,Trimuda Nuansa Citra Tbk.,Transportation and Logistic
-BPTR,Batavia Prosperindo Trans Tbk.,Transportation and Logistic
-SAPX,Satria Antaran Prima Tbk.,Transportation and Logistic
-JAYA,Armada Berjaya Trans Tbk.,Transportation and Logistic
-KJEN,Krida Jaringan Nusantara Tbk.,Transportation and Logistic
-PURA,Putra Rajawali Kencana Tbk.,Transportation and Logistic
-PPGL,Prima Globalindo Logistik Tbk.,Transportation and Logistic
-TRJA,Transkon Jaya Tbk.,Transportation and Logistic
-HAIS,Hasnur Internasional Shipping ,Transportation and Logistic
-HATM,Habco Trans Maritima Tbk.,Transportation and Logistic
-RCCC,Utama Radar Cahaya Tbk.,Transportation and Logistic
-ELPI,Pelayaran Nasional Ekalya Purn,Transportation and Logistic
-LAJU,Jasa Berdikari Logistics Tbk.,Transportation and Logistic
-GTRA,Grahaprima Suksesmandiri Tbk.,Transportation and Logistic
-MPXL,MPX Logistics International Tb,Transportation and Logistic
-KLAS,Pelayaran Kurnia Lautan Semest,Transportation and Logistic
-LOPI,Logisticsplus International Tb,Transportation and Logistic
-DEAL,Dewata Freightinternational Tb,Transportation and Logistic
-ATIC,Anabatic Technologies Tbk.,Technology
-EMTK,Elang Mahkota Teknologi Tbk.,Technology
-KREN,Quantum Clovera Investama Tbk.,Technology
-LMAS,Limas Indonesia Makmur Tbk,Technology
-MLPT,Multipolar Technology Tbk.,Technology
-MTDL,Metrodata Electronics Tbk.,Technology
-PTSN,Sat Nusapersada Tbk,Technology
-SKYB,Northcliff Citranusa Indonesia,Technology
-KIOS,Kioson Komersial Indonesia Tbk,Technology
-MCAS,M Cash Integrasi Tbk.,Technology
-NFCX,NFC Indonesia Tbk.,Technology
-ENVY,Envy Technologies Indonesia Tb,Technology
-HDIT,Hensel Davest Indonesia Tbk.,Technology
-TFAS,Telefast Indonesia Tbk.,Technology
-DMMX,Digital Mediatama Maxima Tbk.,Technology
-GLVA,Galva Technologies Tbk.,Technology
-PGJO,Tourindo Guide Indonesia Tbk.,Technology
-CASH,Cashlez Worldwide Indonesia Tb,Technology
-TECH,Indosterling Technomedia Tbk.,Technology
-WIFI,Solusi Sinergi Digital Tbk.,Technology
-DCII,DCI Indonesia Tbk.,Technology
-EDGE,Indointernet Tbk.,Technology
-ZYRX,Zyrexindo Mandiri Buana Tbk.,Technology
-UVCR,Trimegah Karya Pratama Tbk.,Technology
-BUKA,Bukalapak.com Tbk.,Technology
-RUNS,Global Sukses Solusi Tbk.,Technology
-WGSH,Wira Global Solusi Tbk.,Technology
-WIRG,WIR ASIA Tbk.,Technology
-GOTO,GoTo Gojek Tokopedia Tbk.,Technology
-AXIO,Tera Data Indonusa Tbk.,Technology
-BELI,Global Digital Niaga Tbk.,Technology
-NINE,Techno9 Indonesia Tbk.,Technology
-ELIT,Data Sinergitama Jaya Tbk.,Technology
-IRSX,Aviana Sinar Abadi Tbk.,Technology
-CHIP,Pelita Teknologi Global Tbk.,Technology
-TRON,Teknologi Karya Digital Nusa T,Technology
-MENN,Menn Teknologi Indonesia Tbk.,Technology
-AWAN,Era Digital Media Tbk.,Technology
-JATI,Informasi Teknologi Indonesia ,Technology
-CYBR,ITSEC Asia Tbk.,Technology
-IOTF,Sumber Sinergi Makmur Tbk.,Technology
-MSTI,Mastersystem Infotama Tbk.,Technology
-TOSK,Topindo Solusi Komunika Tbk.,Technology
-MPIX,Mitra Pedagang Indonesia Tbk.,Technology
-AREA,Dunia Virtual Online Tbk.,Technology
-DIVA,Distribusi Voucher Nusantara T,Technology
-LUCK,Sentral Mitra Informatika Tbk.,Technology
-AALI,Astra Agro Lestari Tbk.,Consumer Non-Cyclicals
-ADES,Akasha Wira International Tbk.,Consumer Non-Cyclicals
-AISA,FKS Food Sejahtera Tbk.,Consumer Non-Cyclicals
-ALTO,Tri Banyan Tirta Tbk.,Consumer Non-Cyclicals
-AMRT,Sumber Alfaria Trijaya Tbk.,Consumer Non-Cyclicals
-ANJT,Austindo Nusantara Jaya Tbk.,Consumer Non-Cyclicals
-BISI,BISI International Tbk.,Consumer Non-Cyclicals
-BTEK,Bumi Teknokultura Unggul Tbk,Consumer Non-Cyclicals
-BUDI,Budi Starch & Sweetener Tbk.,Consumer Non-Cyclicals
-BWPT,Eagle High Plantations Tbk.,Consumer Non-Cyclicals
-CEKA,Wilmar Cahaya Indonesia Tbk.,Consumer Non-Cyclicals
-CPIN,Charoen Pokphand Indonesia Tbk,Consumer Non-Cyclicals
-CPRO,Central Proteina Prima Tbk.,Consumer Non-Cyclicals
-DLTA,Delta Djakarta Tbk.,Consumer Non-Cyclicals
-DSFI,Dharma Samudera Fishing Indust,Consumer Non-Cyclicals
-DSNG,Dharma Satya Nusantara Tbk.,Consumer Non-Cyclicals
-EPMT,Enseval Putera Megatrading Tbk,Consumer Non-Cyclicals
-FISH,FKS Multi Agro Tbk.,Consumer Non-Cyclicals
-GGRM,Gudang Garam Tbk.,Consumer Non-Cyclicals
-GOLL,Golden Plantation Tbk.,Consumer Non-Cyclicals
-GZCO,Gozco Plantations Tbk.,Consumer Non-Cyclicals
-HERO,DFI Retail Nusantara Tbk.,Consumer Non-Cyclicals
-HMSP,H.M. Sampoerna Tbk.,Consumer Non-Cyclicals
-ICBP,Indofood CBP Sukses Makmur Tbk,Consumer Non-Cyclicals
-INDF,Indofood Sukses Makmur Tbk.,Consumer Non-Cyclicals
-JAWA,Jaya Agra Wattie Tbk.,Consumer Non-Cyclicals
-JPFA,Japfa Comfeed Indonesia Tbk.,Consumer Non-Cyclicals
-LAPD,Leyand International Tbk.,Consumer Non-Cyclicals
-LSIP,PP London Sumatra Indonesia Tb,Consumer Non-Cyclicals
-MAGP,Multi Agro Gemilang Plantation,Consumer Non-Cyclicals
-MAIN,Malindo Feedmill Tbk.,Consumer Non-Cyclicals
-MBTO,Martina Berto Tbk.,Consumer Non-Cyclicals
-MIDI,Midi Utama Indonesia Tbk.,Consumer Non-Cyclicals
-MLBI,Multi Bintang Indonesia Tbk.,Consumer Non-Cyclicals
-MLPL,Multipolar Tbk.,Consumer Non-Cyclicals
-MPPA,Matahari Putra Prima Tbk.,Consumer Non-Cyclicals
-MRAT,Mustika Ratu Tbk.,Consumer Non-Cyclicals
-MYOR,Mayora Indah Tbk.,Consumer Non-Cyclicals
-PSDN,Prasidha Aneka Niaga Tbk,Consumer Non-Cyclicals
-RANC,Supra Boga Lestari Tbk.,Consumer Non-Cyclicals
-ROTI,Nippon Indosari Corpindo Tbk.,Consumer Non-Cyclicals
-SDPC,Millennium Pharmacon Internati,Consumer Non-Cyclicals
-SGRO,Sampoerna Agro Tbk.,Consumer Non-Cyclicals
-SIMP,Salim Ivomas Pratama Tbk.,Consumer Non-Cyclicals
-SIPD,Sreeya Sewu Indonesia Tbk.,Consumer Non-Cyclicals
-SKBM,Sekar Bumi Tbk.,Consumer Non-Cyclicals
-SKLT,Sekar Laut Tbk.,Consumer Non-Cyclicals
-SMAR,Smart Tbk.,Consumer Non-Cyclicals
-SSMS,Sawit Sumbermas Sarana Tbk.,Consumer Non-Cyclicals
-STTP,Siantar Top Tbk.,Consumer Non-Cyclicals
-TBLA,Tunas Baru Lampung Tbk.,Consumer Non-Cyclicals
-TCID,Mandom Indonesia Tbk.,Consumer Non-Cyclicals
-TGKA,Tigaraksa Satria Tbk.,Consumer Non-Cyclicals
-ULTJ,Ultrajaya Milk Industry & Trad,Consumer Non-Cyclicals
-UNSP,Bakrie Sumatera Plantations Tb,Consumer Non-Cyclicals
-UNVR,Unilever Indonesia Tbk.,Consumer Non-Cyclicals
-WAPO,Wahana Pronatural Tbk.,Consumer Non-Cyclicals
-WICO,Wicaksana Overseas Internation,Consumer Non-Cyclicals
-WIIM,Wismilak Inti Makmur Tbk.,Consumer Non-Cyclicals
-DAYA,Duta Intidaya Tbk.,Consumer Non-Cyclicals
-DPUM,Dua Putra Utama Makmur Tbk.,Consumer Non-Cyclicals
-KINO,Kino Indonesia Tbk.,Consumer Non-Cyclicals
-CLEO,Sariguna Primatirta Tbk.,Consumer Non-Cyclicals
-HOKI,Buyung Poetra Sembada Tbk.,Consumer Non-Cyclicals
-CAMP,Campina Ice Cream Industry Tbk,Consumer Non-Cyclicals
-PCAR,Prima Cakrawala Abadi Tbk.,Consumer Non-Cyclicals
-MGRO,Mahkota Group Tbk.,Consumer Non-Cyclicals
-ANDI,Andira Agro Tbk.,Consumer Non-Cyclicals
-KPAS,Cottonindo Ariesta Tbk.,Consumer Non-Cyclicals
-GOOD,Garudafood Putra Putri Jaya Tb,Consumer Non-Cyclicals
-FOOD,Sentra Food Indonesia Tbk.,Consumer Non-Cyclicals
-BEEF,Estika Tata Tiara Tbk.,Consumer Non-Cyclicals
-COCO,Wahana Interfood Nusantara Tbk,Consumer Non-Cyclicals
-ITIC,Indonesian Tobacco Tbk.,Consumer Non-Cyclicals
-KEJU,Mulia Boga Raya Tbk.,Consumer Non-Cyclicals
-PSGO,Palma Serasih Tbk.,Consumer Non-Cyclicals
-AGAR,Asia Sejahtera Mina Tbk.,Consumer Non-Cyclicals
-UCID,Uni-Charm Indonesia Tbk.,Consumer Non-Cyclicals
-CSRA,Cisadane Sawit Raya Tbk.,Consumer Non-Cyclicals
-DMND,Diamond Food Indonesia Tbk.,Consumer Non-Cyclicals
-IKAN,Era Mandiri Cemerlang Tbk.,Consumer Non-Cyclicals
-PGUN,Pradiksi Gunatama Tbk.,Consumer Non-Cyclicals
-PNGO,Pinago Utama Tbk.,Consumer Non-Cyclicals
-KMDS,Kurniamitra Duta Sentosa Tbk.,Consumer Non-Cyclicals
-ENZO,Morenzo Abadi Perkasa Tbk.,Consumer Non-Cyclicals
-VICI,Victoria Care Indonesia Tbk.,Consumer Non-Cyclicals
-PMMP,Panca Mitra Multiperdana Tbk.,Consumer Non-Cyclicals
-FAPA,FAP Agri Tbk.,Consumer Non-Cyclicals
-WMUU,Widodo Makmur Unggas Tbk.,Consumer Non-Cyclicals
-TAPG,Triputra Agro Persada Tbk.,Consumer Non-Cyclicals
-FLMC,Falmaco Nonwoven Industri Tbk.,Consumer Non-Cyclicals
-OILS,Indo Oil Perkasa Tbk.,Consumer Non-Cyclicals
-BOBA,Formosa Ingredient Factory Tbk,Consumer Non-Cyclicals
-CMRY,Cisarua Mountain Dairy Tbk.,Consumer Non-Cyclicals
-TAYS,Jaya Swarasa Agung Tbk.,Consumer Non-Cyclicals
-WMPP,Widodo Makmur Perkasa Tbk.,Consumer Non-Cyclicals
-IPPE,Indo Pureco Pratama Tbk.,Consumer Non-Cyclicals
-NASI,Wahana Inti Makmur Tbk.,Consumer Non-Cyclicals
-STAA,Sumber Tani Agung Resources Tb,Consumer Non-Cyclicals
-NANO,Nanotech Indonesia Global Tbk.,Consumer Non-Cyclicals
-TLDN,Teladan Prima Agro Tbk.,Consumer Non-Cyclicals
-IBOS,Indo Boga Sukses Tbk.,Consumer Non-Cyclicals
-ASHA,Cilacap Samudera Fishing Indus,Consumer Non-Cyclicals
-TRGU,Cerestar Indonesia Tbk.,Consumer Non-Cyclicals
-DEWI,Dewi Shri Farmindo Tbk.,Consumer Non-Cyclicals
-GULA,Aman Agrindo Tbk.,Consumer Non-Cyclicals
-JARR,Jhonlin Agro Raya Tbk.,Consumer Non-Cyclicals
-AMMS,Agung Menjangan Mas Tbk.,Consumer Non-Cyclicals
-EURO,Estee Gold Feet Tbk.,Consumer Non-Cyclicals
-BUAH,Segar Kumala Indonesia Tbk.,Consumer Non-Cyclicals
-CRAB,Toba Surimi Industries Tbk.,Consumer Non-Cyclicals
-CBUT,Citra Borneo Utama Tbk.,Consumer Non-Cyclicals
-MKTR,Menthobi Karyatama Raya Tbk.,Consumer Non-Cyclicals
-SOUL,Mitra Tirta Buwana Tbk.,Consumer Non-Cyclicals
-BEER,Jobubu Jarum Minahasa Tbk.,Consumer Non-Cyclicals
-WINE,Hatten Bali Tbk.,Consumer Non-Cyclicals
-NAYZ,Hassana Boga Sejahtera Tbk.,Consumer Non-Cyclicals
-NSSS,Nusantara Sawit Sejahtera Tbk.,Consumer Non-Cyclicals
-MAXI,Maxindo Karya Anugerah Tbk.,Consumer Non-Cyclicals
-GRPM,Graha Prima Mentari Tbk.,Consumer Non-Cyclicals
-TGUK,Platinum Wahab Nusantara Tbk.,Consumer Non-Cyclicals
-PTPS,Pulau Subur Tbk.,Consumer Non-Cyclicals
-STRK,Lovina Beach Brewery Tbk.,Consumer Non-Cyclicals
-UDNG,Agro Bahari Nusantara Tbk.,Consumer Non-Cyclicals
-AYAM,Janu Putra Sejahtera Tbk.,Consumer Non-Cyclicals
-MSJA,Multi Spunindo Jaya Tbk.,Consumer Non-Cyclicals
-ISEA,Indo American Seafoods Tbk.,Consumer Non-Cyclicals
-GUNA,Gunanusa Eramandiri Tbk.,Consumer Non-Cyclicals
-NEST,Esta Indonesia Tbk.,Consumer Non-Cyclicals
-BRRC,Raja Roti Cemerlang Tbk.,Consumer Non-Cyclicals
-AMFG,Asahimas Flat Glass Tbk.,Industrials
-AMIN,Ateliers Mecaniques D Indonesi,Industrials
-APII,Arita Prima Indonesia Tbk.,Industrials
-ARNA,Arwana Citramulia Tbk.,Industrials
-ASGR,Astra Graphia Tbk.,Industrials
-ASII,Astra International Tbk.,Industrials
-BHIT,MNC Asia Holding Tbk.,Industrials
-BNBR,Bakrie & Brothers Tbk,Industrials
-CTTH,Citatah Tbk.,Industrials
-DYAN,Dyandra Media International Tb,Industrials
-HEXA,Hexindo Adiperkasa Tbk.,Industrials
-IBFN,Intan Baru Prana Tbk.,Industrials
-ICON,Island Concepts Indonesia Tbk.,Industrials
-IKAI,Intikeramik Alamasri Industri ,Industrials
-IKBI,Sumi Indo Kabel Tbk.,Industrials
-IMPC,Impack Pratama Industri Tbk.,Industrials
-INDX,Tanah Laut Tbk,Industrials
-INTA,Intraco Penta Tbk.,Industrials
-JECC,Jembo Cable Company Tbk.,Industrials
-JTPE,Jasuindo Tiga Perkasa Tbk.,Industrials
-KBLI,KMI Wire & Cable Tbk.,Industrials
-KBLM,Kabelindo Murni Tbk.,Industrials
-KIAS,Keramika Indonesia Assosiasi T,Industrials
-KOBX,Kobexindo Tractors Tbk.,Industrials
-KOIN,Kokoh Inti Arebama Tbk,Industrials
-KONI,Perdana Bangun Pusaka Tbk,Industrials
-KRAH,Grand Kartech Tbk.,Industrials
-LION,Lion Metal Works Tbk.,Industrials
-MDRN,Modern Internasional Tbk.,Industrials
-MFMI,Multifiling Mitra Indonesia Tb,Industrials
-MLIA,Mulia Industrindo Tbk,Industrials
-SCCO,Supreme Cable Manufacturing & ,Industrials
-TIRA,Tira Austenite Tbk,Industrials
-TOTO,Surya Toto Indonesia Tbk.,Industrials
-TRIL,Triwira Insanlestari Tbk.,Industrials
-UNTR,United Tractors Tbk.,Industrials
-VOKS,Voksel Electric Tbk.,Industrials
-ZBRA,Dosni Roha Indonesia Tbk.,Industrials
-MARK,Mark Dynamics Indonesia Tbk.,Industrials
-SPTO,Surya Pertiwi Tbk.,Industrials
-KPAL,Steadfast Marine Tbk.,Industrials
-SKRN,Superkrane Mitra Utama Tbk.,Industrials
-CAKK,Cahayaputra Asa Keramik Tbk.,Industrials
-CCSI,Communication Cable Systems In,Industrials
-BLUE,Berkah Prima Perkasa Tbk.,Industrials
-ARKA,Arkha Jayanti Persada Tbk.,Industrials
-SINI,Singaraja Putra Tbk.,Industrials
-HOPE,Harapan Duta Pertiwi Tbk.,Industrials
-LABA,Green Power Group Tbk.,Industrials
-GPSO,Geoprima Solusi Tbk.,Industrials
-KUAS,Ace Oldfields Tbk.,Industrials
-BINO,Perma Plasindo Tbk.,Industrials
-NTBK,Nusatama Berkah Tbk.,Industrials
-PADA,Personel Alih Daya Tbk.,Industrials
-KING,Hoffmen Cleanindo Tbk.,Industrials
-PTMP,Mitra Pack Tbk.,Industrials
-PIPA,Multi Makmur Lemindo Tbk.,Industrials
-SMIL,Sarana Mitra Luas Tbk.,Industrials
-CRSN,Carsurin Tbk.,Industrials
-WIDI,Widiant Jaya Krenindo Tbk.,Industrials
-FOLK,Multi Garam Utama Tbk.,Industrials
-MUTU,Mutuagung Lestari Tbk.,Industrials
-HYGN,Ecocare Indo Pasifik Tbk.,Industrials
-VISI,Satu Visi Putra Tbk.,Industrials
-MHKI,Multi Hanna Kreasindo Tbk.,Industrials
-NAIK,Adiwarna Anugerah Abadi Tbk.,Industrials
-SOSS,Shield On Service Tbk.,Industrials
-ABMM,ABM Investama Tbk.,Energy
-ADRO,Alamtri Resources Indonesia Tb,Energy
-AIMS,Artha Mahiya Investama Tbk.,Energy
-AKRA,AKR Corporindo Tbk.,Energy
-APEX,Apexindo Pratama Duta Tbk.,Energy
-ARII,Atlas Resources Tbk.,Energy
-ARTI,Ratu Prabu Energi Tbk,Energy
-BBRM,Pelayaran Nasional Bina Buana ,Energy
-BIPI,Astrindo Nusantara Infrastrukt,Energy
-BSSR,Baramulti Suksessarana Tbk.,Energy
-BULL,Buana Lintas Lautan Tbk.,Energy
-BUMI,Bumi Resources Tbk.,Energy
-BYAN,Bayan Resources Tbk.,Energy
-CANI,Capitol Nusantara Indonesia Tb,Energy
-CNKO,Exploitasi Energi Indonesia Tb,Energy
-DEWA,Darma Henwa Tbk,Energy
-DOID,Delta Dunia Makmur Tbk.,Energy
-DSSA,Dian Swastatika Sentosa Tbk,Energy
-ELSA,Elnusa Tbk.,Energy
-ENRG,Energi Mega Persada Tbk.,Energy
-GEMS,Golden Energy Mines Tbk.,Energy
-GTBO,Garda Tujuh Buana Tbk,Energy
-HITS,Humpuss Intermoda Transportasi,Energy
-HRUM,Harum Energy Tbk.,Energy
-IATA,MNC Energy Investments Tbk.,Energy
-INDY,Indika Energy Tbk.,Energy
-ITMA,Sumber Energi Andalan Tbk.,Energy
-ITMG,Indo Tambangraya Megah Tbk.,Energy
-KKGI,Resource Alam Indonesia Tbk.,Energy
-KOPI,Mitra Energi Persada Tbk.,Energy
-LEAD,Logindo Samudramakmur Tbk.,Energy
-MBAP,Mitrabara Adiperdana Tbk.,Energy
-MBSS,Mitrabahtera Segara Sejati Tbk,Energy
-MEDC,Medco Energi Internasional Tbk,Energy
-MTFN,Capitalinc Investment Tbk.,Energy
-MYOH,Samindo Resources Tbk.,Energy
-PGAS,Perusahaan Gas Negara Tbk.,Energy
-PKPK,Perdana Karya Perkasa Tbk,Energy
-PTBA,Bukit Asam Tbk.,Energy
-PTIS,Indo Straits Tbk.,Energy
-PTRO,Petrosea Tbk.,Energy
-RAJA,Rukun Raharja Tbk.,Energy
-RIGS,Rig Tenders Indonesia Tbk.,Energy
-RUIS,Radiant Utama Interinsco Tbk.,Energy
-SMMT,Golden Eagle Energy Tbk.,Energy
-SMRU,SMR Utama Tbk.,Energy
-SOCI,Soechi Lines Tbk.,Energy
-SUGI,Sugih Energy Tbk.,Energy
-TOBA,TBS Energi Utama Tbk.,Energy
-TPMA,Trans Power Marine Tbk.,Energy
-TRAM,Trada Alam Minera Tbk.,Energy
-WINS,Wintermar Offshore Marine Tbk.,Energy
-SHIP,Sillo Maritime Perdana Tbk.,Energy
-TAMU,Pelayaran Tamarin Samudra Tbk.,Energy
-FIRE,Alfa Energi Investama Tbk.,Energy
-PSSI,IMC Pelita Logistik Tbk.,Energy
-DWGL,Dwi Guna Laksana Tbk.,Energy
-BOSS,Borneo Olah Sarana Sukses Tbk.,Energy
-JSKY,Sky Energy Indonesia Tbk.,Energy
-INPS,Indah Prakasa Sentosa Tbk.,Energy
-TCPI,Transcoal Pacific Tbk.,Energy
-SURE,Super Energy Tbk.,Energy
-WOWS,Ginting Jaya Energi Tbk.,Energy
-TEBE,Dana Brata Luhur Tbk.,Energy
-BESS,Batulicin Nusantara Maritim Tb,Energy
-SGER,Sumber Global Energy Tbk.,Energy
-UNIQ,Ulima Nitra Tbk.,Energy
-MCOL,Prima Andalan Mandiri Tbk.,Energy
-GTSI,GTS Internasional Tbk.,Energy
-RMKE,RMK Energy Tbk.,Energy
-BSML,Bintang Samudera Mandiri Lines,Energy
-ADMR,Adaro Minerals Indonesia Tbk.,Energy
-SEMA,Semacom Integrated Tbk.,Energy
-SICO,Sigma Energy Compressindo Tbk.,Energy
-COAL,Black Diamond Resources Tbk.,Energy
-SUNI,Sunindo Pratama Tbk.,Energy
-CBRE,Cakra Buana Resources Energi T,Energy
-HILL,Hillcon Tbk.,Energy
-CUAN,Petrindo Jaya Kreasi Tbk.,Energy
-MAHA,Mandiri Herindo Adiperkasa Tbk,Energy
-RMKO,Royaltama Mulia Kontraktorindo,Energy
-HUMI,Humpuss Maritim Internasional ,Energy
-RGAS,Kian Santang Muliatama Tbk.,Energy
-CGAS,Citra Nusantara Gemilang Tbk.,Energy
-ALII,Ancara Logistics Indonesia Tbk,Energy
-MKAP,Multikarya Asia Pasifik Raya T,Energy
-ATLA,Atlantis Subsea Indonesia Tbk.,Energy
-BOAT,Newport Marine Services Tbk.,Energy
-AADI,Adaro Andalan Indonesia Tbk.,Energy
-RATU,Raharja Energi Cepu Tbk.,Energy
-ABBA,Mahaka Media Tbk.,Consumer Cyclicals
-ACES,Aspirasi Hidup Indonesia Tbk.,Consumer Cyclicals
-AKKU,Anugerah Kagum Karya Utama Tbk,Consumer Cyclicals
-ARGO,Argo Pantes Tbk,Consumer Cyclicals
-ARTA,Arthavest Tbk,Consumer Cyclicals
-AUTO,Astra Otoparts Tbk.,Consumer Cyclicals
-BATA,Sepatu Bata Tbk.,Consumer Cyclicals
-BAYU,Bayu Buana Tbk,Consumer Cyclicals
-BIMA,Primarindo Asia Infrastructure,Consumer Cyclicals
-BLTZ,Graha Layar Prima Tbk.,Consumer Cyclicals
-BMTR,Global Mediacom Tbk.,Consumer Cyclicals
-BOLT,Garuda Metalindo Tbk.,Consumer Cyclicals
-BRAM,Indo Kordsa Tbk.,Consumer Cyclicals
-BUVA,Bukit Uluwatu Villa Tbk.,Consumer Cyclicals
-CINT,Chitose Internasional Tbk.,Consumer Cyclicals
-CNTX,Century Textile Industry Tbk.,Consumer Cyclicals
-CSAP,Catur Sentosa Adiprana Tbk.,Consumer Cyclicals
-ECII,Electronic City Indonesia Tbk.,Consumer Cyclicals
-ERAA,Erajaya Swasembada Tbk.,Consumer Cyclicals
-ERTX,Eratex Djaja Tbk.,Consumer Cyclicals
-ESTI,Ever Shine Tex Tbk.,Consumer Cyclicals
-FAST,Fast Food Indonesia Tbk.,Consumer Cyclicals
-FORU,Fortune Indonesia Tbk,Consumer Cyclicals
-GDYR,Goodyear Indonesia Tbk.,Consumer Cyclicals
-GEMA,Gema Grahasarana Tbk.,Consumer Cyclicals
-GJTL,Gajah Tunggal Tbk.,Consumer Cyclicals
-GLOB,Globe Kita Terang Tbk.,Consumer Cyclicals
-GWSA,Greenwood Sejahtera Tbk.,Consumer Cyclicals
-HDTX,Panasia Indo Resources Tbk.,Consumer Cyclicals
-HOME,Hotel Mandarine Regency Tbk.,Consumer Cyclicals
-HOTL,Saraswati Griya Lestari Tbk.,Consumer Cyclicals
-IIKP,Inti Agri Resources Tbk,Consumer Cyclicals
-IMAS,Indomobil Sukses Internasional,Consumer Cyclicals
-INDR,Indo-Rama Synthetics Tbk.,Consumer Cyclicals
-INDS,Indospring Tbk.,Consumer Cyclicals
-JIHD,Jakarta International Hotels &,Consumer Cyclicals
-JSPT,Jakarta Setiabudi Internasiona,Consumer Cyclicals
-KICI,Kedaung Indah Can Tbk,Consumer Cyclicals
-KPIG,MNC Land Tbk.,Consumer Cyclicals
-LMPI,Langgeng Makmur Industri Tbk.,Consumer Cyclicals
-LPIN,Multi Prima Sejahtera Tbk,Consumer Cyclicals
-LPPF,Matahari Department Store Tbk.,Consumer Cyclicals
-MAMI,Mas Murni Indonesia Tbk,Consumer Cyclicals
-MAPI,Mitra Adiperkasa Tbk.,Consumer Cyclicals
-MASA,Multistrada Arah Sarana Tbk.,Consumer Cyclicals
-MDIA,Intermedia Capital Tbk.,Consumer Cyclicals
-MGNA,Magna Investama Mandiri Tbk.,Consumer Cyclicals
-MICE,Multi Indocitra Tbk.,Consumer Cyclicals
-MNCN,Media Nusantara Citra Tbk.,Consumer Cyclicals
-MPMX,Mitra Pinasthika Mustika Tbk.,Consumer Cyclicals
-MSKY,MNC Sky Vision Tbk.,Consumer Cyclicals
-MYTX,Asia Pacific Investama Tbk.,Consumer Cyclicals
-NIPS,Nipress Tbk.,Consumer Cyclicals
-PANR,Panorama Sentrawisata Tbk.,Consumer Cyclicals
-PBRX,Pan Brothers Tbk.,Consumer Cyclicals
-PDES,Destinasi Tirta Nusantara Tbk,Consumer Cyclicals
-PGLI,Pembangunan Graha Lestari Inda,Consumer Cyclicals
-PJAA,Pembangunan Jaya Ancol Tbk.,Consumer Cyclicals
-PNSE,Pudjiadi & Sons Tbk.,Consumer Cyclicals
-POLY,Asia Pacific Fibers Tbk,Consumer Cyclicals
-PRAS,Prima Alloy Steel Universal Tb,Consumer Cyclicals
-PSKT,Red Planet Indonesia Tbk.,Consumer Cyclicals
-PTSP,Pioneerindo Gourmet Internatio,Consumer Cyclicals
-RALS,Ramayana Lestari Sentosa Tbk.,Consumer Cyclicals
-RICY,Ricky Putra Globalindo Tbk,Consumer Cyclicals
-SCMA,Surya Citra Media Tbk.,Consumer Cyclicals
-SHID,Hotel Sahid Jaya International,Consumer Cyclicals
-SMSM,Selamat Sempurna Tbk.,Consumer Cyclicals
-SONA,Sona Topas Tourism Industry Tb,Consumer Cyclicals
-SRIL,Sri Rejeki Isman Tbk.,Consumer Cyclicals
-SSTM,Sunson Textile Manufacture Tbk,Consumer Cyclicals
-TELE,Omni Inovasi Indonesia Tbk.,Consumer Cyclicals
-TFCO,Tifico Fiber Indonesia Tbk.,Consumer Cyclicals
-TMPO,Tempo Intimedia Tbk.,Consumer Cyclicals
-TRIO,Trikomsel Oke Tbk.,Consumer Cyclicals
-TRIS,Trisula International Tbk.,Consumer Cyclicals
-UNIT,Nusantara Inti Corpora Tbk,Consumer Cyclicals
-VIVA,Visi Media Asia Tbk.,Consumer Cyclicals
-JGLE,Graha Andrasentra Propertindo ,Consumer Cyclicals
-MARI,Mahaka Radio Integra Tbk.,Consumer Cyclicals
-MKNT,Mitra Komunikasi Nusantara Tbk,Consumer Cyclicals
-BOGA,Bintang Oto Global Tbk.,Consumer Cyclicals
-CARS,Industri dan Perdagangan Bintr,Consumer Cyclicals
-MINA,Sanurhasta Mitra Tbk.,Consumer Cyclicals
-MAPB,MAP Boga Adiperkasa Tbk.,Consumer Cyclicals
-WOOD,Integra Indocabinet Tbk.,Consumer Cyclicals
-HRTA,Hartadinata Abadi Tbk.,Consumer Cyclicals
-MABA,Marga Abhinaya Abadi Tbk.,Consumer Cyclicals
-BELL,Trisula Textile Industries Tbk,Consumer Cyclicals
-DFAM,Dafam Property Indonesia Tbk.,Consumer Cyclicals
-PZZA,Sarimelati Kencana Tbk.,Consumer Cyclicals
-MSIN,MNC Digital Entertainment Tbk.,Consumer Cyclicals
-MAPA,Map Aktif Adiperkasa Tbk.,Consumer Cyclicals
-NUSA,Sinergi Megah Internusa Tbk.,Consumer Cyclicals
-FILM,MD Entertainment Tbk.,Consumer Cyclicals
-DIGI,Arkadia Digital Media Tbk.,Consumer Cyclicals
-DUCK,Jaya Bersama Indo Tbk.,Consumer Cyclicals
-YELO,Yelooo Integra Datanet Tbk.,Consumer Cyclicals
-ZONE,Mega Perintis Tbk.,Consumer Cyclicals
-CLAY,Citra Putra Realty Tbk.,Consumer Cyclicals
-NATO,Surya Permata Andalan Tbk.,Consumer Cyclicals
-HRME,Menteng Heritage Realty Tbk.,Consumer Cyclicals
-FITT,Hotel Fitra International Tbk.,Consumer Cyclicals
-BOLA,Bali Bintang Sejahtera Tbk.,Consumer Cyclicals
-POLU,Golden Flower Tbk.,Consumer Cyclicals
-IPTV,MNC Vision Networks Tbk.,Consumer Cyclicals
-EAST,Eastparc Hotel Tbk.,Consumer Cyclicals
-KOTA,DMS Propertindo Tbk.,Consumer Cyclicals
-INOV,Inocycle Technology Group Tbk.,Consumer Cyclicals
-SLIS,Gaya Abadi Sempurna Tbk.,Consumer Cyclicals
-PMJS,Putra Mandiri Jembar Tbk.,Consumer Cyclicals
-ESTA,Esta Multi Usaha Tbk.,Consumer Cyclicals
-SBAT,Sejahtera Bintang Abadi Textil,Consumer Cyclicals
-CBMF,Cahaya Bintang Medan Tbk.,Consumer Cyclicals
-CSMI,Cipta Selera Murni Tbk.,Consumer Cyclicals
-SOFA,Boston Furniture Industries Tb,Consumer Cyclicals
-TOYS,Sunindo Adipersada Tbk.,Consumer Cyclicals
-SCNP,Selaras Citra Nusantara Perkas,Consumer Cyclicals
-PLAN,Planet Properindo Jaya Tbk.,Consumer Cyclicals
-UFOE,Damai Sejahtera Abadi Tbk.,Consumer Cyclicals
-SNLK,Sunter Lakeside Hotel Tbk.,Consumer Cyclicals
-LFLO,Imago Mulia Persada Tbk.,Consumer Cyclicals
-LUCY,Lima Dua Lima Tiga Tbk.,Consumer Cyclicals
-MGLV,Panca Anugrah Wisesa Tbk.,Consumer Cyclicals
-IDEA,Idea Indonesia Akademi Tbk.,Consumer Cyclicals
-DEPO,Caturkarda Depo Bangunan Tbk.,Consumer Cyclicals
-DRMA,Dharma Polimetal Tbk.,Consumer Cyclicals
-ASLC,Autopedia Sukses Lestari Tbk.,Consumer Cyclicals
-NETV,MDTV Media Technologies Tbk.,Consumer Cyclicals
-BAUT,Mitra Angkasa Sejahtera Tbk.,Consumer Cyclicals
-ENAK,Champ Resto Indonesia Tbk.,Consumer Cyclicals
-BIKE,Sepeda Bersama Indonesia Tbk.,Consumer Cyclicals
-OLIV,Oscar Mitra Sukses Sejahtera T,Consumer Cyclicals
-SWID,Saraswanti Indoland Developmen,Consumer Cyclicals
-RAFI,Sari Kreasi Boga Tbk.,Consumer Cyclicals
-KLIN,Klinko Karya Imaji Tbk.,Consumer Cyclicals
-TOOL,Rohartindo Nusantara Luas Tbk.,Consumer Cyclicals
-KDTN,Puri Sentul Permai Tbk.,Consumer Cyclicals
-ZATA,Bersama Zatta Jaya Tbk.,Consumer Cyclicals
-ISAP,Isra Presisi Indonesia Tbk.,Consumer Cyclicals
-BMBL,Lavender Bina Cendikia Tbk.,Consumer Cyclicals
-FUTR,Lini Imaji Kreasi Ekosistem Tb,Consumer Cyclicals
-HAJJ,Arsy Buana Travelindo Tbk.,Consumer Cyclicals
-RAAM,Tripar Multivision Plus Tbk.,Consumer Cyclicals
-DOOH,Era Media Sejahtera Tbk.,Consumer Cyclicals
-TYRE,King Tire Indonesia Tbk.,Consumer Cyclicals
-VKTR,VKTR Teknologi Mobilitas Tbk.,Consumer Cyclicals
-CNMA,Nusantara Sejahtera Raya Tbk.,Consumer Cyclicals
-ERAL,Sinar Eka Selaras Tbk.,Consumer Cyclicals
-LMAX,Lupromax Pelumas Indonesia Tbk,Consumer Cyclicals
-BABY,Multitrend Indo Tbk.,Consumer Cyclicals
-AEGS,Anugerah Spareparts Sejahtera ,Consumer Cyclicals
-ACRO,Samcro Hyosung Adilestari Tbk.,Consumer Cyclicals
-GRPH,Griptha Putra Persada Tbk.,Consumer Cyclicals
-UNTD,Terang Dunia Internusa Tbk.,Consumer Cyclicals
-MEJA,Harta Djaya Karya Tbk.,Consumer Cyclicals
-LIVE,Homeco Victoria Makmur Tbk.,Consumer Cyclicals
-BAIK,Bersama Mencapai Puncak Tbk.,Consumer Cyclicals
-SPRE,Soraya Berjaya Indonesia Tbk.,Consumer Cyclicals
-PART,Cipta Perdana Lancar Tbk.,Consumer Cyclicals
-GOLF,Intra Golflink Resorts Tbk.,Consumer Cyclicals
-DOSS,Global Sukses Digital Tbk.,Consumer Cyclicals
-VERN,Verona Indah Pictures Tbk.,Consumer Cyclicals
-MDIY,Daya Intiguna Yasa Tbk.,Consumer Cyclicals
-SOTS,Satria Mega Kencana Tbk.,Consumer Cyclicals
-ACST,Acset Indonusa Tbk.,Infrastructures
-ADHI,Adhi Karya (Persero) Tbk.,Infrastructures
-BALI,Bali Towerindo Sentra Tbk.,Infrastructures
-BTEL,Bakrie Telecom Tbk.,Infrastructures
-BUKK,Bukaka Teknik Utama Tbk.,Infrastructures
-CASS,Cardig Aero Services Tbk.,Infrastructures
-CENT,Centratama Telekomunikasi Indo,Infrastructures
-CMNP,Citra Marga Nusaphala Persada ,Infrastructures
-DGIK,Nusa Konstruksi Enjiniring Tbk,Infrastructures
-EXCL,XL Axiata Tbk.,Infrastructures
-FREN,Smartfren Telecom Tbk.,Infrastructures
-GOLD,Visi Telekomunikasi Infrastruk,Infrastructures
-HADE,Himalaya Energi Perkasa Tbk.,Infrastructures
-IBST,Inti Bangun Sejahtera Tbk.,Infrastructures
-ISAT,Indosat Tbk.,Infrastructures
-JKON,Jaya Konstruksi Manggala Prata,Infrastructures
-JSMR,Jasa Marga (Persero) Tbk.,Infrastructures
-KARW,Meratus Jasa Prima Tbk.,Infrastructures
-KBLV,First Media Tbk.,Infrastructures
-LINK,Link Net Tbk.,Infrastructures
-META,Nusantara Infrastructure Tbk.,Infrastructures
-NRCA,Nusa Raya Cipta Tbk.,Infrastructures
-PTPP,PP (Persero) Tbk.,Infrastructures
-SSIA,Surya Semesta Internusa Tbk.,Infrastructures
-SUPR,Solusi Tunas Pratama Tbk.,Infrastructures
-TBIG,Tower Bersama Infrastructure T,Infrastructures
-TLKM,Telkom Indonesia (Persero) Tbk,Infrastructures
-TOTL,Total Bangun Persada Tbk.,Infrastructures
-TOWR,Sarana Menara Nusantara Tbk.,Infrastructures
-WIKA,Wijaya Karya (Persero) Tbk.,Infrastructures
-WSKT,Waskita Karya (Persero) Tbk.,Infrastructures
-IDPR,Indonesia Pondasi Raya Tbk.,Infrastructures
-MTRA,Mitra Pemuda Tbk.,Infrastructures
-OASA,Maharaksa Biru Energi Tbk.,Infrastructures
-POWR,Cikarang Listrindo Tbk.,Infrastructures
-PBSA,Paramita Bangun Sarana Tbk.,Infrastructures
-PORT,Nusantara Pelabuhan Handal Tbk,Infrastructures
-TGRA,Terregra Asia Energy Tbk.,Infrastructures
-TOPS,Totalindo Eka Persada Tbk.,Infrastructures
-MPOW,Megapower Makmur Tbk.,Infrastructures
-GMFI,Garuda Maintenance Facility Ae,Infrastructures
-PPRE,PP Presisi Tbk.,Infrastructures
-WEGE,Wijaya Karya Bangunan Gedung T,Infrastructures
-MORA,Mora Telematika Indonesia Tbk.,Infrastructures
-IPCM,Jasa Armada Indonesia Tbk.,Infrastructures
-LCKM,LCK Global Kedaton Tbk.,Infrastructures
-GHON,Gihon Telekomunikasi Indonesia,Infrastructures
-IPCC,Indonesia Kendaraan Terminal T,Infrastructures
-MTPS,Meta Epsi Tbk.,Infrastructures
-JAST,Jasnita Telekomindo Tbk.,Infrastructures
-KEEN,Kencana Energi Lestari Tbk.,Infrastructures
-PTPW,Pratama Widya Tbk.,Infrastructures
-TAMA,Lancartama Sejati Tbk.,Infrastructures
-RONY,Aesler Grup Internasional Tbk.,Infrastructures
-PTDU,Djasa Ubersakti Tbk.,Infrastructures
-KETR,Ketrosden Triasmitra Tbk.,Infrastructures
-FIMP,Fimperkasa Utama Tbk.,Infrastructures
-MTEL,Dayamitra Telekomunikasi Tbk.,Infrastructures
-SMKM,Sumber Mas Konstruksi Tbk.,Infrastructures
-ARKO,Arkora Hydro Tbk.,Infrastructures
-KRYA,Bangun Karya Perkasa Jaya Tbk.,Infrastructures
-PGEO,Pertamina Geothermal Energy Tb,Infrastructures
-BDKR,Berdikari Pondasi Perkasa Tbk.,Infrastructures
-INET,Sinergi Inti Andalan Prima Tbk,Infrastructures
-BREN,Barito Renewables Energy Tbk.,Infrastructures
-KOKA,Koka Indonesia Tbk.,Infrastructures
-ASLI,Asri Karya Lestari Tbk.,Infrastructures
-MANG,Manggung Polahraya Tbk.,Infrastructures
-DATA,Remala Abadi Tbk.,Infrastructures
-HGII,Hero Global Investment Tbk.,Infrastructures
-APLN,Agung Podomoro Land Tbk.,Properties and Real Estate
-ASRI,Alam Sutera Realty Tbk.,Properties and Real Estate
-BAPA,Bekasi Asri Pemula Tbk.,Properties and Real Estate
-BCIP,Bumi Citra Permai Tbk.,Properties and Real Estate
-BEST,Bekasi Fajar Industrial Estate,Properties and Real Estate
-BIKA,Binakarya Jaya Abadi Tbk.,Properties and Real Estate
-BIPP,Bhuwanatala Indah Permai Tbk.,Properties and Real Estate
-BKDP,Bukit Darmo Property Tbk,Properties and Real Estate
-BKSL,Sentul City Tbk.,Properties and Real Estate
-BSDE,Bumi Serpong Damai Tbk.,Properties and Real Estate
-COWL,Cowell Development Tbk.,Properties and Real Estate
-CTRA,Ciputra Development Tbk.,Properties and Real Estate
-DART,Duta Anggada Realty Tbk.,Properties and Real Estate
-DILD,Intiland Development Tbk.,Properties and Real Estate
-DMAS,Puradelta Lestari Tbk.,Properties and Real Estate
-DUTI,Duta Pertiwi Tbk,Properties and Real Estate
-ELTY,Bakrieland Development Tbk.,Properties and Real Estate
-EMDE,Megapolitan Developments Tbk.,Properties and Real Estate
-FMII,Fortune Mate Indonesia Tbk,Properties and Real Estate
-GAMA,Aksara Global Development Tbk.,Properties and Real Estate
-GMTD,Gowa Makassar Tourism Developm,Properties and Real Estate
-GPRA,Perdana Gapuraprima Tbk.,Properties and Real Estate
-INPP,Indonesian Paradise Property T,Properties and Real Estate
-JRPT,Jaya Real Property Tbk.,Properties and Real Estate
-KIJA,Kawasan Industri Jababeka Tbk.,Properties and Real Estate
-LCGP,Eureka Prima Jakarta Tbk.,Properties and Real Estate
-LPCK,Lippo Cikarang Tbk,Properties and Real Estate
-LPKR,Lippo Karawaci Tbk.,Properties and Real Estate
-LPLI,Star Pacific Tbk,Properties and Real Estate
-MDLN,Modernland Realty Tbk.,Properties and Real Estate
-MKPI,Metropolitan Kentjana Tbk.,Properties and Real Estate
-MMLP,Mega Manunggal Property Tbk.,Properties and Real Estate
-MTLA,Metropolitan Land Tbk.,Properties and Real Estate
-MTSM,Metro Realty Tbk.,Properties and Real Estate
-MYRX,Hanson International Tbk.,Properties and Real Estate
-NIRO,City Retail Developments Tbk.,Properties and Real Estate
-OMRE,Indonesia Prima Property Tbk,Properties and Real Estate
-PLIN,Plaza Indonesia Realty Tbk.,Properties and Real Estate
-PPRO,PP Properti Tbk.,Properties and Real Estate
-PUDP,Pudjiadi Prestige Tbk.,Properties and Real Estate
-PWON,Pakuwon Jati Tbk.,Properties and Real Estate
-RBMS,Ristia Bintang Mahkotasejati T,Properties and Real Estate
-RDTX,Roda Vivatex Tbk,Properties and Real Estate
-RIMO,Rimo International Lestari Tbk,Properties and Real Estate
-RODA,Pikko Land Development Tbk.,Properties and Real Estate
-SMDM,Suryamas Dutamakmur Tbk.,Properties and Real Estate
-SMRA,Summarecon Agung Tbk.,Properties and Real Estate
-TARA,Agung Semesta Sejahtera Tbk.,Properties and Real Estate
-FORZ,Forza Land Indonesia Tbk.,Properties and Real Estate
-CSIS,Cahayasakti Investindo Sukses ,Properties and Real Estate
-ARMY,Armidian Karyatama Tbk.,Properties and Real Estate
-NASA,Andalan Perkasa Abadi Tbk.,Properties and Real Estate
-RISE,Jaya Sukses Makmur Sentosa Tbk,Properties and Real Estate
-POLL,Pollux Properties Indonesia Tb,Properties and Real Estate
-LAND,Trimitra Propertindo Tbk.,Properties and Real Estate
-PANI,Pantai Indah Kapuk Dua Tbk.,Properties and Real Estate
-CITY,Natura City Developments Tbk.,Properties and Real Estate
-MPRO,Maha Properti Indonesia Tbk.,Properties and Real Estate
-SATU,Kota Satu Properti Tbk.,Properties and Real Estate
-POLI,Pollux Hotels Group Tbk.,Properties and Real Estate
-CPRI,Capri Nusa Satu Properti Tbk.,Properties and Real Estate
-POSA,Bliss Properti Indonesia Tbk.,Properties and Real Estate
-PAMG,Bima Sakti Pertiwi Tbk.,Properties and Real Estate
-BAPI,Bhakti Agung Propertindo Tbk.,Properties and Real Estate
-NZIA,Nusantara Almazia Tbk.,Properties and Real Estate
-REAL,Repower Asia Indonesia Tbk.,Properties and Real Estate
-INDO,Royalindo Investa Wijaya Tbk.,Properties and Real Estate
-TRIN,Perintis Triniti Properti Tbk.,Properties and Real Estate
-DADA,Diamond Citra Propertindo Tbk.,Properties and Real Estate
-ASPI,Andalan Sakti Primaindo Tbk.,Properties and Real Estate
-AMAN,Makmur Berkah Amanda Tbk.,Properties and Real Estate
-KBAG,Karya Bersama Anugerah Tbk.,Properties and Real Estate
-BBSS,Bumi Benowo Sukses Sejahtera T,Properties and Real Estate
-UANG,Pakuan Tbk.,Properties and Real Estate
-PURI,Puri Global Sukses Tbk.,Properties and Real Estate
-HOMI,Grand House Mulia Tbk.,Properties and Real Estate
-ROCK,Rockfields Properti Indonesia ,Properties and Real Estate
-ATAP,Trimitra Prawara Goldland Tbk.,Properties and Real Estate
-ADCP,Adhi Commuter Properti Tbk.,Properties and Real Estate
-TRUE,Triniti Dinamik Tbk.,Properties and Real Estate
-IPAC,Era Graharealty Tbk.,Properties and Real Estate
-WINR,Winner Nusantara Jaya Tbk.,Properties and Real Estate
-BSBK,Wulandari Bangun Laksana Tbk.,Properties and Real Estate
-CBPE,Citra Buana Prasida Tbk.,Properties and Real Estate
-VAST,Vastland Indonesia Tbk.,Properties and Real Estate
-SAGE,Saptausaha Gemilangindah Tbk.,Properties and Real Estate
-RELF,Graha Mitra Asia Tbk.,Properties and Real Estate
-HBAT,Minahasa Membangun Hebat Tbk.,Properties and Real Estate
-GRIA,Ingria Pratama Capitalindo Tbk,Properties and Real Estate
-MSIE,Multisarana Intan Eduka Tbk.,Properties and Real Estate
-KOCI,Kokoh Exa Nusantara Tbk.,Properties and Real Estate
-KSIX,Kentanix Supra International T,Properties and Real Estate
-CBDK,Bangun Kosambi Sukses Tbk.,Properties and Real Estate
-URBN,Urban Jakarta Propertindo Tbk.,Properties and Real Estate
+stock_id,name
+AADI,Adaro Andalan Indonesia Tbk.
+AALI,Astra Agro Lestari Tbk.
+ABBA,Mahaka Media Tbk.
+ABDA,Asuransi Bina Dana Arta Tbk.
+ABMM,ABM Investama Tbk.
+ACES,Aspirasi Hidup Indonesia Tbk.
+ACRO,Samcro Hyosung Adilestari Tbk.
+ACST,Acset Indonusa Tbk.
+ADCP,Adhi Commuter Properti Tbk.
+ADES,Akasha Wira International Tbk.
+ADHI,Adhi Karya (Persero) Tbk.
+ADMF,Adira Dinamika Multi Finance T
+ADMG,Polychem Indonesia Tbk
+ADMR,Adaro Minerals Indonesia Tbk.
+ADRO,Alamtri Resources Indonesia Tb
+AEGS,Anugerah Spareparts Sejahtera 
+AGAR,Asia Sejahtera Mina Tbk.
+AGII,Samator Indo Gas Tbk.
+AGRO,Bank Raya Indonesia Tbk.
+AGRS,Bank IBK Indonesia Tbk.
+AHAP,Asuransi Harta Aman Pratama Tb
+AIMS,Artha Mahiya Investama Tbk.
+AISA,FKS Food Sejahtera Tbk.
+AKKU,Anugerah Kagum Karya Utama Tbk
+AKPI,Argha Karya Prima Industry Tbk
+AKRA,AKR Corporindo Tbk.
+AKSI,Mineral Sumberdaya Mandiri Tbk
+ALDO,Alkindo Naratama Tbk.
+ALII,Ancara Logistics Indonesia Tbk
+ALKA,Alakasa Industrindo Tbk
+ALMI,Alumindo Light Metal Industry 
+ALTO,Tri Banyan Tirta Tbk.
+AMAG,Asuransi Multi Artha Guna Tbk.
+AMAN,Makmur Berkah Amanda Tbk.
+AMAR,Bank Amar Indonesia Tbk.
+AMFG,Asahimas Flat Glass Tbk.
+AMIN,Ateliers Mecaniques D Indonesi
+AMMN,Amman Mineral Internasional Tb
+AMMS,Agung Menjangan Mas Tbk.
+AMOR,Ashmore Asset Management Indon
+AMRT,Sumber Alfaria Trijaya Tbk.
+ANDI,Andira Agro Tbk.
+ANJT,Austindo Nusantara Jaya Tbk.
+ANTM,Aneka Tambang Tbk.
+APEX,Apexindo Pratama Duta Tbk.
+APIC,Pacific Strategic Financial Tb
+APII,Arita Prima Indonesia Tbk.
+APLI,Asiaplast Industries Tbk.
+APLN,Agung Podomoro Land Tbk.
+ARCI,Archi Indonesia Tbk.
+AREA,Dunia Virtual Online Tbk.
+ARGO,Argo Pantes Tbk
+ARII,Atlas Resources Tbk.
+ARKA,Arkha Jayanti Persada Tbk.
+ARKO,Arkora Hydro Tbk.
+ARMY,Armidian Karyatama Tbk.
+ARNA,Arwana Citramulia Tbk.
+ARTA,Arthavest Tbk
+ARTI,Ratu Prabu Energi Tbk
+ARTO,Bank Jago Tbk.
+ASBI,Asuransi Bintang Tbk.
+ASDM,Asuransi Dayin Mitra Tbk.
+ASGR,Astra Graphia Tbk.
+ASHA,Cilacap Samudera Fishing Indus
+ASII,Astra International Tbk.
+ASJT,Asuransi Jasa Tania Tbk.
+ASLC,Autopedia Sukses Lestari Tbk.
+ASLI,Asri Karya Lestari Tbk.
+ASMI,Asuransi Maximus Graha Persada
+ASPI,Andalan Sakti Primaindo Tbk.
+ASRI,Alam Sutera Realty Tbk.
+ASRM,Asuransi Ramayana Tbk.
+ASSA,Adi Sarana Armada Tbk.
+ATAP,Trimitra Prawara Goldland Tbk.
+ATIC,Anabatic Technologies Tbk.
+ATLA,Atlantis Subsea Indonesia Tbk.
+AUTO,Astra Otoparts Tbk.
+AVIA,Avia Avian Tbk.
+AWAN,Era Digital Media Tbk.
+AXIO,Tera Data Indonusa Tbk.
+AYAM,Janu Putra Sejahtera Tbk.
+AYLS,Agro Yasa Lestari Tbk.
+BABP,Bank MNC Internasional Tbk.
+BABY,Multitrend Indo Tbk.
+BACA,Bank Capital Indonesia Tbk.
+BAIK,Bersama Mencapai Puncak Tbk.
+BAJA,Saranacentral Bajatama Tbk.
+BALI,Bali Towerindo Sentra Tbk.
+BANK,Bank Aladin Syariah Tbk.
+BAPA,Bekasi Asri Pemula Tbk.
+BAPI,Bhakti Agung Propertindo Tbk.
+BATA,Sepatu Bata Tbk.
+BATR,Benteng Api Technic Tbk.
+BAUT,Mitra Angkasa Sejahtera Tbk.
+BAYU,Bayu Buana Tbk
+BBCA,Bank Central Asia Tbk.
+BBHI,Allo Bank Indonesia Tbk.
+BBKP,Bank KB Bukopin Tbk.
+BBLD,Buana Finance Tbk.
+BBMD,Bank Mestika Dharma Tbk.
+BBNI,Bank Negara Indonesia (Persero
+BBRI,Bank Rakyat Indonesia (Persero
+BBRM,Pelayaran Nasional Bina Buana 
+BBSI,Krom Bank Indonesia Tbk.
+BBSS,Bumi Benowo Sukses Sejahtera T
+BBTN,Bank Tabungan Negara (Persero)
+BBYB,Bank Neo Commerce Tbk.
+BCAP,MNC Kapital Indonesia Tbk.
+BCIC,Bank JTrust Indonesia Tbk.
+BCIP,Bumi Citra Permai Tbk.
+BDKR,Berdikari Pondasi Perkasa Tbk.
+BDMN,Bank Danamon Indonesia Tbk.
+BEBS,Berkah Beton Sadaya Tbk.
+BEEF,Estika Tata Tiara Tbk.
+BEER,Jobubu Jarum Minahasa Tbk.
+BEKS,Bank Pembangunan Daerah Banten
+BELI,Global Digital Niaga Tbk.
+BELL,Trisula Textile Industries Tbk
+BESS,Batulicin Nusantara Maritim Tb
+BEST,Bekasi Fajar Industrial Estate
+BFIN,BFI Finance  Indonesia Tbk.
+BGTG,Bank Ganesha Tbk.
+BHAT,Bhakti Multi Artha Tbk.
+BHIT,MNC Asia Holding Tbk.
+BIKA,Binakarya Jaya Abadi Tbk.
+BIKE,Sepeda Bersama Indonesia Tbk.
+BIMA,Primarindo Asia Infrastructure
+BINA,Bank Ina Perdana Tbk.
+BINO,Perma Plasindo Tbk.
+BIPI,Astrindo Nusantara Infrastrukt
+BIPP,Bhuwanatala Indah Permai Tbk.
+BIRD,Blue Bird Tbk.
+BISI,BISI International Tbk.
+BJBR,Bank Pembangunan Daerah Jawa B
+BJTM,Bank Pembangunan Daerah Jawa T
+BKDP,Bukit Darmo Property Tbk
+BKSL,Sentul City Tbk.
+BKSW,Bank QNB Indonesia Tbk.
+BLES,Superior Prima Sukses Tbk.
+BLTA,Berlian Laju Tanker Tbk
+BLTZ,Graha Layar Prima Tbk.
+BLUE,Berkah Prima Perkasa Tbk.
+BMAS,Bank Maspion Indonesia Tbk.
+BMBL,Lavender Bina Cendikia Tbk.
+BMHS,Bundamedik Tbk.
+BMRI,Bank Mandiri (Persero) Tbk.
+BMSR,Bintang Mitra Semestaraya Tbk
+BMTR,Global Mediacom Tbk.
+BNBA,Bank Bumi Arta Tbk.
+BNBR,Bakrie & Brothers Tbk
+BNGA,Bank CIMB Niaga Tbk.
+BNII,Bank Maybank Indonesia Tbk.
+BNLI,Bank Permata Tbk.
+BOAT,Newport Marine Services Tbk.
+BOBA,Formosa Ingredient Factory Tbk
+BOGA,Bintang Oto Global Tbk.
+BOLA,Bali Bintang Sejahtera Tbk.
+BOLT,Garuda Metalindo Tbk.
+BOSS,Borneo Olah Sarana Sukses Tbk.
+BPFI,Woori Finance Indonesia Tbk.
+BPII,Batavia Prosperindo Internasio
+BPTR,Batavia Prosperindo Trans Tbk.
+BRAM,Indo Kordsa Tbk.
+BREN,Barito Renewables Energy Tbk.
+BRIS,Bank Syariah Indonesia Tbk.
+BRMS,Bumi Resources Minerals Tbk.
+BRNA,Berlina Tbk.
+BRPT,Barito Pacific Tbk.
+BRRC,Raja Roti Cemerlang Tbk.
+BSBK,Wulandari Bangun Laksana Tbk.
+BSDE,Bumi Serpong Damai Tbk.
+BSIM,Bank Sinarmas Tbk.
+BSML,Bintang Samudera Mandiri Lines
+BSSR,Baramulti Suksessarana Tbk.
+BSWD,Bank Of India Indonesia Tbk.
+BTEK,Bumi Teknokultura Unggul Tbk
+BTEL,Bakrie Telecom Tbk.
+BTON,Betonjaya Manunggal Tbk.
+BTPN,Bank SMBC Indonesia Tbk.
+BTPS,Bank BTPN Syariah Tbk.
+BUAH,Segar Kumala Indonesia Tbk.
+BUDI,Budi Starch & Sweetener Tbk.
+BUKA,Bukalapak.com Tbk.
+BUKK,Bukaka Teknik Utama Tbk.
+BULL,Buana Lintas Lautan Tbk.
+BUMI,Bumi Resources Tbk.
+BUVA,Bukit Uluwatu Villa Tbk.
+BVIC,Bank Victoria International Tb
+BWPT,Eagle High Plantations Tbk.
+BYAN,Bayan Resources Tbk.
+CAKK,Cahayaputra Asa Keramik Tbk.
+CAMP,Campina Ice Cream Industry Tbk
+CANI,Capitol Nusantara Indonesia Tb
+CARE,Metro Healthcare Indonesia Tbk
+CARS,Industri dan Perdagangan Bintr
+CASA,Capital Financial Indonesia Tb
+CASH,Cashlez Worldwide Indonesia Tb
+CASS,Cardig Aero Services Tbk.
+CBDK,Bangun Kosambi Sukses Tbk.
+CBMF,Cahaya Bintang Medan Tbk.
+CBPE,Citra Buana Prasida Tbk.
+CBRE,Cakra Buana Resources Energi T
+CBUT,Citra Borneo Utama Tbk.
+CCSI,Communication Cable Systems In
+CEKA,Wilmar Cahaya Indonesia Tbk.
+CENT,Centratama Telekomunikasi Indo
+CFIN,Clipan Finance Indonesia Tbk.
+CGAS,Citra Nusantara Gemilang Tbk.
+CHEM,Chemstar Indonesia Tbk.
+CHIP,Pelita Teknologi Global Tbk.
+CINT,Chitose Internasional Tbk.
+CITA,Cita Mineral Investindo Tbk.
+CITY,Natura City Developments Tbk.
+CLAY,Citra Putra Realty Tbk.
+CLEO,Sariguna Primatirta Tbk.
+CLPI,Colorpak Indonesia Tbk.
+CMNP,Citra Marga Nusaphala Persada 
+CMNT,Cemindo Gemilang Tbk.
+CMPP,AirAsia Indonesia Tbk.
+CMRY,Cisarua Mountain Dairy Tbk.
+CNKO,Exploitasi Energi Indonesia Tb
+CNMA,Nusantara Sejahtera Raya Tbk.
+CNTX,Century Textile Industry Tbk.
+COAL,Black Diamond Resources Tbk.
+COCO,Wahana Interfood Nusantara Tbk
+COWL,Cowell Development Tbk.
+CPIN,Charoen Pokphand Indonesia Tbk
+CPRI,Capri Nusa Satu Properti Tbk.
+CPRO,Central Proteina Prima Tbk.
+CRAB,Toba Surimi Industries Tbk.
+CRSN,Carsurin Tbk.
+CSAP,Catur Sentosa Adiprana Tbk.
+CSIS,Cahayasakti Investindo Sukses 
+CSMI,Cipta Selera Murni Tbk.
+CSRA,Cisadane Sawit Raya Tbk.
+CTBN,Citra Tubindo Tbk.
+CTRA,Ciputra Development Tbk.
+CTTH,Citatah Tbk.
+CUAN,Petrindo Jaya Kreasi Tbk.
+CYBR,ITSEC Asia Tbk.
+DAAZ,Daaz Bara Lestari Tbk.
+DADA,Diamond Citra Propertindo Tbk.
+DART,Duta Anggada Realty Tbk.
+DATA,Remala Abadi Tbk.
+DAYA,Duta Intidaya Tbk.
+DCII,DCI Indonesia Tbk.
+DEAL,Dewata Freightinternational Tb
+DEFI,Danasupra Erapacific Tbk.
+DEPO,Caturkarda Depo Bangunan Tbk.
+DEWA,Darma Henwa Tbk
+DEWI,Dewi Shri Farmindo Tbk.
+DFAM,Dafam Property Indonesia Tbk.
+DGIK,Nusa Konstruksi Enjiniring Tbk
+DGNS,Diagnos Laboratorium Utama Tbk
+DGWG,Delta Giri Wacana Tbk.
+DIGI,Arkadia Digital Media Tbk.
+DILD,Intiland Development Tbk.
+DIVA,Distribusi Voucher Nusantara T
+DKFT,Central Omega Resources Tbk.
+DLTA,Delta Djakarta Tbk.
+DMAS,Puradelta Lestari Tbk.
+DMMX,Digital Mediatama Maxima Tbk.
+DMND,Diamond Food Indonesia Tbk.
+DNAR,Bank Oke Indonesia Tbk.
+DNET,Indoritel Makmur Internasional
+DOID,Delta Dunia Makmur Tbk.
+DOOH,Era Media Sejahtera Tbk.
+DOSS,Global Sukses Digital Tbk.
+DPNS,Duta Pertiwi Nusantara Tbk.
+DPUM,Dua Putra Utama Makmur Tbk.
+DRMA,Dharma Polimetal Tbk.
+DSFI,Dharma Samudera Fishing Indust
+DSNG,Dharma Satya Nusantara Tbk.
+DSSA,Dian Swastatika Sentosa Tbk
+DUCK,Jaya Bersama Indo Tbk.
+DUTI,Duta Pertiwi Tbk
+DVLA,Darya-Varia Laboratoria Tbk.
+DWGL,Dwi Guna Laksana Tbk.
+DYAN,Dyandra Media International Tb
+EAST,Eastparc Hotel Tbk.
+ECII,Electronic City Indonesia Tbk.
+EDGE,Indointernet Tbk.
+EKAD,Ekadharma International Tbk.
+ELIT,Data Sinergitama Jaya Tbk.
+ELPI,Pelayaran Nasional Ekalya Purn
+ELSA,Elnusa Tbk.
+ELTY,Bakrieland Development Tbk.
+EMDE,Megapolitan Developments Tbk.
+EMTK,Elang Mahkota Teknologi Tbk.
+ENAK,Champ Resto Indonesia Tbk.
+ENRG,Energi Mega Persada Tbk.
+ENVY,Envy Technologies Indonesia Tb
+ENZO,Morenzo Abadi Perkasa Tbk.
+EPAC,Megalestari Epack Sentosaraya 
+EPMT,Enseval Putera Megatrading Tbk
+ERAA,Erajaya Swasembada Tbk.
+ERAL,Sinar Eka Selaras Tbk.
+ERTX,Eratex Djaja Tbk.
+ESIP,Sinergi Inti Plastindo Tbk.
+ESSA,ESSA Industries Indonesia Tbk.
+ESTA,Esta Multi Usaha Tbk.
+ESTI,Ever Shine Tex Tbk.
+ETWA,Eterindo Wahanatama Tbk
+EURO,Estee Gold Feet Tbk.
+EXCL,XL Axiata Tbk.
+FAPA,FAP Agri Tbk.
+FAST,Fast Food Indonesia Tbk.
+FASW,Fajar Surya Wisesa Tbk.
+FILM,MD Entertainment Tbk.
+FIMP,Fimperkasa Utama Tbk.
+FIRE,Alfa Energi Investama Tbk.
+FISH,FKS Multi Agro Tbk.
+FITT,Hotel Fitra International Tbk.
+FLMC,Falmaco Nonwoven Industri Tbk.
+FMII,Fortune Mate Indonesia Tbk
+FOLK,Multi Garam Utama Tbk.
+FOOD,Sentra Food Indonesia Tbk.
+FORU,Fortune Indonesia Tbk
+FORZ,Forza Land Indonesia Tbk.
+FPNI,Lotte Chemical Titan Tbk.
+FREN,Smartfren Telecom Tbk.
+FUJI,Fuji Finance Indonesia Tbk.
+FUTR,Lini Imaji Kreasi Ekosistem Tb
+FWCT,Wijaya Cahaya Timber Tbk.
+GAMA,Aksara Global Development Tbk.
+GDST,Gunawan Dianjaya Steel Tbk.
+GDYR,Goodyear Indonesia Tbk.
+GEMA,Gema Grahasarana Tbk.
+GEMS,Golden Energy Mines Tbk.
+GGRM,Gudang Garam Tbk.
+GGRP,Gunung Raja Paksi Tbk.
+GHON,Gihon Telekomunikasi Indonesia
+GIAA,Garuda Indonesia (Persero) Tbk
+GJTL,Gajah Tunggal Tbk.
+GLOB,Globe Kita Terang Tbk.
+GLVA,Galva Technologies Tbk.
+GMFI,Garuda Maintenance Facility Ae
+GMTD,Gowa Makassar Tourism Developm
+GOLD,Visi Telekomunikasi Infrastruk
+GOLF,Intra Golflink Resorts Tbk.
+GOLL,Golden Plantation Tbk.
+GOOD,Garudafood Putra Putri Jaya Tb
+GOTO,GoTo Gojek Tokopedia Tbk.
+GPRA,Perdana Gapuraprima Tbk.
+GPSO,Geoprima Solusi Tbk.
+GRIA,Ingria Pratama Capitalindo Tbk
+GRPH,Griptha Putra Persada Tbk.
+GRPM,Graha Prima Mentari Tbk.
+GSMF,Equity Development Investment 
+GTBO,Garda Tujuh Buana Tbk
+GTRA,Grahaprima Suksesmandiri Tbk.
+GTSI,GTS Internasional Tbk.
+GULA,Aman Agrindo Tbk.
+GUNA,Gunanusa Eramandiri Tbk.
+GWSA,Greenwood Sejahtera Tbk.
+GZCO,Gozco Plantations Tbk.
+HADE,Himalaya Energi Perkasa Tbk.
+HAIS,Hasnur Internasional Shipping 
+HAJJ,Arsy Buana Travelindo Tbk.
+HALO,Haloni Jane Tbk.
+HATM,Habco Trans Maritima Tbk.
+HBAT,Minahasa Membangun Hebat Tbk.
+HDFA,Radana Bhaskara Finance Tbk.
+HDIT,Hensel Davest Indonesia Tbk.
+HDTX,Panasia Indo Resources Tbk.
+HEAL,Medikaloka Hermina Tbk.
+HELI,Jaya Trishindo Tbk.
+HERO,DFI Retail Nusantara Tbk.
+HEXA,Hexindo Adiperkasa Tbk.
+HGII,Hero Global Investment Tbk.
+HILL,Hillcon Tbk.
+HITS,Humpuss Intermoda Transportasi
+HKMU,HK Metals Utama Tbk.
+HMSP,H.M. Sampoerna Tbk.
+HOKI,Buyung Poetra Sembada Tbk.
+HOME,Hotel Mandarine Regency Tbk.
+HOMI,Grand House Mulia Tbk.
+HOPE,Harapan Duta Pertiwi Tbk.
+HOTL,Saraswati Griya Lestari Tbk.
+HRME,Menteng Heritage Realty Tbk.
+HRTA,Hartadinata Abadi Tbk.
+HRUM,Harum Energy Tbk.
+HUMI,Humpuss Maritim Internasional 
+HYGN,Ecocare Indo Pasifik Tbk.
+IATA,MNC Energy Investments Tbk.
+IBFN,Intan Baru Prana Tbk.
+IBOS,Indo Boga Sukses Tbk.
+IBST,Inti Bangun Sejahtera Tbk.
+ICBP,Indofood CBP Sukses Makmur Tbk
+ICON,Island Concepts Indonesia Tbk.
+IDEA,Idea Indonesia Akademi Tbk.
+IDPR,Indonesia Pondasi Raya Tbk.
+IFII,Indonesia Fibreboard Industry 
+IFSH,Ifishdeco Tbk.
+IGAR,Champion Pacific Indonesia Tbk
+IIKP,Inti Agri Resources Tbk
+IKAI,Intikeramik Alamasri Industri 
+IKAN,Era Mandiri Cemerlang Tbk.
+IKBI,Sumi Indo Kabel Tbk.
+IKPM,Ikapharmindo Putramas Tbk.
+IMAS,Indomobil Sukses Internasional
+IMJS,Indomobil Multi Jasa Tbk.
+IMPC,Impack Pratama Industri Tbk.
+INAF,Indofarma Tbk.
+INAI,Indal Aluminium Industry Tbk.
+INCF,Indo Komoditi Korpora Tbk.
+INCI,Intanwijaya Internasional Tbk
+INCO,Vale Indonesia Tbk.
+INDF,Indofood Sukses Makmur Tbk.
+INDO,Royalindo Investa Wijaya Tbk.
+INDR,Indo-Rama Synthetics Tbk.
+INDS,Indospring Tbk.
+INDX,Tanah Laut Tbk
+INDY,Indika Energy Tbk.
+INET,Sinergi Inti Andalan Prima Tbk
+INKP,Indah Kiat Pulp & Paper Tbk.
+INOV,Inocycle Technology Group Tbk.
+INPC,Bank Artha Graha Internasional
+INPP,Indonesian Paradise Property T
+INPS,Indah Prakasa Sentosa Tbk.
+INRU,Toba Pulp Lestari Tbk.
+INTA,Intraco Penta Tbk.
+INTD,Inter Delta Tbk
+INTP,Indocement Tunggal Prakarsa Tb
+IOTF,Sumber Sinergi Makmur Tbk.
+IPAC,Era Graharealty Tbk.
+IPCC,Indonesia Kendaraan Terminal T
+IPCM,Jasa Armada Indonesia Tbk.
+IPOL,Indopoly Swakarsa Industry Tbk
+IPPE,Indo Pureco Pratama Tbk.
+IPTV,MNC Vision Networks Tbk.
+IRRA,Itama Ranoraya Tbk.
+IRSX,Aviana Sinar Abadi Tbk.
+ISAP,Isra Presisi Indonesia Tbk.
+ISAT,Indosat Tbk.
+ISEA,Indo American Seafoods Tbk.
+ISSP,Steel Pipe Industry of Indones
+ITIC,Indonesian Tobacco Tbk.
+ITMA,Sumber Energi Andalan Tbk.
+ITMG,Indo Tambangraya Megah Tbk.
+JARR,Jhonlin Agro Raya Tbk.
+JAST,Jasnita Telekomindo Tbk.
+JATI,Informasi Teknologi Indonesia 
+JAWA,Jaya Agra Wattie Tbk.
+JAYA,Armada Berjaya Trans Tbk.
+JECC,Jembo Cable Company Tbk.
+JGLE,Graha Andrasentra Propertindo 
+JIHD,Jakarta International Hotels &
+JKON,Jaya Konstruksi Manggala Prata
+JKSW,Jakarta Kyoei Steel Works Tbk.
+JMAS,Asuransi Jiwa Syariah Jasa Mit
+JPFA,Japfa Comfeed Indonesia Tbk.
+JRPT,Jaya Real Property Tbk.
+JSKY,Sky Energy Indonesia Tbk.
+JSMR,Jasa Marga (Persero) Tbk.
+JSPT,Jakarta Setiabudi Internasiona
+JTPE,Jasuindo Tiga Perkasa Tbk.
+KAEF,Kimia Farma Tbk.
+KARW,Meratus Jasa Prima Tbk.
+KAYU,Darmi Bersaudara Tbk.
+KBAG,Karya Bersama Anugerah Tbk.
+KBLI,KMI Wire & Cable Tbk.
+KBLM,Kabelindo Murni Tbk.
+KBLV,First Media Tbk.
+KBRI,Kertas Basuki Rachmat Indonesi
+KDSI,Kedawung Setia Industrial Tbk.
+KDTN,Puri Sentul Permai Tbk.
+KEEN,Kencana Energi Lestari Tbk.
+KEJU,Mulia Boga Raya Tbk.
+KETR,Ketrosden Triasmitra Tbk.
+KIAS,Keramika Indonesia Assosiasi T
+KICI,Kedaung Indah Can Tbk
+KIJA,Kawasan Industri Jababeka Tbk.
+KING,Hoffmen Cleanindo Tbk.
+KINO,Kino Indonesia Tbk.
+KIOS,Kioson Komersial Indonesia Tbk
+KJEN,Krida Jaringan Nusantara Tbk.
+KKES,Kusuma Kemindo Sentosa Tbk.
+KKGI,Resource Alam Indonesia Tbk.
+KLAS,Pelayaran Kurnia Lautan Semest
+KLBF,Kalbe Farma Tbk.
+KLIN,Klinko Karya Imaji Tbk.
+KMDS,Kurniamitra Duta Sentosa Tbk.
+KMTR,Kirana Megatara Tbk.
+KOBX,Kobexindo Tractors Tbk.
+KOCI,Kokoh Exa Nusantara Tbk.
+KOIN,Kokoh Inti Arebama Tbk
+KOKA,Koka Indonesia Tbk.
+KONI,Perdana Bangun Pusaka Tbk
+KOPI,Mitra Energi Persada Tbk.
+KOTA,DMS Propertindo Tbk.
+KPAL,Steadfast Marine Tbk.
+KPAS,Cottonindo Ariesta Tbk.
+KPIG,MNC Land Tbk.
+KRAH,Grand Kartech Tbk.
+KRAS,Krakatau Steel (Persero) Tbk.
+KREN,Quantum Clovera Investama Tbk.
+KRYA,Bangun Karya Perkasa Jaya Tbk.
+KSIX,Kentanix Supra International T
+KUAS,Ace Oldfields Tbk.
+LABA,Green Power Group Tbk.
+LABS,UBC Medical Indonesia Tbk.
+LAJU,Jasa Berdikari Logistics Tbk.
+LAND,Trimitra Propertindo Tbk.
+LAPD,Leyand International Tbk.
+LCGP,Eureka Prima Jakarta Tbk.
+LCKM,LCK Global Kedaton Tbk.
+LEAD,Logindo Samudramakmur Tbk.
+LFLO,Imago Mulia Persada Tbk.
+LIFE,MSIG Life Insurance Indonesia 
+LINK,Link Net Tbk.
+LION,Lion Metal Works Tbk.
+LIVE,Homeco Victoria Makmur Tbk.
+LMAS,Limas Indonesia Makmur Tbk
+LMAX,Lupromax Pelumas Indonesia Tbk
+LMPI,Langgeng Makmur Industri Tbk.
+LMSH,Lionmesh Prima Tbk.
+LOPI,Logisticsplus International Tb
+LPCK,Lippo Cikarang Tbk
+LPGI,Lippo General Insurance Tbk.
+LPIN,Multi Prima Sejahtera Tbk
+LPKR,Lippo Karawaci Tbk.
+LPLI,Star Pacific Tbk
+LPPF,Matahari Department Store Tbk.
+LPPS,Lenox Pasifik Investama Tbk.
+LRNA,Eka Sari Lorena Transport Tbk.
+LSIP,PP London Sumatra Indonesia Tb
+LTLS,Lautan Luas Tbk.
+LUCK,Sentral Mitra Informatika Tbk.
+LUCY,Lima Dua Lima Tiga Tbk.
+MABA,Marga Abhinaya Abadi Tbk.
+MAGP,Multi Agro Gemilang Plantation
+MAHA,Mandiri Herindo Adiperkasa Tbk
+MAIN,Malindo Feedmill Tbk.
+MAMI,Mas Murni Indonesia Tbk
+MANG,Manggung Polahraya Tbk.
+MAPA,Map Aktif Adiperkasa Tbk.
+MAPB,MAP Boga Adiperkasa Tbk.
+MAPI,Mitra Adiperkasa Tbk.
+MARI,Mahaka Radio Integra Tbk.
+MARK,Mark Dynamics Indonesia Tbk.
+MASA,Multistrada Arah Sarana Tbk.
+MASB,Bank Multiarta Sentosa Tbk.
+MAXI,Maxindo Karya Anugerah Tbk.
+MAYA,Bank Mayapada Internasional Tb
+MBAP,Mitrabara Adiperdana Tbk.
+MBMA,Merdeka Battery Materials Tbk.
+MBSS,Mitrabahtera Segara Sejati Tbk
+MBTO,Martina Berto Tbk.
+MCAS,M Cash Integrasi Tbk.
+MCOL,Prima Andalan Mandiri Tbk.
+MCOR,Bank China Construction Bank I
+MDIA,Intermedia Capital Tbk.
+MDIY,Daya Intiguna Yasa Tbk.
+MDKA,Merdeka Copper Gold Tbk.
+MDKI,Emdeki Utama Tbk.
+MDLN,Modernland Realty Tbk.
+MDRN,Modern Internasional Tbk.
+MEDC,Medco Energi Internasional Tbk
+MEDS,Hetzer Medical Indonesia Tbk.
+MEGA,Bank Mega Tbk.
+MEJA,Harta Djaya Karya Tbk.
+MENN,Menn Teknologi Indonesia Tbk.
+MERK,Merck Tbk.
+META,Nusantara Infrastructure Tbk.
+MFIN,Mandala Multifinance Tbk.
+MFMI,Multifiling Mitra Indonesia Tb
+MGLV,Panca Anugrah Wisesa Tbk.
+MGNA,Magna Investama Mandiri Tbk.
+MGRO,Mahkota Group Tbk.
+MHKI,Multi Hanna Kreasindo Tbk.
+MICE,Multi Indocitra Tbk.
+MIDI,Midi Utama Indonesia Tbk.
+MIKA,Mitra Keluarga Karyasehat Tbk.
+MINA,Sanurhasta Mitra Tbk.
+MIRA,Mitra International Resources 
+MITI,Mitra Investindo Tbk.
+MKAP,Multikarya Asia Pasifik Raya T
+MKNT,Mitra Komunikasi Nusantara Tbk
+MKPI,Metropolitan Kentjana Tbk.
+MKTR,Menthobi Karyatama Raya Tbk.
+MLBI,Multi Bintang Indonesia Tbk.
+MLIA,Mulia Industrindo Tbk
+MLPL,Multipolar Tbk.
+MLPT,Multipolar Technology Tbk.
+MMIX,Multi Medika Internasional Tbk
+MMLP,Mega Manunggal Property Tbk.
+MNCN,Media Nusantara Citra Tbk.
+MOLI,Madusari Murni Indah Tbk.
+MORA,Mora Telematika Indonesia Tbk.
+MPIX,Mitra Pedagang Indonesia Tbk.
+MPMX,Mitra Pinasthika Mustika Tbk.
+MPOW,Megapower Makmur Tbk.
+MPPA,Matahari Putra Prima Tbk.
+MPRO,Maha Properti Indonesia Tbk.
+MPXL,MPX Logistics International Tb
+MRAT,Mustika Ratu Tbk.
+MREI,Maskapai Reasuransi Indonesia 
+MSIE,Multisarana Intan Eduka Tbk.
+MSIN,MNC Digital Entertainment Tbk.
+MSJA,Multi Spunindo Jaya Tbk.
+MSKY,MNC Sky Vision Tbk.
+MSTI,Mastersystem Infotama Tbk.
+MTDL,Metrodata Electronics Tbk.
+MTEL,Dayamitra Telekomunikasi Tbk.
+MTFN,Capitalinc Investment Tbk.
+MTLA,Metropolitan Land Tbk.
+MTMH,Murni Sadar Tbk.
+MTPS,Meta Epsi Tbk.
+MTRA,Mitra Pemuda Tbk.
+MTSM,Metro Realty Tbk.
+MTWI,Malacca Trust Wuwungan Insuran
+MUTU,Mutuagung Lestari Tbk.
+MYOH,Samindo Resources Tbk.
+MYOR,Mayora Indah Tbk.
+MYRX,Hanson International Tbk.
+MYTX,Asia Pacific Investama Tbk.
+NAIK,Adiwarna Anugerah Abadi Tbk.
+NANO,Nanotech Indonesia Global Tbk.
+NASA,Andalan Perkasa Abadi Tbk.
+NASI,Wahana Inti Makmur Tbk.
+NATO,Surya Permata Andalan Tbk.
+NAYZ,Hassana Boga Sejahtera Tbk.
+NCKL,Trimegah Bangun Persada Tbk.
+NELY,Pelayaran Nelly Dwi Putri Tbk.
+NEST,Esta Indonesia Tbk.
+NETV,MDTV Media Technologies Tbk.
+NFCX,NFC Indonesia Tbk.
+NICE,Adhi Kartiko Pratama Tbk.
+NICK,Charnic Capital Tbk.
+NICL,PAM Mineral Tbk.
+NIKL,Pelat Timah Nusantara Tbk.
+NINE,Techno9 Indonesia Tbk.
+NIPS,Nipress Tbk.
+NIRO,City Retail Developments Tbk.
+NISP,Bank OCBC NISP Tbk.
+NOBU,Bank Nationalnobu Tbk.
+NPGF,Nusa Palapa Gemilang Tbk.
+NRCA,Nusa Raya Cipta Tbk.
+NSSS,Nusantara Sawit Sejahtera Tbk.
+NTBK,Nusatama Berkah Tbk.
+NUSA,Sinergi Megah Internusa Tbk.
+NZIA,Nusantara Almazia Tbk.
+OASA,Maharaksa Biru Energi Tbk.
+OBAT,Brigit Biofarmaka Teknologi Tb
+OBMD,OBM Drilchem Tbk.
+OCAP,Onix Capital Tbk.
+OILS,Indo Oil Perkasa Tbk.
+OKAS,Ancora Indonesia Resources Tbk
+OLIV,Oscar Mitra Sukses Sejahtera T
+OMED,Jayamas Medica Industri Tbk.
+OMRE,Indonesia Prima Property Tbk
+OPMS,Optima Prima Metal Sinergi Tbk
+PACK,Abadi Nusantara Hijau Investam
+PADA,Personel Alih Daya Tbk.
+PADI,Minna Padi Investama Sekuritas
+PALM,Provident Investasi Bersama Tb
+PAMG,Bima Sakti Pertiwi Tbk.
+PANI,Pantai Indah Kapuk Dua Tbk.
+PANR,Panorama Sentrawisata Tbk.
+PANS,Panin Sekuritas Tbk.
+PART,Cipta Perdana Lancar Tbk.
+PBID,Panca Budi Idaman Tbk.
+PBRX,Pan Brothers Tbk.
+PBSA,Paramita Bangun Sarana Tbk.
+PCAR,Prima Cakrawala Abadi Tbk.
+PDES,Destinasi Tirta Nusantara Tbk
+PDPP,Primadaya Plastisindo Tbk.
+PEGE,Panca Global Kapital Tbk.
+PEHA,Phapros Tbk.
+PEVE,Penta Valent Tbk.
+PGAS,Perusahaan Gas Negara Tbk.
+PGEO,Pertamina Geothermal Energy Tb
+PGJO,Tourindo Guide Indonesia Tbk.
+PGLI,Pembangunan Graha Lestari Inda
+PGUN,Pradiksi Gunatama Tbk.
+PICO,Pelangi Indah Canindo Tbk
+PIPA,Multi Makmur Lemindo Tbk.
+PJAA,Pembangunan Jaya Ancol Tbk.
+PKPK,Perdana Karya Perkasa Tbk
+PLAN,Planet Properindo Jaya Tbk.
+PLAS,Polaris Investama Tbk
+PLIN,Plaza Indonesia Realty Tbk.
+PMJS,Putra Mandiri Jembar Tbk.
+PMMP,Panca Mitra Multiperdana Tbk.
+PNBN,Bank Pan Indonesia Tbk
+PNBS,Bank Panin Dubai Syariah Tbk.
+PNGO,Pinago Utama Tbk.
+PNIN,Paninvest Tbk.
+PNLF,Panin Financial Tbk.
+PNSE,Pudjiadi & Sons Tbk.
+POLA,Pool Advista Finance Tbk.
+POLI,Pollux Hotels Group Tbk.
+POLL,Pollux Properties Indonesia Tb
+POLU,Golden Flower Tbk.
+POLY,Asia Pacific Fibers Tbk
+POOL,Pool Advista Indonesia Tbk.
+PORT,Nusantara Pelabuhan Handal Tbk
+POSA,Bliss Properti Indonesia Tbk.
+POWR,Cikarang Listrindo Tbk.
+PPGL,Prima Globalindo Logistik Tbk.
+PPRE,PP Presisi Tbk.
+PPRI,Paperocks Indonesia Tbk.
+PPRO,PP Properti Tbk.
+PRAS,Prima Alloy Steel Universal Tb
+PRAY,Famon Awal Bros Sedaya Tbk.
+PRDA,Prodia Widyahusada Tbk.
+PRIM,Royal Prima Tbk.
+PSAB,J Resources Asia Pasifik Tbk.
+PSDN,Prasidha Aneka Niaga Tbk
+PSGO,Palma Serasih Tbk.
+PSKT,Red Planet Indonesia Tbk.
+PSSI,IMC Pelita Logistik Tbk.
+PTBA,Bukit Asam Tbk.
+PTDU,Djasa Ubersakti Tbk.
+PTIS,Indo Straits Tbk.
+PTMP,Mitra Pack Tbk.
+PTMR,Master Print Tbk.
+PTPP,PP (Persero) Tbk.
+PTPS,Pulau Subur Tbk.
+PTPW,Pratama Widya Tbk.
+PTRO,Petrosea Tbk.
+PTSN,Sat Nusapersada Tbk
+PTSP,Pioneerindo Gourmet Internatio
+PUDP,Pudjiadi Prestige Tbk.
+PURA,Putra Rajawali Kencana Tbk.
+PURE,Trinitan Metals and Minerals T
+PURI,Puri Global Sukses Tbk.
+PWON,Pakuwon Jati Tbk.
+PYFA,Pyridam Farma Tbk
+PZZA,Sarimelati Kencana Tbk.
+RAAM,Tripar Multivision Plus Tbk.
+RAFI,Sari Kreasi Boga Tbk.
+RAJA,Rukun Raharja Tbk.
+RALS,Ramayana Lestari Sentosa Tbk.
+RANC,Supra Boga Lestari Tbk.
+RATU,Raharja Energi Cepu Tbk.
+RBMS,Ristia Bintang Mahkotasejati T
+RCCC,Utama Radar Cahaya Tbk.
+RDTX,Roda Vivatex Tbk
+REAL,Repower Asia Indonesia Tbk.
+RELF,Graha Mitra Asia Tbk.
+RELI,Reliance Sekuritas Indonesia T
+RGAS,Kian Santang Muliatama Tbk.
+RICY,Ricky Putra Globalindo Tbk
+RIGS,Rig Tenders Indonesia Tbk.
+RIMO,Rimo International Lestari Tbk
+RISE,Jaya Sukses Makmur Sentosa Tbk
+RMKE,RMK Energy Tbk.
+RMKO,Royaltama Mulia Kontraktorindo
+ROCK,Rockfields Properti Indonesia 
+RODA,Pikko Land Development Tbk.
+RONY,Aesler Grup Internasional Tbk.
+ROTI,Nippon Indosari Corpindo Tbk.
+RSCH,Charlie Hospital Semarang Tbk.
+RSGK,Kedoya Adyaraya Tbk.
+RUIS,Radiant Utama Interinsco Tbk.
+RUNS,Global Sukses Solusi Tbk.
+SAFE,Steady Safe Tbk
+SAGE,Saptausaha Gemilangindah Tbk.
+SAME,Sarana Meditama Metropolitan T
+SAMF,Saraswanti Anugerah Makmur Tbk
+SAPX,Satria Antaran Prima Tbk.
+SATU,Kota Satu Properti Tbk.
+SBAT,Sejahtera Bintang Abadi Textil
+SBMA,Surya Biru Murni Acetylene Tbk
+SCCO,Supreme Cable Manufacturing & 
+SCMA,Surya Citra Media Tbk.
+SCNP,Selaras Citra Nusantara Perkas
+SCPI,Organon Pharma Indonesia Tbk.
+SDMU,Sidomulyo Selaras Tbk.
+SDPC,Millennium Pharmacon Internati
+SDRA,Bank Woori Saudara Indonesia 1
+SEMA,Semacom Integrated Tbk.
+SFAN,Surya Fajar Capital Tbk.
+SGER,Sumber Global Energy Tbk.
+SGRO,Sampoerna Agro Tbk.
+SHID,Hotel Sahid Jaya International
+SHIP,Sillo Maritime Perdana Tbk.
+SICO,Sigma Energy Compressindo Tbk.
+SIDO,Industri Jamu dan Farmasi Sido
+SILO,Siloam International Hospitals
+SIMA,Siwani Makmur Tbk
+SIMP,Salim Ivomas Pratama Tbk.
+SINI,Singaraja Putra Tbk.
+SIPD,Sreeya Sewu Indonesia Tbk.
+SKBM,Sekar Bumi Tbk.
+SKLT,Sekar Laut Tbk.
+SKRN,Superkrane Mitra Utama Tbk.
+SKYB,Northcliff Citranusa Indonesia
+SLIS,Gaya Abadi Sempurna Tbk.
+SMAR,Smart Tbk.
+SMBR,Semen Baturaja Tbk.
+SMCB,Solusi Bangun Indonesia Tbk.
+SMDM,Suryamas Dutamakmur Tbk.
+SMDR,Samudera Indonesia  Tbk.
+SMGA,Sumber Mineral Global Abadi Tb
+SMGR,Semen Indonesia (Persero) Tbk.
+SMIL,Sarana Mitra Luas Tbk.
+SMKL,Satyamitra Kemas Lestari Tbk.
+SMKM,Sumber Mas Konstruksi Tbk.
+SMLE,Sinergi Multi Lestarindo Tbk.
+SMMA,Sinarmas Multiartha Tbk.
+SMMT,Golden Eagle Energy Tbk.
+SMRA,Summarecon Agung Tbk.
+SMRU,SMR Utama Tbk.
+SMSM,Selamat Sempurna Tbk.
+SNLK,Sunter Lakeside Hotel Tbk.
+SOCI,Soechi Lines Tbk.
+SOFA,Boston Furniture Industries Tb
+SOHO,Soho Global Health Tbk.
+SOLA,Xolare RCR Energy Tbk.
+SONA,Sona Topas Tourism Industry Tb
+SOSS,Shield On Service Tbk.
+SOTS,Satria Mega Kencana Tbk.
+SOUL,Mitra Tirta Buwana Tbk.
+SPMA,Suparma Tbk.
+SPRE,Soraya Berjaya Indonesia Tbk.
+SPTO,Surya Pertiwi Tbk.
+SQMI,Wilton Makmur Indonesia Tbk.
+SRAJ,Sejahteraraya Anugrahjaya Tbk.
+SRIL,Sri Rejeki Isman Tbk.
+SRSN,Indo Acidatama Tbk
+SRTG,Saratoga Investama Sedaya Tbk.
+SSIA,Surya Semesta Internusa Tbk.
+SSMS,Sawit Sumbermas Sarana Tbk.
+SSTM,Sunson Textile Manufacture Tbk
+STAA,Sumber Tani Agung Resources Tb
+STAR,Buana Artha Anugerah Tbk.
+STRK,Lovina Beach Brewery Tbk.
+STTP,Siantar Top Tbk.
+SUGI,Sugih Energy Tbk.
+SULI,SLJ Global Tbk.
+SUNI,Sunindo Pratama Tbk.
+SUPR,Solusi Tunas Pratama Tbk.
+SURE,Super Energy Tbk.
+SURI,Maja Agung Latexindo Tbk.
+SWAT,Sriwahana Adityakarta Tbk.
+SWID,Saraswanti Indoland Developmen
+TALF,Tunas Alfin Tbk.
+TAMA,Lancartama Sejati Tbk.
+TAMU,Pelayaran Tamarin Samudra Tbk.
+TAPG,Triputra Agro Persada Tbk.
+TARA,Agung Semesta Sejahtera Tbk.
+TAXI,Express Transindo Utama Tbk.
+TAYS,Jaya Swarasa Agung Tbk.
+TBIG,Tower Bersama Infrastructure T
+TBLA,Tunas Baru Lampung Tbk.
+TBMS,Tembaga Mulia Semanan Tbk.
+TCID,Mandom Indonesia Tbk.
+TCPI,Transcoal Pacific Tbk.
+TDPM,Tianrong Chemicals Industry Tb
+TEBE,Dana Brata Luhur Tbk.
+TECH,Indosterling Technomedia Tbk.
+TELE,Omni Inovasi Indonesia Tbk.
+TFAS,Telefast Indonesia Tbk.
+TFCO,Tifico Fiber Indonesia Tbk.
+TGKA,Tigaraksa Satria Tbk.
+TGRA,Terregra Asia Energy Tbk.
+TGUK,Platinum Wahab Nusantara Tbk.
+TIFA,KDB Tifa Finance Tbk.
+TINS,Timah Tbk.
+TIRA,Tira Austenite Tbk
+TIRT,Tirta Mahakam Resources Tbk
+TKIM,Pabrik Kertas Tjiwi Kimia Tbk.
+TLDN,Teladan Prima Agro Tbk.
+TLKM,Telkom Indonesia (Persero) Tbk
+TMAS,Temas Tbk.
+TMPO,Tempo Intimedia Tbk.
+TNCA,Trimuda Nuansa Citra Tbk.
+TOBA,TBS Energi Utama Tbk.
+TOOL,Rohartindo Nusantara Luas Tbk.
+TOPS,Totalindo Eka Persada Tbk.
+TOSK,Topindo Solusi Komunika Tbk.
+TOTL,Total Bangun Persada Tbk.
+TOTO,Surya Toto Indonesia Tbk.
+TOWR,Sarana Menara Nusantara Tbk.
+TOYS,Sunindo Adipersada Tbk.
+TPIA,Chandra Asri Pacific Tbk.
+TPMA,Trans Power Marine Tbk.
+TRAM,Trada Alam Minera Tbk.
+TRGU,Cerestar Indonesia Tbk.
+TRIL,Triwira Insanlestari Tbk.
+TRIM,Trimegah Sekuritas Indonesia T
+TRIN,Perintis Triniti Properti Tbk.
+TRIO,Trikomsel Oke Tbk.
+TRIS,Trisula International Tbk.
+TRJA,Transkon Jaya Tbk.
+TRON,Teknologi Karya Digital Nusa T
+TRST,Trias Sentosa Tbk.
+TRUE,Triniti Dinamik Tbk.
+TRUK,Guna Timur Raya Tbk.
+TRUS,Trust Finance Indonesia Tbk
+TSPC,Tempo Scan Pacific Tbk.
+TUGU,Asuransi Tugu Pratama Indonesi
+TYRE,King Tire Indonesia Tbk.
+UANG,Pakuan Tbk.
+UCID,Uni-Charm Indonesia Tbk.
+UDNG,Agro Bahari Nusantara Tbk.
+UFOE,Damai Sejahtera Abadi Tbk.
+ULTJ,Ultrajaya Milk Industry & Trad
+UNIC,Unggul Indah Cahaya Tbk.
+UNIQ,Ulima Nitra Tbk.
+UNIT,Nusantara Inti Corpora Tbk
+UNSP,Bakrie Sumatera Plantations Tb
+UNTD,Terang Dunia Internusa Tbk.
+UNTR,United Tractors Tbk.
+UNVR,Unilever Indonesia Tbk.
+URBN,Urban Jakarta Propertindo Tbk.
+UVCR,Trimegah Karya Pratama Tbk.
+VAST,Vastland Indonesia Tbk.
+VERN,Verona Indah Pictures Tbk.
+VICI,Victoria Care Indonesia Tbk.
+VICO,Victoria Investama Tbk.
+VINS,Victoria Insurance Tbk.
+VISI,Satu Visi Putra Tbk.
+VIVA,Visi Media Asia Tbk.
+VKTR,VKTR Teknologi Mobilitas Tbk.
+VOKS,Voksel Electric Tbk.
+VRNA,Mizuho Leasing Indonesia Tbk.
+VTNY,Venteny Fortuna International 
+WAPO,Wahana Pronatural Tbk.
+WEGE,Wijaya Karya Bangunan Gedung T
+WEHA,WEHA Transportasi Indonesia Tb
+WGSH,Wira Global Solusi Tbk.
+WICO,Wicaksana Overseas Internation
+WIDI,Widiant Jaya Krenindo Tbk.
+WIFI,Solusi Sinergi Digital Tbk.
+WIIM,Wismilak Inti Makmur Tbk.
+WIKA,Wijaya Karya (Persero) Tbk.
+WINE,Hatten Bali Tbk.
+WINR,Winner Nusantara Jaya Tbk.
+WINS,Wintermar Offshore Marine Tbk.
+WIRG,WIR ASIA Tbk.
+WMPP,Widodo Makmur Perkasa Tbk.
+WMUU,Widodo Makmur Unggas Tbk.
+WOMF,Wahana Ottomitra Multiartha Tb
+WOOD,Integra Indocabinet Tbk.
+WOWS,Ginting Jaya Energi Tbk.
+WSBP,Waskita Beton Precast Tbk.
+WSKT,Waskita Karya (Persero) Tbk.
+WTON,Wijaya Karya Beton Tbk.
+YELO,Yelooo Integra Datanet Tbk.
+YOII,Asuransi Digital Bersama Tbk.
+YPAS,Yanaprima Hastapersada Tbk
+YULE,Yulie Sekuritas Indonesia Tbk.
+ZATA,Bersama Zatta Jaya Tbk.
+ZBRA,Dosni Roha Indonesia Tbk.
+ZINC,Kapuas Prima Coal Tbk.
+ZONE,Mega Perintis Tbk.
+ZYRX,Zyrexindo Mandiri Buana Tbk.
