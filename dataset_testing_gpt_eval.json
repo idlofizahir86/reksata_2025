@@ -1,0 +1,422 @@
+[
+    {
+        "user_query": "How did PT Steel Pipe Industry of Indonesia perform on January 25, 2023?",
+        "system_response": "25 January 2023, Here are the details of ISSP - Steel Pipe Industry of Indones stock performance:\n1. Opening: IDR 227\n2. Closing: IDR 227\n3. Highest: IDR 229\n4. Lowest:  IDR 223",
+        "reference_responses": [
+            "25 January 2023, Here are the details of ISSP - PT Steel Pipe Industry of Indonesia Tbk stock performance:\n1. Opening: IDR 227\n2. Closing: IDR 227\n3. Highest: IDR 229\n4. Lowest: IDR 223\n5. Key Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "How to avoid pump-and-dump schemes?",
+        "system_response": "Stay away from hype groups and always do your own research.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Stay away from hype groups and always check the fundamentals.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "How do I start investing in the Indonesian stock market?",
+        "system_response": "Open a stock account with a broker, complete the requirements, and start trading.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Open a stock account (Rekening Dana Nasabah) with a licensed broker and start trading through their platform.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Has KIJA stock seen a significant drop?",
+        "system_response": "Here is the condition of KIJA - Kawasan Industri Jababeka Tbk. in the Properties and Real Estate sector with a Moderate Risk Profile.\n\nStock Details:\n1. Return in the last 3 months: 0.04%\n2. Volatility in the last 3 months: 1.69%\n3. Return in the last 6 months: 0.30%\n4. Volatility in the last 6 months: 2.09%\n5. Return in the last 1 year: 0.04%\n6. Volatility in the last 1 year: 2.56%",
+        "reference_responses": [
+            "Here is the condition of KIJA - Kawasan Industri Jababeka Tbk is in the Infrastructures with a Moderate Risk Profile.\nStock Details:\n1. Return in the last 3 months: 0.04%\n2. Volatility in the last 3 months: 1.69%\n3. Return in the last 6 months: 0.30%\n4. Volatility in the last 6 months: 2.09%\n5. Return in the last 1 year: 0.04%\n6. Volatility in the last 1 year: 2.56%\n7. Key Highlights: stocks_aggregation_specific"
+        ]
+    },
+    {
+        "user_query": "Which sectors are known for having stable returns with lower risk?",
+        "system_response": "Consumer Non-Cyclicals, utilities, and healthcare sectors are generally known for stable returns with lower risk.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Consumer Non-Cyclicals, utilities, and healthcare sectors are generally known for stable returns with lower risk.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "What mindset should I have as a beginner investor?",
+        "system_response": "Stay patient, focus on learning, and think long-term.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Patient, disciplined, and always learning.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "How did PT Selamat Sempurna move during trading on July 3, 2023?",
+        "system_response": "03 July 2023, Here are the details of SMSM - Selamat Sempurna Tbk. stock performance:\n1. Opening: IDR 1651\n2. Closing: IDR 1583\n3. Highest: IDR 1687\n4. Lowest:  IDR 1583",
+        "reference_responses": [
+            "03 July 2023, Here are the details of SMSM - PT Selamat Sempurna Tbk stock performance:\n1. Opening: IDR 1651\n2. Closing: IDR 1583\n3. Highest: IDR 1687\n4. Lowest: IDR 1583\n5. Key Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "Where can I see real-time Indonesian stock data?",
+        "system_response": "On broker apps like Stockbit, RTI Business, or directly on IDX.co.id.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "On broker apps like Stockbit, Ajaib, RTI Business, or directly on IDX.co.id.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Is GGRM still worth buying?",
+        "system_response": "Here is the condition of GGRM - Gudang Garam Tbk. in the Consumer Non-Cyclicals sector with a Moderate Risk Profile.\n\nStock Details:\n1. Return in the last 3 months: -0.39%\n2. Volatility in the last 3 months: 1.66%\n3. Return in the last 6 months: -0.26%\n4. Volatility in the last 6 months: 1.78%\n5. Return in the last 1 year: -0.25%\n6. Volatility in the last 1 year: 1.77%",
+        "reference_responses": [
+            "Here is the condition of GGRM - Gudang Garam Tbk is in the Consumer Non-Cyclicals sector with a Moderate Risk Profile.\nStock Details:\n1. Return in the last 3 months: -0.39%\n2. Volatility in the last 3 months: 1.66%\n3. Return in the last 6 months: -0.26%\n4. Volatility in the last 6 months: 1.78%\n5. Return in the last 1 year: -0.25%\n6. Volatility in the last 1 year: 1.77%\n7. Key Highlights: stocks_aggregation_specific"
+        ]
+    },
+    {
+        "user_query": "What is the best way to learn stock investing in Indonesia?",
+        "system_response": "Start with books, join communities, follow market updates, and practice with small investments.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Start small, read books, follow IDX updates, join communities, and learn from experience.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "What are the main risks of investing in Indonesian stocks?",
+        "system_response": "Market risk, sector risk, currency risk, and company-specific risk.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Market volatility, currency risk, political risk, and company-specific risks.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "How volatile is UNVR stock in the last 3 months?",
+        "system_response": "Here is the condition of UNVR - Unilever Indonesia Tbk. in the Consumer Non-Cyclicals sector with a Moderate Risk Profile.\n\nStock Details:\n1. Return in the last 3 months: -0.26%\n2. Volatility in the last 3 months: 2.47%\n3. Return in the last 6 months: -0.21%\n4. Volatility in the last 6 months: 2.47%\n5. Return in the last 1 year: -0.23%\n6. Volatility in the last 1 year: 2.25%",
+        "reference_responses": [
+            "Here is the condition of UNVR - Unilever Indonesia Tbk is in the Consumer Non-Cyclicals sector with a Moderate Risk Profile.\nStock Details:\n1. Return in the last 3 months: -0.26%\n2. Volatility in the last 3 months: 2.47%\n3. Return in the last 6 months: -0.21%\n4. Volatility in the last 6 months: 2.47%\n5. Return in the last 1 year: -0.23%\n6. Volatility in the last 1 year: 2.25%\n7. Key Highlights: stocks_aggregation_specific"
+        ]
+    },
+    {
+        "user_query": "What is the best time to invest in stocks?",
+        "system_response": "Long-term investments generally outperform short-term ones. The best time to invest is when you have done your research and have the financial capacity to hold your investments.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Long-term investing is generally better than trying to time the market.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Is GOTO showing positive momentum lately?",
+        "system_response": "Here is the condition of GOTO - GoTo Gojek Tokopedia Tbk. in the Technology sector with a Moderate Risk Profile.\n\nStock Details:\n1. Return in the last 3 months: 0.48%\n2. Volatility in the last 3 months: 4.00%\n3. Return in the last 6 months: 0.30%\n4. Volatility in the last 6 months: 3.94%\n5. Return in the last 1 year: -0.02%\n6. Volatility in the last 1 year: 4.52%",
+        "reference_responses": [
+            "Here is the condition of GOTO - Gojek Tokopedia Tbk is in the Technology sector with a Moderate Risk Profile.\nStock Details:\n1. Return in the last 3 months: 0.48%\n2. Volatility in the last 3 months: 4.00%\n3. Return in the last 6 months: 0.30%\n4. Volatility in the last 6 months: 3.94%\n5. Return in the last 1 year: -0.02%\n6. Volatility in the last 1 year: 4.52%\n7. Key Highlights: stocks_aggregation_specific"
+        ]
+    },
+    {
+        "user_query": "Provide a technical review of PT Wijaya Karya Beton (WTON) on June 13, 2023.",
+        "system_response": "13 June 2023, Here are the details of WTON - Wijaya Karya Beton Tbk. stock performance:\n1. Opening: IDR 155\n2. Closing: IDR 151\n3. Highest: IDR 159\n4. Lowest:  IDR 148",
+        "reference_responses": [
+            "13 June 2023, Here are the details of WTON - PT Wijaya Karya Beton Tbk stock performance:\n1. Opening: IDR 155\n2. Closing: IDR 151\n3. Highest: IDR 159\n4. Lowest: IDR 148\n5. Key Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "Review the daily trend of PT MAP Aktif Adiperkasa on April 17, 2023.",
+        "system_response": "17 April 2023, Here are the details of MAPA - Map Aktif Adiperkasa Tbk. stock performance:\n1. Opening: IDR 423\n2. Closing: IDR 420\n3. Highest: IDR 428\n4. Lowest:  IDR 420",
+        "reference_responses": [
+            "17 April 2023, Here are the details of MAPA - PT MAP Aktif Adiperkasa Tbk stock performance:\n1. Opening: IDR 423\n2. Closing: IDR 420\n3. Highest: IDR 428\n4. Lowest: IDR 420\n5. Key Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "Which healthcare stocks have stable growth potential?",
+        "system_response": "I recommend the CBDK - Cordova Selaras Tbk. because CBDK has experienced increasing return in the last 1 year and CBDK has moderate risk in the last 3 months in the Healthcare sector with notes:\n1. Profile Risk: Moderate\n2. Sector: Healthcare\n3. Return in latest 1 Month: 0,14%",
+        "reference_responses": [
+            "I recommend the DVLA - Darya-Varia Laboratoria Tbk. because DVLA has experienced increasing progress in the last 1 year and has low risk in the Healthcare sector with notes:\n1. Profile Risk: Low\n2. Sector: Healthcare\n3. Return in latest 1 Month: 0,11%\n4. Key Highlights: stocks_aggregation"
+        ]
+    },
+    {
+        "user_query": "Did PT Indofood CBP Sukses Makmur record a significant drop on June 15, 2023?",
+        "system_response": "15 Jun 2023, Here are the details of ICBP - Indofood CBP Sukses Makmur Tbk stock performance:\n1. Opening: IDR 10924\n2. Closing: IDR 10924\n3. Highest: IDR 10948\n4. Lowest:  IDR 10852\nKey Highlights: stocks_daily",
+        "reference_responses": [
+            "15 June 2023, Here are the details of INDF - PT Indofood CBP Sukses Makmur Tbk stock performance:\n1. Opening: IDR 6883\n2. Closing: IDR 6883\n3. Highest: IDR 6906\n4. Lowest: IDR 6837\n5. Key Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "How was PT Kimia Farma's (KAEF) movement on May 16, 2023?",
+        "system_response": "16 May 2023, Here are the details of KAEF - Kimia Farma Tbk. stock performance:\n1. Opening: IDR 845\n2. Closing: IDR 855\n3. Highest: IDR 875\n4. Lowest:  IDR 835\nKey Highlights: stocks_daily",
+        "reference_responses": [
+            "16 May 2023, Here are the details of KAEF - PT Kimia Farma Tbk stock performance:\n1. Opening: IDR 845\n2. Closing: IDR 855\n3. Highest: IDR 875\n4. Lowest: IDR 835\n5. Key Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "What was the market reaction to PT Indosat (ISAT) on May 10, 2023?",
+        "system_response": "Here is the summary of the ISAT stock performance on 10 May 2023:\n1. Opening: Rp1820\n2. Closing: Rp1820\n3. Highest: Rp1879\n4. Lowest: Rp1802\nKey Highlights: stocks_daily",
+        "reference_responses": [
+            "10 May 2023, Here are the details of ISAT - PT Indosat Tbk stock performance:\n1. Opening: IDR 1820\n2. Closing: IDR 1820\n3. Highest: IDR 1879\n4. Lowest: IDR 1802\n5. Key Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "Which stocks offer low risk but stable returns?",
+        "system_response": "Stocks like BBCA (Bank Central Asia) and UNVR (Unilever Indonesia) fit this profile.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "BBRI and KLBF have historically provided consistent dividends and moderate growth with low risk.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Why do investors panic during crashes?",
+        "system_response": "Emotions, fear of loss, and herd mentality drive panic selling.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Emotional reactions to fear and uncertainty\u2014avoid it by focusing long-term.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Which stocks have the best dividend yields with the least amount of risk?",
+        "system_response": "There is no such thing as zero risk, but BBCA and BBRI are known for their consistent dividends and relatively low volatility.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "BBRI and TLKM offer reliable dividend yields with relatively low risk.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "What is the best way to learn stock investing in Indonesia?",
+        "system_response": "Start small, read books, follow IDX updates, join communities, and learn from experience.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Start small, read books, follow IDX updates, join communities, and learn from experience.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "What are LQ45 and IDX30?",
+        "system_response": "They are indices of 45 and 30 most liquid and fundamentally strong stocks in IDX.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "They are indices of 45 and 30 most liquid and fundamentally strong stocks in IDX.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Which infrastructure firms have the strongest outlook for long-term expansion?",
+        "system_response": "I recommend AEGS - Anugerah Spareparts Sejahtera  from the Consumer Cyclicals sector. This stock has the highest return in the latest 1 year and matches a Tinggi risk profile with notes:\n1. Profile Risk: Tinggi\n2. Sector: Consumer Cyclicals\n3. Return in latest 1y: 0.0006%",
+        "reference_responses": [
+            "I recommend the HADE - Himalaya Energi Perkasa Tbk. because HADE has a highest return in the last 1 year in the Infrastructures sector with notes:\n1. Profile Risk: High\n2. Sector: Infrastructures\n3. Return in latest 3 Month: 1,97%\n4. Key Highlights: stocks_aggregation"
+        ]
+    },
+    {
+        "user_query": "Did PT Bank Pan Indonesia rise above resistance on August 15, 2023?",
+        "system_response": "15 August 2023, Here are the details of PNBN - Bank Pan Indonesia Tbk stock performance:\n1. Opening: IDR 1360\n2. Closing: IDR 1370\n3. Highest: IDR 1370\n4. Lowest:  IDR 1345\nKey Highlights: stocks_daily",
+        "reference_responses": [
+            "15 August 2023, Here are the details of PNBN - PT Bank Pan Indonesia Tbk stock performance:\n1. Opening: IDR 1360\n2. Closing: IDR 1370\n3. Highest: IDR 1370\n4. Lowest: IDR 1345\n5. Key Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "Are there any stocks with low correlation to the broader market?",
+        "system_response": "Stocks like TINS or BBCA have shown low correlation to the broader market in certain periods.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Some niche healthcare or agriculture stocks can show lower correlation in certain cycles.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "How has Astra Agro Lestari performed recently on the IDX?",
+        "system_response": "I recommend Astra Agro Lestari Tbk. (AALI) from the Consumer Non-Cyclicals sector with a return in the latest 3 months: -0.08%\nHere is the condition of AALI - Astra Agro Lestari Tbk is a company that focuses on palm oil plantation and production in Indonesia. The following is the details stock condition: \n1. Return in the last 3 months: -0.08%\n2. Volatility in the last 3 months: 0.0151%\n3. Return in the last 6 months: -0.0002%\n4. Volatility in the last 6 months: 0.0172%\n5. Return in the last 1 year: -0.0007%\n6. Volatility in the last 1 year: 0.0162%\n7. Key Highlights: stocks_aggregation\nNotes:\n1. Profile Risk: Sedang\n2. Sector: Consumer Non-Cyclicals\n3. Return in latest 3m: -0.08%",
+        "reference_responses": [
+            "Here is the condition of AALI - Astra Agro Lestari Tbk is in the Consumer Non-Cyclicals sector with a Medium Risk Profile.\nStock Details:\n1. Return in the last 3 months: -0.08%\n2. Volatility in the last 3 months: 1.51%\n3. Return in the last 6 months: -0.02%\n4. Volatility in the last 6 months: 1.72%\n5. Return in the last 1 year: -0.07%\n6. Volatility in the last 1 year: 1.62%\n7. Key Highlights: stocks_aggregation_specific"
+        ]
+    },
+    {
+        "user_query": "What are some basic materials stocks worth keeping an eye on?",
+        "system_response": "I recommend the AGII - Samator Indo Gas Tbk. because AGII has a highest return in the latest 1 month in the Basic Materials sector with notes:\n1. Profile Risk: Sedang\n2. Sector: Basic Materials\n3. Return in latest 1m: -0.0031%",
+        "reference_responses": [
+            "I recommend the PACK - Abadi Nusantara Hijau Investam because PACK has a highest return in the latest 1 month in the Basic Materials sector with notes:\n1. Profile Risk: High\n2. Sector: Basic Materials\n3. Return in latest 3 Month: 7,07%\n4. Key Highlights: stocks_aggregation"
+        ]
+    },
+    {
+        "user_query": "How do I know if a stock pays dividends?",
+        "system_response": "Check the company's dividend history and announcements on IDX or broker apps.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Check the company's dividend history and announcements on IDX or broker apps.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Which stocks are safe against inflation?",
+        "system_response": "Consumer Non-Cyclicals, energy, and commodities stocks are generally safe against inflation.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Consumer goods and commodities stocks like INDF (Indofood) or MEDC (Medco Energi) may hedge inflation.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Was PT Indika Energy stock oversold on March 14, 2024?",
+        "system_response": "14 March 2024, Here are the details of INDY - Indika Energy Tbk. stock performance:\n1. Opening: IDR 1360\n2. Closing: IDR 1309\n3. Highest: IDR 1360\n4. Lowest:  IDR 1280",
+        "reference_responses": [
+            "14 March 2024, Here are the details of INDY - PT Indika Energy Tbk stock performance:\n1. Opening: IDR 1360\n2. Closing: IDR 1309\n3. Highest: IDR 1360\n4. Lowest: IDR 1280\n5. Key Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "What are the safest stocks during uncertain market conditions?",
+        "system_response": "Defensive stocks like UNVR, ICBP, and KLBF are considered safe during uncertain market conditions.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Defensive and large-cap stocks such as BBCA, UNVR, and ICBP are considered safe during uncertainty.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Which technology stocks are considered undervalued?",
+        "system_response": "I recommend the AEGS - Anugerah Spareparts Sejahtera  because AEGS has a highest return in the last 1 year in the Consumer Cyclicals sector with notes:\n1. Profile Risk: Tinggi\n2. Sector: Consumer Cyclicals\n3. Return in latest 3 Month: -0.0014%",
+        "reference_responses": [
+            "I recommend the NINE - Techno9 Indonesia Tbk. This stocks stands out because NINE Have Highest Return in latest 1 Month with notes:\n1. Profile Risk: High\n2. Sector: Technology\n3. Return in latest 3 Month: 5,65%\n4. Key Highlights: stocks_aggregation"
+        ]
+    },
+    {
+        "user_query": "Which stocks are good for conservative investors?",
+        "system_response": "TLKM, BBCA, and ASII are suitable for conservative investors due to their stability and strong fundamentals.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Blue chip stocks like BBCA, BBRI (Bank Rakyat Indonesia), and TLKM are ideal for conservative profiles.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Is UNTR a good stock for long-term investment?",
+        "system_response": "Here is the condition of GOOD - Garudafood Putra Putri Jaya Tb in the Consumer Non-Cyclicals sector with a Low Risk Profile.\n\nStock Details:\n1. Return in the last 3 months: 0.11%\n2. Volatility in the last 3 months: 2.65%\n3. Return in the last 6 months: 0.01%\n4. Volatility in the last 6 months: 2.15%\n5. Return in the last 1 year: -0.03%\n6. Volatility in the last 1 year: 1.73%",
+        "reference_responses": [
+            "Here is the condition of UNTR - United Tractors Tbk is in the Industrials sector with a Moderate Risk Profile.\nStock Details:\n1. Return in the last 3 months: -0.01%\n2. Volatility in the last 3 months: 1.55%\n3. Return in the last 6 months: 0.07%\n4. Volatility in the last 6 months: 1.53%\n5. Return in the last 1 year: 0.05%\n6. Volatility in the last 1 year: 1.58%\n7. Key Highlights: stocks_aggregation_specific"
+        ]
+    },
+    {
+        "user_query": "What's the difference between trading and investing?",
+        "system_response": "Trading is short-term, while investing is long-term based on fundamentals.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Trading is short-term; investing is long-term based on fundamentals.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "What is RSI (Relative Strength Index)?",
+        "system_response": "A technical indicator to measure if a stock is overbought or oversold.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "A technical indicator to measure if a stock is overbought or oversold.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Are small-cap stocks riskier than large-cap stocks?",
+        "system_response": "Generally, yes. Small-caps tend to have higher volatility and less liquidity.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Generally, yes \u2014 small caps tend to have higher volatility and less market liquidity.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "What's the difference between RDN and securities account?",
+        "system_response": "RDN is a bank account for stock transactions; the securities account holds your stocks.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "RDN is a bank account for stock transactions; the securities account holds your stocks.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Is PGAS expected to continue its upward trend?",
+        "system_response": "Here is the condition of PGAS - Perusahaan Gas Negara Tbk. in the Energy sector with a Moderate Risk Profile.\n\nStock Details:\n1. Return in the last 3 months: 0.13%\n2. Volatility in the last 3 months: 1.97%\n3. Return in the last 6 months: 0.16%\n4. Volatility in the last 6 months: 1.89%\n5. Return in the last 1 year: 0.10%\n6. Volatility in the last 1 year: 1.90%",
+        "reference_responses": [
+            "Here is the condition of PGAS - Perusahaan Gas Negara Tbk is in the Energy sector with a Moderate Risk Profile.\nStock Details:\n1. Return in the last 3 months: 0.13%\n2. Volatility in the last 3 months: 1.97%\n3. Return in the last 6 months: 0.16%\n4. Volatility in the last 6 months: 1.89%\n5. Return in the last 1 year: 0.10%\n6. Volatility in the last 1 year: 1.90%\n7. Key Highlights: stocks_aggregation_specific"
+        ]
+    },
+    {
+        "user_query": "Is ASII a good long-term investment?",
+        "system_response": "Here is the condition of ASII - Astra International Tbk. in the Industrials sector with a Moderate Risk Profile.\n\nStock Details:\n1. Return in the last 3 months: -0.00%\n2. Volatility in the last 3 months: 1.70%\n3. Return in the last 6 months: 0.04%\n4. Volatility in the last 6 months: 1.75%\n5. Return in the last 1 year: -0.03%\n6. Volatility in the last 1 year: 1.65%",
+        "reference_responses": [
+            "Here is the condition of ASII - Astra International Tbk is in the Industrials sector with a Moderate Risk Profile.\nStock Details:\n1. Return in the last 3 months: 0.01%\n2. Volatility in the last 3 months: 1.70%\n3. Return in the last 6 months: 0.04%\n4. Volatility in the last 6 months: 1.75%\n5. Return in the last 1 year: -0.03%\n6. Volatility in the last 1 year: 1.65%\n7. Key Highlights: stocks_aggregation_specific"
+        ]
+    },
+    {
+        "user_query": "ICBP stock has good returns, is it worth buying?",
+        "system_response": "Here is the condition of GOOD - Garudafood Putra Putri Jaya Tb in the Consumer Non-Cyclicals sector with a Low Risk Profile.\n\nStock Details:\n1. Return in the last 3 months: 0.11%\n2. Volatility in the last 3 months: 2.65%\n3. Return in the last 6 months: 0.01%\n4. Volatility in the last 6 months: 2.15%\n5. Return in the last 1 year: -0.03%\n6. Volatility in the last 1 year: 1.73%",
+        "reference_responses": [
+            "Here is the condition of ICBP - Indofood CBP Sukses Makmur Tbk is in the Consumer Non-Cyclicals sector with a Low Risk Profile.\nStock Details:\n1. Return in the last 3 months: 0.02%\n2. Volatility in the last 3 months: 1.77%\n3. Return in the last 6 months: 0.06%\n4. Volatility in the last 6 months: 1.76%\n5. Return in the last 1 year: 0.02%\n6. Volatility in the last 1 year: 1.69%\n7. Key Highlights: stocks_aggregation_specific"
+        ]
+    },
+    {
+        "user_query": "How did United Tractors (UNTR) perform on February 20, 2023?",
+        "system_response": "20 February 2023, Here are the details of UNTR - United Tractors Tbk. stock performance:\n1. Opening: IDR 17278\n2. Closing: IDR 17438\n3. Highest: IDR 17438\n4. Lowest:  IDR 17064",
+        "reference_responses": [
+            "20 February 2023, Here are the details of UNTR - United Tractors Tbk. stock performance:\n1. Opening: IDR 17278\n2. Closing: IDR 17438\n3. Highest: IDR 17438\n4. Lowest: IDR 17064\n5. Key Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "What was the Bollinger Bands status for PT Bank Panin Syariah on March 22, 2023?",
+        "system_response": "No data found for date 2023-03-22.",
+        "reference_responses": [
+            "22 March 2023, There is no available trading data for PNBS - PT Bank Panin Syariah Tbk, which could be due to a market holiday or absence of recorded transactions.\nKey Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "How can I control emotions while trading?",
+        "system_response": "Use a strategy, set targets, and stick to your risk tolerance.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Use a strategy, set targets, and stick to your risk tolerance.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Which healthcare sector stocks have long-term prospects?",
+        "system_response": "I recommend AEGS - Anugerah Spareparts Sejahtera  because AEGS has experienced increasing progress in the last 1 year and has low risk in the Consumer Cyclicals sector with notes:\n1. Profile Risk: Tinggi\n2. Sector: Consumer Cyclicals\n3. Return in latest 3 Month: -0.0014%",
+        "reference_responses": [
+            "I recommend DVLA - Darya-Varia Laboratoria Tbk. because DVLA has experienced increasing progress in the last 1 year and has low risk in the Healthcare sector with notes:\n1. Profile Risk: Low\n2. Sector: Healthcare\n3. Return in latest 1 Month: 0,11%\n4. Key Highlights: stocks_aggregation"
+        ]
+    },
+    {
+        "user_query": "Are energy sector stocks less risky in the current market?",
+        "system_response": "Energy sector stocks may have lower risk due to rising commodity prices, but they are still influenced by global market conditions.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "It depends on oil prices and regulation; currently, renewable energy-related stocks show growing stability.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Which transportation sector stocks are worth buying right now?",
+        "system_response": "I recommend the AADI - Adaro Andalan Indonesia Tbk. because AADI has a highest return in the latest 1 month in the Energy sector with notes:\n1. Profile Risk: Tinggi\n2. Sector: Energy\n3. Return in latest 1m: -0.41%",
+        "reference_responses": [
+            "I recommend the CMPP - AirAsia Indonesia Tbk. because CMPP has a highest return in the latest 1 month in the Transportation sector with notes:\n1. Profile Risk: Moderate\n2. Sector: Transportation and Logistic\n3. Return in latest 1 Month: 0,92%\n4. Key Highlights: stocks_aggregation"
+        ]
+    },
+    {
+        "user_query": "What are some of the leading stocks in the basic materials sector right now?",
+        "system_response": "I recommend AGII - Samator Indo Gas Tbk. because AGII has the highest return in the latest 1 month in the Basic Materials sector with notes:\n1. Profile Risk: Sedang\n2. Sector: Basic Materials\n3. Return in latest 1m: -0.0031%",
+        "reference_responses": [
+            "I recommend the PACK - Abadi Nusantara Hijau Investam because PACK has a highest return in the latest 1 month in the Basic Materials sector with notes:\n1. Profile Risk: High\n2. Sector: Basic Materials\n3. Return in latest 3 Month: 7,07%\n4. Key Highlights: stocks_aggregation"
+        ]
+    },
+    {
+        "user_query": "Analyze PT Tunas Baru Lampung stock on September 12, 2023.",
+        "system_response": "12 September 2023, Here are the details of TBLA - Tunas Baru Lampung Tbk. stock performance:\n1. Opening: IDR 746\n2. Closing: IDR 741\n3. Highest: IDR 746\n4. Lowest:  IDR 732\nKey Highlights: stocks_daily",
+        "reference_responses": [
+            "12 September 2023, Here are the details of TBLA - PT Tunas Baru Lampung Tbk stock performance:\n1. Opening: IDR 746\n2. Closing: IDR 741\n3. Highest: IDR 746\n4. Lowest: IDR 732\n5. Key Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "What is the minimum age to open a stock account in Indonesia?",
+        "system_response": "17 years old with a valid ID.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "17 years old with a valid ID.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Can I invest in sharia-compliant stocks in Indonesia?",
+        "system_response": "Yes, look for stocks listed under the IDX Islamic section.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Yes, refer to the ISSI (Indeks Saham Syariah Indonesia).\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "What property and real estate stocks are known for offering high investment returns?",
+        "system_response": "I recommend the CBDK - Bangun Kosambi Sukses Tbk. because CBDK has a highest return in the latest 1 month in the Properties and Real Estate sector with notes:\n1. Profile Risk: High\n2. Sector: Properties and Real Estate\n3. Return in latest 3 Month: 1,34%",
+        "reference_responses": [
+            "I recommend the CBDK - Bangun Kosambi Sukses Tbk. because CBDK has a highest return in the latest 1 month in the Properties and Real Estate sector with notes:\n1. Profile Risk: High\n2. Sector: Properties and Real Estate\n3. Return in latest 3 Month: 6,34%\n4. Key Highlights: stocks_aggregation"
+        ]
+    },
+    {
+        "user_query": "Analyze PT Catur Sentosa Adiprana stock on June 5, 2023.",
+        "system_response": "05 June 2023, Here are the details of CSAP - Catur Sentosa Adiprana Tbk. stock performance:\n1. Opening: IDR 658\n2. Closing: IDR 677\n3. Highest: IDR 677\n4. Lowest:  IDR 648",
+        "reference_responses": [
+            "05 June 2023, Here are the details of CSAP - PT Catur Sentosa Adiprana Tbk stock performance:\n1. Opening: IDR 658\n2. Closing: IDR 677\n3. Highest: IDR 677\n4. Lowest: IDR 648\n5. Key Highlights: stocks_daily"
+        ]
+    },
+    {
+        "user_query": "Are there stocks with medium risk but high returns?",
+        "system_response": "Stocks like BBRI or KLBF can offer a balance of risk and return in the medium term.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "ASII (Astra International) and BBNI (Bank Negara Indonesia) strike a balance between medium risk and strong return potential.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "I'm looking for long-term investments with medium risk, any recommendations?",
+        "system_response": "Consider BBCA (Bank Central Asia) or KLBF (Kalbe Farma) \u2014 both are established with moderate volatility and long-term growth potential.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "Consider BBCA (Bank Central Asia) or UNVR (Unilever Indonesia) \u2014 both offer medium risk and long-term growth potential.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "Which high-risk stocks are recommended for rapid growth?",
+        "system_response": "I recommend AEGS - Anugerah Spareparts Sejahtera  because AEGS has the highest return in the latest 1 month in the Consumer Cyclicals sector with notes:\n1. Profile Risk: Tinggi\n2. Sector: Consumer Cyclicals\n3. Return in latest 1m: -0.0043%",
+        "reference_responses": [
+            "Tech sector stocks like BUKA (Bukalapak) and GOTO can be considered for aggressive growth strategies.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    },
+    {
+        "user_query": "What is a stock split?",
+        "system_response": "A stock split increases the number of shares in a company while lowering the price per share, maintaining the market cap.\nFeel free to ask further questions or find out stock details in the next question.",
+        "reference_responses": [
+            "A stock split increases the number of shares while reducing the price per share, keeping market cap unchanged.\nFeel free to ask further questions or find out stock details in the next question.\nKey Highlights: stocks_common"
+        ]
+    }
+]
